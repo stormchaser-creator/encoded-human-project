@@ -30,8 +30,8 @@ const pillars = [
 const trustItems = [
   {
     label: "Primary Investigator",
-    value: "Eric Whitney MD",
-    sub: "ORCID verified",
+    value: "Eric Whitney, DO",
+    sub: "Board-Certified Neurosurgeon",
   },
   {
     label: "Knowledge Base",

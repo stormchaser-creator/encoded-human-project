@@ -74,37 +74,57 @@ export default function AboutPage() {
           <div className="space-y-4">
             <div>
               <h3 className="font-serif text-xl font-semibold text-[var(--foreground)]">
-                Eric Whitney, MD
+                Dr. Eric Whitney, DO
               </h3>
-              <p className="text-sm text-crimson font-mono mt-1">
-                ORCID: 0000-0000-0000-0000
+              <p className="text-sm text-[var(--muted-foreground)] font-mono mt-1">
+                Board-Certified Neurosurgeon · American Osteopathic Board of Surgery
               </p>
             </div>
 
             <div className="space-y-3 text-[var(--muted-foreground)] leading-relaxed">
               <p>
-                Eric Whitney is a physician whose work spans clinical medicine,
-                systems thinking, and the intersection of consciousness research
-                with biological science. His practice is grounded in the
-                recognition that human health cannot be fully understood through
-                any single domain of analysis.
+                Eric Whitney is a board-certified neurosurgeon with clinical
+                training from Arrowhead Regional Medical Center and Desert
+                Regional Medical Center, and a Doctor of Osteopathic Medicine
+                from Liberty University College of Osteopathic Medicine. His
+                published research spans traumatic brain injury, cerebral
+                aneurysms, deep brain stimulation, and the neurological effects
+                of music.
               </p>
               <p>
-                The Encoded Human Project emerged from years of clinical
-                observation that standard frameworks — psychological, biological,
-                or spiritual — each capture part of the picture but fail to
-                account for how the layers interact. This project is an attempt
-                to build the integrated model that was missing.
+                Before medicine, he lived distinctly different lives: seven
+                years in Buenos Aires as a missionary and pastor (he is fluent
+                in Spanish), founder of a software company specializing in
+                online education, and a career in the energy sector as a trader,
+                market analyst, and risk manager. Those experiences gave him a
+                ground-level understanding of identity reconstruction that purely
+                surgical training rarely provides.
+              </p>
+              <p>
+                Over his clinical career, Eric identified a consistent gap:
+                patients with excellent surgical outcomes were still struggling
+                emotionally, cognitively, and existentially in ways no one had
+                prepared them for. That observation became the catalyst for{" "}
+                <em>Still You</em> (his recovery guide series) and, ultimately,
+                The Encoded Human Project — an attempt to synthesize biomedical
+                science, consciousness studies, and clinical observation into a
+                rigorous, integrated framework.
+              </p>
+              <p>
+                He is married to Dr. Paris Whitney, a longevity and concierge
+                medicine physician. They are parents of four and are based in
+                Southern California.
               </p>
             </div>
 
             <div className="flex flex-wrap gap-3 pt-2">
               {[
-                "Clinical Medicine",
-                "Systems Biology",
+                "Neurosurgery",
+                "Traumatic Brain Injury",
+                "Deep Brain Stimulation",
                 "Consciousness Research",
-                "Trauma & Nervous System",
-                "Epigenetics",
+                "Cerebral Aneurysms",
+                "Neurological Effects of Music",
               ].map((area) => (
                 <span
                   key={area}
