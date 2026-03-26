@@ -5,7 +5,7 @@ const pillars = [
     icon: "⬡",
     title: "Framework",
     description:
-      "A structured model for how biological, psychological, and consciousness-level patterns layer and interact. Not metaphor — operational architecture.",
+      "A structural model of the human system across three vessels, ten components, eight operations, and three densities of analysis. Not metaphor — operational architecture.",
     href: "/framework",
     tag: "Model",
   },
@@ -13,7 +13,7 @@ const pillars = [
     icon: "◎",
     title: "Research",
     description:
-      "Peer-reviewed findings, synthesis documents, and original analysis. Every claim carries an epistemic ceiling badge: FACT, HYPOTHESIS, or INTERPRETATION.",
+      "Peer-reviewed findings, synthesis documents, and original analysis. Every claim carries an epistemic ceiling badge: FACT, HYPOTHESIS, INTERPRETATION, or SPECULATION.",
     href: "/research",
     tag: "Evidence",
   },
@@ -30,8 +30,8 @@ const pillars = [
 const trustItems = [
   {
     label: "Primary Investigator",
-    value: "Eric Whitney MD",
-    sub: "ORCID verified",
+    value: "Eric Whitney, DO",
+    sub: "Osteopathic physician",
   },
   {
     label: "Knowledge Base",
@@ -44,9 +44,9 @@ const trustItems = [
     sub: "open access",
   },
   {
-    label: "Epistemic Standards",
-    value: "Tagged claims",
-    sub: "every assertion",
+    label: "AI Disclosed",
+    value: "Built with Pearl",
+    sub: "transparent AI use",
   },
 ];
 
@@ -71,16 +71,22 @@ export default function HomePage() {
             </h1>
 
             <p className="text-xl text-[var(--muted-foreground)] leading-relaxed mb-10 max-w-2xl">
-              Open research into how biological, psychological, and
-              consciousness-level patterns interact in the human system.
+              An open research project mapping how the human body actually works
+              — across biology, consciousness, and lived experience — and
+              building tools to read the difference between original design and
+              what got installed on top.
             </p>
 
             {/* Hook */}
             <div className="border-l-2 border-crimson pl-6 mb-12">
               <p className="text-lg text-[var(--foreground)] font-serif italic leading-relaxed">
-                Your body is running code. Some of it is original. Some of it
-                was installed. We&apos;re building the tools to tell the
-                difference.
+                Your body is a light machine. It arrived with a design — a
+                specific pattern of how you process, regulate, defend, restore,
+                and eliminate. Before you could understand that design, life
+                wrote over parts of it. Family, culture, trauma, adaptation.
+                Most of what people call personality is a mixture of original
+                encoding and accumulated installation. We&apos;re building the
+                science to distinguish one from the other.
               </p>
             </div>
 
@@ -136,8 +142,61 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Three pillars */}
+      {/* Why This Matters */}
       <section className="max-w-6xl mx-auto px-6 py-24">
+        <p className="text-xs font-mono text-crimson uppercase tracking-widest mb-6">
+          Why this matters
+        </p>
+        <div className="max-w-3xl space-y-6 text-[var(--foreground)] text-lg leading-relaxed">
+          <p>
+            Medicine treats organs. Psychology treats minds. Spirituality treats
+            souls. Nobody treats the whole system — because nobody has a map of
+            the whole system.
+          </p>
+          <p className="font-serif text-xl font-medium">
+            The Encoded Human is building that map.
+          </p>
+          <p className="text-[var(--muted-foreground)]">
+            We start with biology — 519,000 curated research entries spanning
+            every major physiological operation from receptor-level signal
+            transduction to circadian regulation to immune surveillance. We tag
+            every claim with its epistemic status: peer-reviewed fact, framework
+            interpretation, or working hypothesis. Nothing is hidden. Nothing is
+            inflated.
+          </p>
+          <p className="text-[var(--muted-foreground)]">
+            Then we ask a question no single discipline asks: is this pattern
+            original to the person&apos;s design, or was it installed by
+            circumstance?
+          </p>
+          <p className="text-[var(--muted-foreground)]">
+            A child inherits their microbiome from their mother&apos;s birth
+            canal. They inherit stress-response set points from their
+            family&apos;s nervous system. They inherit beliefs from their
+            culture, coping strategies from their developmental environment, and
+            epigenetic markers from ancestors they never met. By adulthood, the
+            original signal is buried under layers of installation — some
+            useful, some not, most invisible.
+          </p>
+          <p className="text-[var(--muted-foreground)]">
+            We are building the diagnostic instruments and the research
+            framework to read those layers. Not to judge them. To see them
+            clearly enough that the person can choose what stays and what goes.
+          </p>
+          <div className="border-l-2 border-[var(--border)] pl-6 mt-8">
+            <p className="text-[var(--muted-foreground)] text-base">
+              This is not alternative medicine. This is not wellness culture.
+              This is a serious attempt to build an integrated model of the
+              human system that holds biological rigor and consciousness
+              research in the same frame — without pretending either one is the
+              whole picture.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Three pillars */}
+      <section className="border-t border-[var(--border)] max-w-6xl mx-auto px-6 py-24">
         <div className="mb-16">
           <p className="text-xs font-mono text-crimson uppercase tracking-widest mb-3">
             What we&apos;re building
@@ -236,6 +295,12 @@ export default function HomePage() {
                   color: "text-blue-400 border-blue-400/30 bg-blue-400/5",
                   desc: "Analytical inference or synthesis. Explicitly labeled as such.",
                 },
+                {
+                  badge: "SPECULATION",
+                  color:
+                    "text-violet-400 border-violet-400/30 bg-violet-400/5",
+                  desc: "Creative or intuitive leap without direct evidence. Flagged clearly.",
+                },
               ].map(({ badge, color, desc }) => (
                 <div
                   key={badge}
@@ -262,8 +327,8 @@ export default function HomePage() {
           Start with the research
         </h2>
         <p className="text-[var(--muted-foreground)] mb-10 max-w-xl mx-auto">
-          Browse peer-reviewed findings and synthesis documents. Filter by
-          epistemic level, topic, or date.
+          Browse synthesis documents and original analysis. Filter by epistemic
+          level and operation tag. Everything is open access.
         </p>
         <Link
           href="/research"
