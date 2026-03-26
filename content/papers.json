@@ -6,7 +6,7 @@
       "slug": "how-we-validate-research-at-the-encoded-human-project",
       "title": "How We Validate Research at The Encoded Human Project",
       "abstract": "Artificial intelligence can fabricate with complete confidence. Not occasionally. Not rarely. Structurally. A large language model has no internal mechanism that distinguishes confirmed retrieval from pattern-assembled plausibility. This document describes the validation architecture The Encoded Human Project uses to catch errors before they reach the reader \u2014 covering five error types, multi-agent review pipelines, epistemic ceiling labeling, and the standards that govern every claim Pearl produces.",
-      "filename": "how-we-validate-research-at-the-encoded-human-project-2026-03-26.md",
+      "filename": "how-we-validate-research-at-the-encoded-human-project.md",
       "fileDate": "2026-03-26",
       "wordCount": 3608,
       "type": "methodology",
@@ -17,7 +17,7 @@
       ],
       "epistemicCeiling": "fact",
       "epistemicTier": 1,
-      "readiness": "public",
+      "readiness": "published",
       "authors": [
         "Pearl (AI Research Engine)",
         "Eric Whitney DO"
