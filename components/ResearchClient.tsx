@@ -27,6 +27,13 @@ const DENSITY_STYLES: Record<string, string> = {
   "cross-density": "text-emerald-400 border-emerald-400/30 bg-emerald-400/5",
 };
 
+const DENSITY_ACTIVE_STYLES: Record<string, string> = {
+  body: "text-sky-400 border-sky-400 bg-sky-400/15",
+  soul: "text-amber-400 border-amber-400 bg-amber-400/15",
+  spirit: "text-violet-400 border-violet-400 bg-violet-400/15",
+  "cross-density": "text-emerald-400 border-emerald-400 bg-emerald-400/15",
+};
+
 const EPISTEMIC_STYLES: Record<string, string> = {
   fact: "text-emerald-400 border-emerald-400/30 bg-emerald-400/5",
   interpretation: "text-blue-400 border-blue-400/30 bg-blue-400/5",
@@ -40,12 +47,36 @@ const TYPE_LABELS: Record<string, string> = {
   "translation-key": "Translation Key",
   "framework-paper": "Framework",
   "technical-report": "Technical",
+  methodology: "Methodology",
   letter: "Letter",
 };
 
+const CATEGORY_TABS: { label: string; value: string }[] = [
+  { label: "All Papers", value: "all" },
+  { label: "Translation Key", value: "translation-key" },
+  { label: "Hypothesis", value: "hypothesis-paper" },
+  { label: "Framework", value: "framework-paper" },
+  { label: "Technical", value: "technical-report" },
+  { label: "Methodology", value: "methodology" },
+];
+
 const ALL_OPERATIONS = [
-  "conduction", "defense", "regulation", "synthesis",
-  "reception", "elimination", "respiration", "restoration",
+  "reception", "transduction", "conduction", "regulation",
+  "synthesis", "defense", "restoration", "elimination",
+];
+
+const DENSITY_BUTTONS: { label: string; value: string }[] = [
+  { label: "Body", value: "body" },
+  { label: "Soul", value: "soul" },
+  { label: "Spirit", value: "spirit" },
+  { label: "Cross-Density", value: "cross-density" },
+];
+
+const SORT_OPTIONS = [
+  { label: "Newest first", value: "newest" },
+  { label: "Oldest first", value: "oldest" },
+  { label: "Title A–Z", value: "title" },
+  { label: "Word count (longest)", value: "wordcount" },
 ];
 
 function formatDate(d: string) {
@@ -114,7 +145,7 @@ export default function ResearchClient({ papers }: { papers: Paper[] }) {
   const [filterDensity, setFilterDensity] = useState<string>("all");
   const [filterType, setFilterType] = useState<string>("all");
   const [filterOp, setFilterOp] = useState<string>("all");
-  const [filterEpistemic, setFilterEpistemic] = useState<string>("all");
+  const [sortBy, setSortBy] = useState<string>("newest");
 
   const fuse = useMemo(
     () =>
@@ -126,124 +157,199 @@ export default function ResearchClient({ papers }: { papers: Paper[] }) {
     [papers]
   );
 
-  const densities = useMemo(() => {
-    const s = new Set(papers.map(p => p.density));
-    return [...s].sort();
-  }, [papers]);
-
-  const types = useMemo(() => {
-    const s = new Set(papers.map(p => p.type));
-    return [...s].sort();
-  }, [papers]);
-
   const activeOperations = useMemo(() => {
     const s = new Set(papers.flatMap(p => p.operations));
     return ALL_OPERATIONS.filter(op => s.has(op));
   }, [papers]);
 
+  // Counts per category tab (ignoring current tab filter, but respecting other filters)
+  const tabCounts = useMemo(() => {
+    const base = query.trim() ? fuse.search(query).map(r => r.item) : papers;
+    const afterDensity = filterDensity === "all" ? base : base.filter(p => p.density === filterDensity);
+    const afterOp = filterOp === "all" ? afterDensity : afterDensity.filter(p => p.operations.includes(filterOp));
+    const counts: Record<string, number> = { all: afterOp.length };
+    for (const tab of CATEGORY_TABS.slice(1)) {
+      counts[tab.value] = afterOp.filter(p => p.type === tab.value).length;
+    }
+    return counts;
+  }, [query, filterDensity, filterOp, fuse, papers]);
+
+  // Counts per operation pill (respecting other filters)
+  const opCounts = useMemo(() => {
+    const base = query.trim() ? fuse.search(query).map(r => r.item) : papers;
+    const afterDensity = filterDensity === "all" ? base : base.filter(p => p.density === filterDensity);
+    const afterType = filterType === "all" ? afterDensity : afterDensity.filter(p => p.type === filterType);
+    const counts: Record<string, number> = {};
+    for (const op of activeOperations) {
+      counts[op] = afterType.filter(p => p.operations.includes(op)).length;
+    }
+    return counts;
+  }, [query, filterDensity, filterType, activeOperations, fuse, papers]);
+
+  // Counts per density button (respecting other filters)
+  const densityCounts = useMemo(() => {
+    const base = query.trim() ? fuse.search(query).map(r => r.item) : papers;
+    const afterType = filterType === "all" ? base : base.filter(p => p.type === filterType);
+    const afterOp = filterOp === "all" ? afterType : afterType.filter(p => p.operations.includes(filterOp));
+    const counts: Record<string, number> = {};
+    for (const d of DENSITY_BUTTONS) {
+      counts[d.value] = afterOp.filter(p => p.density === d.value).length;
+    }
+    return counts;
+  }, [query, filterType, filterOp, fuse, papers]);
+
   const filtered = useMemo(() => {
     let result = query.trim()
       ? fuse.search(query).map(r => r.item)
-      : [...papers].sort((a, b) => new Date(b.fileDate).getTime() - new Date(a.fileDate).getTime());
+      : [...papers];
 
     if (filterDensity !== "all") result = result.filter(p => p.density === filterDensity);
     if (filterType !== "all") result = result.filter(p => p.type === filterType);
     if (filterOp !== "all") result = result.filter(p => p.operations.includes(filterOp));
-    if (filterEpistemic !== "all") result = result.filter(p => p.epistemicCeiling === filterEpistemic);
+
+    // Sort (only applies when no search query, or always)
+    if (!query.trim()) {
+      switch (sortBy) {
+        case "oldest":
+          result = [...result].sort((a, b) => new Date(a.fileDate).getTime() - new Date(b.fileDate).getTime());
+          break;
+        case "title":
+          result = [...result].sort((a, b) => a.title.localeCompare(b.title));
+          break;
+        case "wordcount":
+          result = [...result].sort((a, b) => b.wordCount - a.wordCount);
+          break;
+        default: // newest
+          result = [...result].sort((a, b) => new Date(b.fileDate).getTime() - new Date(a.fileDate).getTime());
+      }
+    }
 
     return result;
-  }, [query, filterDensity, filterType, filterOp, filterEpistemic, fuse, papers]);
+  }, [query, filterDensity, filterType, filterOp, sortBy, fuse, papers]);
 
-  const hasFilters = query || filterDensity !== "all" || filterType !== "all" || filterOp !== "all" || filterEpistemic !== "all";
+  const hasFilters = query || filterDensity !== "all" || filterType !== "all" || filterOp !== "all";
 
   function clearFilters() {
     setQuery("");
     setFilterDensity("all");
     setFilterType("all");
     setFilterOp("all");
-    setFilterEpistemic("all");
+    setSortBy("newest");
   }
 
   return (
     <>
-      {/* Search + filters */}
-      <div className="mb-8 space-y-3">
-        {/* Search */}
-        <input
-          type="text"
-          value={query}
-          onChange={e => setQuery(e.target.value)}
-          placeholder="Search papers..."
-          className="w-full bg-[var(--card)] border border-[var(--border)] rounded-lg px-4 py-2.5 text-sm text-[var(--foreground)] placeholder:text-[var(--muted-foreground)] focus:outline-none focus:border-crimson transition-colors font-sans"
-        />
-
-        {/* Filter row */}
-        <div className="flex flex-wrap gap-2">
-          <select
-            value={filterDensity}
-            onChange={e => setFilterDensity(e.target.value)}
-            className="bg-[var(--card)] border border-[var(--border)] rounded-md px-3 py-1.5 text-xs text-[var(--muted-foreground)] focus:outline-none focus:border-crimson font-mono"
-          >
-            <option value="all">All Densities</option>
-            {densities.map(d => (
-              <option key={d} value={d}>{d}</option>
-            ))}
-          </select>
-
-          <select
-            value={filterType}
-            onChange={e => setFilterType(e.target.value)}
-            className="bg-[var(--card)] border border-[var(--border)] rounded-md px-3 py-1.5 text-xs text-[var(--muted-foreground)] focus:outline-none focus:border-crimson font-mono"
-          >
-            <option value="all">All Types</option>
-            {types.map(t => (
-              <option key={t} value={t}>{TYPE_LABELS[t] || t}</option>
-            ))}
-          </select>
-
-          <select
-            value={filterOp}
-            onChange={e => setFilterOp(e.target.value)}
-            className="bg-[var(--card)] border border-[var(--border)] rounded-md px-3 py-1.5 text-xs text-[var(--muted-foreground)] focus:outline-none focus:border-crimson font-mono"
-          >
-            <option value="all">All Operations</option>
-            {activeOperations.map(op => (
-              <option key={op} value={op}>{op}</option>
-            ))}
-          </select>
-
-          <select
-            value={filterEpistemic}
-            onChange={e => setFilterEpistemic(e.target.value)}
-            className="bg-[var(--card)] border border-[var(--border)] rounded-md px-3 py-1.5 text-xs text-[var(--muted-foreground)] focus:outline-none focus:border-crimson font-mono"
-          >
-            <option value="all">All Epistemic Levels</option>
-            <option value="fact">Fact</option>
-            <option value="interpretation">Interpretation</option>
-            <option value="hypothesis">Hypothesis</option>
-            <option value="speculation">Speculation</option>
-          </select>
-
-          {hasFilters && (
-            <button
-              onClick={clearFilters}
-              className="px-3 py-1.5 text-xs font-mono text-crimson border border-crimson/30 rounded-md hover:bg-crimson/5 transition-colors"
-            >
-              Clear filters
-            </button>
-          )}
+      {/* Search + Sort row */}
+      <div className="flex gap-3 mb-5">
+        <div className="relative flex-1">
+          <input
+            type="text"
+            value={query}
+            onChange={e => setQuery(e.target.value)}
+            placeholder="Search titles and abstracts..."
+            className="w-full bg-[var(--card)] border border-[var(--border)] rounded-lg pl-9 pr-4 py-2.5 text-sm text-[var(--foreground)] placeholder:text-[var(--muted-foreground)] focus:outline-none focus:border-crimson transition-colors font-sans"
+          />
+          <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-[var(--muted-foreground)]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
+          </svg>
         </div>
+        <select
+          value={sortBy}
+          onChange={e => setSortBy(e.target.value)}
+          className="bg-[var(--card)] border border-[var(--border)] rounded-lg px-3 py-2.5 text-xs text-[var(--muted-foreground)] focus:outline-none focus:border-crimson font-mono shrink-0"
+        >
+          {SORT_OPTIONS.map(opt => (
+            <option key={opt.value} value={opt.value}>{opt.label}</option>
+          ))}
+        </select>
       </div>
 
-      {/* Result count */}
+      {/* Category tabs */}
+      <div className="flex flex-wrap gap-1 mb-4 p-1 rounded-lg bg-[var(--muted)] border border-[var(--border)]">
+        {CATEGORY_TABS.map(tab => {
+          const count = tabCounts[tab.value] ?? 0;
+          const active = filterType === tab.value;
+          return (
+            <button
+              key={tab.value}
+              onClick={() => setFilterType(active ? "all" : tab.value)}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-mono transition-all ${
+                active
+                  ? "bg-crimson text-white shadow-sm"
+                  : "text-[var(--muted-foreground)] hover:text-[var(--foreground)] hover:bg-[var(--card)]"
+              }`}
+            >
+              {tab.label}
+              <span className={`text-[10px] px-1 py-0.5 rounded font-mono ${
+                active ? "bg-white/20 text-white" : "bg-[var(--border)] text-[var(--muted-foreground)]"
+              }`}>
+                {count}
+              </span>
+            </button>
+          );
+        })}
+      </div>
+
+      {/* Density filter buttons */}
+      <div className="flex flex-wrap gap-2 mb-4">
+        <span className="text-[10px] font-mono text-[var(--muted-foreground)] uppercase tracking-wider self-center mr-1">Density:</span>
+        {DENSITY_BUTTONS.map(d => {
+          const count = densityCounts[d.value] ?? 0;
+          const active = filterDensity === d.value;
+          const baseStyle = DENSITY_STYLES[d.value] || DENSITY_STYLES.body;
+          const activeStyle = DENSITY_ACTIVE_STYLES[d.value] || DENSITY_ACTIVE_STYLES.body;
+          return (
+            <button
+              key={d.value}
+              onClick={() => setFilterDensity(active ? "all" : d.value)}
+              className={`flex items-center gap-1.5 px-2.5 py-1 rounded-md text-[11px] font-mono border transition-all ${
+                active ? activeStyle : `${baseStyle} opacity-60 hover:opacity-100`
+              }`}
+            >
+              {d.label}
+              <span className="text-[9px] opacity-70">{count}</span>
+            </button>
+          );
+        })}
+      </div>
+
+      {/* Operation filter pills */}
+      {activeOperations.length > 0 && (
+        <div className="flex flex-wrap gap-2 mb-6">
+          <span className="text-[10px] font-mono text-[var(--muted-foreground)] uppercase tracking-wider self-center mr-1">Operation:</span>
+          {activeOperations.map(op => {
+            const count = opCounts[op] ?? 0;
+            const active = filterOp === op;
+            return (
+              <button
+                key={op}
+                onClick={() => setFilterOp(active ? "all" : op)}
+                className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full text-[11px] font-mono border transition-all ${
+                  active
+                    ? "bg-[var(--foreground)] text-[var(--background)] border-[var(--foreground)]"
+                    : "text-[var(--muted-foreground)] border-[var(--border)] hover:border-[var(--foreground)]/30 hover:text-[var(--foreground)]"
+                }`}
+              >
+                {op}
+                <span className={`text-[9px] ${active ? "opacity-70" : "opacity-50"}`}>{count}</span>
+              </button>
+            );
+          })}
+        </div>
+      )}
+
+      {/* Result count + clear */}
       <div className="flex items-center justify-between mb-6">
         <p className="text-xs font-mono text-[var(--muted-foreground)]">
           {filtered.length} paper{filtered.length !== 1 ? "s" : ""}{hasFilters ? " matching" : ""}
         </p>
-        {!query && !hasFilters && (
-          <p className="text-xs font-mono text-[var(--muted-foreground)]">
-            Sorted by date — newest first
-          </p>
+        {hasFilters && (
+          <button
+            onClick={clearFilters}
+            className="text-xs font-mono text-crimson hover:underline"
+          >
+            Clear all filters
+          </button>
         )}
       </div>
 
