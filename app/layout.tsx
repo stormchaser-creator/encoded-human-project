@@ -94,7 +94,7 @@ export default function RootLayout({
             </div>
             <div className="border-t border-[var(--border)] pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
               <p className="text-xs text-[var(--muted-foreground)]">
-                © {new Date().getFullYear()} Eric Whitney, MD. The Encoded Human Project.
+                © {new Date().getFullYear()} Eric Whitney, DO. The Encoded Human Project.
               </p>
               <p className="text-xs text-[var(--muted-foreground)]">
                 Epistemic tags on every claim.

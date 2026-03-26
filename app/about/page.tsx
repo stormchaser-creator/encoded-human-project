@@ -74,7 +74,7 @@ export default function AboutPage() {
           <div className="space-y-4">
             <div>
               <h3 className="font-serif text-xl font-semibold text-[var(--foreground)]">
-                Eric Whitney, MD
+                Eric Whitney, DO
               </h3>
               <p className="text-sm text-crimson font-mono mt-1">
                 ORCID: 0000-0000-0000-0000
