@@ -1,4 +1,7 @@
 import type { Metadata } from "next";
+import { readFileSync } from "fs";
+import { join } from "path";
+import ResearchClient, { type Paper } from "@/components/ResearchClient";
 
 export const metadata: Metadata = {
   title: "Research Library",
@@ -6,148 +9,79 @@ export const metadata: Metadata = {
     "Original papers, synthesis documents, and clinical reference materials from The Encoded Human Project — all tagged with epistemic status, all open access.",
 };
 
+function getPapers(): Paper[] {
+  const raw = readFileSync(join(process.cwd(), "content/papers.json"), "utf-8");
+  const data = JSON.parse(raw) as { papers: Paper[] };
+  return data.papers.filter(
+    p => p.readiness === "preprint-ready" || p.readiness === "published"
+  );
+}
+
 export default function ResearchPage() {
+  const papers = getPapers();
+
   return (
     <div className="max-w-6xl mx-auto px-6 py-16">
       {/* Header */}
-      <div className="mb-16">
+      <div className="mb-12">
         <p className="text-xs font-mono text-crimson uppercase tracking-widest mb-3">
-          Open Access
+          Open Access · CC-BY-SA 4.0
         </p>
         <h1 className="font-serif text-4xl sm:text-5xl font-bold text-[var(--foreground)] mb-4">
           Research Library
         </h1>
         <p className="text-lg text-[var(--muted-foreground)] max-w-2xl leading-relaxed">
-          Original papers, synthesis documents, and clinical reference
-          materials. Every paper carries an epistemic ceiling badge indicating
-          the maximum confidence warranted by the evidence. All research is open
-          access under CC-BY-SA 4.0.
+          {papers.length} papers — hypothesis documents, clinical translation keys,
+          and synthesis research. Every paper carries an epistemic ceiling badge.
+          All research is open access.
         </p>
       </div>
 
-      {/* Epistemic legend */}
-      <div className="flex flex-wrap gap-4 mb-16 p-4 rounded-lg border border-[var(--border)] bg-[var(--muted)]">
-        <span className="text-xs text-[var(--muted-foreground)] font-mono uppercase tracking-wider self-center mr-2">
-          Epistemic levels:
-        </span>
-        {[
-          {
-            badge: "FACT",
-            className: "text-emerald-400 border-emerald-400/30 bg-emerald-400/5",
-          },
-          {
-            badge: "HYPOTHESIS",
-            className: "text-amber-400 border-amber-400/30 bg-amber-400/5",
-          },
-          {
-            badge: "INTERPRETATION",
-            className: "text-blue-400 border-blue-400/30 bg-blue-400/5",
-          },
-          {
-            badge: "SPECULATION",
-            className: "text-violet-400 border-violet-400/30 bg-violet-400/5",
-          },
-        ].map(({ badge, className }) => (
-          <span
-            key={badge}
-            className={`inline-flex items-center text-xs font-mono font-semibold px-2 py-0.5 rounded border ${className}`}
-          >
-            {badge}
+      {/* Epistemic + Density Legend */}
+      <div className="flex flex-wrap gap-6 mb-10 p-4 rounded-lg border border-[var(--border)] bg-[var(--muted)]">
+        <div className="flex flex-wrap gap-2 items-center">
+          <span className="text-xs text-[var(--muted-foreground)] font-mono uppercase tracking-wider mr-1">
+            Epistemic:
           </span>
-        ))}
-      </div>
-
-      {/* Papers in Preparation */}
-      <section className="mb-16">
-        <h2 className="font-serif text-2xl font-semibold text-[var(--foreground)] mb-8">
-          Papers in Preparation
-        </h2>
-        <p className="text-[var(--muted-foreground)] leading-relaxed mb-10 text-sm max-w-3xl">
-          The Encoded Human research library will host original papers,
-          hypothesis documents, and clinical reference materials — all tagged
-          with epistemic status and available for public review. The following
-          are currently in preparation.
-        </p>
-
-        <div className="space-y-6">
           {[
-            {
-              title: "The Light Machine Translation Key",
-              epistemic: "INTERPRETATION",
-              epistemicClass: "text-blue-400 border-blue-400/30 bg-blue-400/5",
-              target: "Zenodo DOI — open access",
-              description:
-                "A comprehensive clinical reference translating 200+ biomarkers across eight biological operations. Each marker entry includes: what it measures, functional ranges, what deviation signals, pattern recognition across related markers, intervention levers, and a three-density reading connecting biology to meaning to awareness. Twenty-one sections covering metabolic, cardiovascular, immune, neurological, hormonal, genomic, environmental, and oncologic panels.",
-            },
-            {
-              title: "Oscillatory Coherence as a Unifying Health Metric",
-              epistemic: "HYPOTHESIS",
-              epistemicClass: "text-amber-400 border-amber-400/30 bg-amber-400/5",
-              target: "bioRxiv preprint",
-              description:
-                "A hypothesis paper proposing that health is fundamentally oscillatory coherence — the stable synchronization of biological rhythms across circadian, ultradian, and cellular scales — and that disease is decoherence. Integrates HRV research, TTFields data, circadian disruption literature, and vagal tone studies.",
-            },
-            {
-              title:
-                "The Microbiome as Ancestral Encoding Substrate",
-              epistemic: "HYPOTHESIS",
-              epistemicClass: "text-amber-400 border-amber-400/30 bg-amber-400/5",
-              target: "bioRxiv preprint",
-              description:
-                "A framework paper proposing that the maternal microbiome transfer is the primary biological mechanism of ancestral encoding — that what we inherit through the birth canal, breast milk, and early environment constitutes a living ancestral record that shapes immune development, neurotransmitter production, and epigenetic expression.",
-            },
-          ].map(({ title, epistemic, epistemicClass, target, description }) => (
-            <article
-              key={title}
-              className="flex flex-col p-6 rounded-xl border border-[var(--border)] bg-[var(--card)]"
+            { badge: "FACT", cls: "text-emerald-400 border-emerald-400/30 bg-emerald-400/5" },
+            { badge: "INTERPRETATION", cls: "text-blue-400 border-blue-400/30 bg-blue-400/5" },
+            { badge: "HYPOTHESIS", cls: "text-amber-400 border-amber-400/30 bg-amber-400/5" },
+            { badge: "SPECULATION", cls: "text-violet-400 border-violet-400/30 bg-violet-400/5" },
+          ].map(({ badge, cls }) => (
+            <span
+              key={badge}
+              className={`inline-flex items-center text-[10px] font-mono font-semibold px-1.5 py-0.5 rounded border ${cls}`}
             >
-              <div className="flex items-start justify-between gap-4 mb-4">
-                <span
-                  className={`inline-flex items-center text-xs font-mono font-semibold px-2 py-0.5 rounded border ${epistemicClass}`}
-                >
-                  {epistemic}
-                </span>
-                <span className="text-xs text-[var(--muted-foreground)] font-mono shrink-0">
-                  {target}
-                </span>
-              </div>
-              <h3 className="font-serif text-lg font-semibold text-[var(--foreground)] leading-snug mb-3">
-                {title}
-              </h3>
-              <p className="text-sm text-[var(--muted-foreground)] leading-relaxed">
-                {description}
-              </p>
-            </article>
+              {badge}
+            </span>
           ))}
         </div>
-      </section>
+        <div className="flex flex-wrap gap-2 items-center">
+          <span className="text-xs text-[var(--muted-foreground)] font-mono uppercase tracking-wider mr-1">
+            Density:
+          </span>
+          {[
+            { badge: "BODY", cls: "text-sky-400 border-sky-400/30 bg-sky-400/5" },
+            { badge: "SOUL", cls: "text-amber-400 border-amber-400/30 bg-amber-400/5" },
+            { badge: "SPIRIT", cls: "text-violet-400 border-violet-400/30 bg-violet-400/5" },
+            { badge: "CROSS-DENSITY", cls: "text-emerald-400 border-emerald-400/30 bg-emerald-400/5" },
+          ].map(({ badge, cls }) => (
+            <span
+              key={badge}
+              className={`inline-flex items-center text-[10px] font-mono font-semibold px-1.5 py-0.5 rounded border ${cls}`}
+            >
+              {badge}
+            </span>
+          ))}
+        </div>
+      </div>
 
-      {/* Epistemic commitment */}
-      <section className="mb-16 p-6 rounded-xl border border-[var(--border)] bg-[var(--muted)]">
-        <p className="text-sm text-[var(--muted-foreground)] leading-relaxed">
-          All papers will be published with full epistemic tagging. Every claim
-          will be marked as{" "}
-          <span className="text-emerald-400 font-mono text-xs font-semibold">
-            FACT
-          </span>
-          ,{" "}
-          <span className="text-blue-400 font-mono text-xs font-semibold">
-            INTERPRETATION
-          </span>
-          ,{" "}
-          <span className="text-amber-400 font-mono text-xs font-semibold">
-            HYPOTHESIS
-          </span>
-          , or{" "}
-          <span className="text-violet-400 font-mono text-xs font-semibold">
-            SPECULATION
-          </span>
-          . We will not present working hypotheses as established science.
-        </p>
-      </section>
+      {/* Client search + filter + grid */}
+      <ResearchClient papers={papers} />
 
-      {/* Publication Pathway */}
-      <section className="mb-16">
+      {/* Publication pathway */}
+      <section className="mt-20 pt-12 border-t border-[var(--border)]">
         <h2 className="font-serif text-2xl font-semibold text-[var(--foreground)] mb-6">
           Publication Pathway
         </h2>
@@ -187,9 +121,9 @@ export default function ResearchPage() {
         </div>
         <div className="border-l-2 border-crimson pl-6">
           <p className="text-sm text-[var(--muted-foreground)] leading-relaxed italic">
-            We publish early and transparently. The cost of waiting for
-            perfection is silence. The cost of publishing honestly is
-            vulnerability. We choose vulnerability.
+            We publish early and transparently. The cost of waiting for perfection
+            is silence. The cost of publishing honestly is vulnerability. We choose
+            vulnerability.
           </p>
         </div>
       </section>
