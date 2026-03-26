@@ -1,26 +1,71 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-card: var(--card);
+  --color-crimson: #dc143c;
+  --color-crimson-dark: #a50e2d;
+  --font-serif: var(--font-playfair);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --background: #0d0d0f;
+  --foreground: #e8e8ed;
+  --muted: #1a1a1f;
+  --muted-foreground: #8a8a9a;
+  --border: #2a2a35;
+  --card: #13131a;
+}
+
+* {
+  border-color: var(--border);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-playfair), Georgia, 'Times New Roman', serif;
+}
+
+.font-serif {
+  font-family: var(--font-playfair), Georgia, 'Times New Roman', serif;
+}
+
+.font-sans {
+  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+}
+
+.font-mono {
+  font-family: var(--font-jetbrains), 'Courier New', monospace;
+}
+
+/* Crimson accent */
+.text-crimson { color: #dc143c; }
+.bg-crimson { background-color: #dc143c; }
+.border-crimson { border-color: #dc143c; }
+
+/* Subtle grid background for hero sections */
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(220, 20, 60, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(220, 20, 60, 0.04) 1px, transparent 1px);
+  background-size: 60px 60px;
+}
+
+/* Prose styles */
+.prose-dark p {
+  color: #b0b0c0;
+  line-height: 1.75;
 }
