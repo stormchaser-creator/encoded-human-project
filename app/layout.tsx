@@ -69,9 +69,30 @@ export default function RootLayout({
                   Research
                 </h3>
                 <ul className="space-y-2 text-sm text-[var(--muted-foreground)]">
-                  <li><a href="/research" className="hover:text-crimson transition-colors">Papers & Findings</a></li>
-                  <li><a href="/framework" className="hover:text-crimson transition-colors">The Framework</a></li>
-                  <li><a href="/about" className="hover:text-crimson transition-colors">About</a></li>
+                  <li>
+                    <a
+                      href="/research"
+                      className="hover:text-crimson transition-colors"
+                    >
+                      Papers & Findings
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="/framework"
+                      className="hover:text-crimson transition-colors"
+                    >
+                      The Framework
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="/about"
+                      className="hover:text-crimson transition-colors"
+                    >
+                      About
+                    </a>
+                  </li>
                 </ul>
               </div>
               <div>
@@ -94,7 +115,8 @@ export default function RootLayout({
             </div>
             <div className="border-t border-[var(--border)] pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
               <p className="text-xs text-[var(--muted-foreground)]">
-                © {new Date().getFullYear()} Eric Whitney, MD. The Encoded Human Project.
+                © {new Date().getFullYear()} Eric Whitney, DO. The Encoded Human
+                Project.
               </p>
               <p className="text-xs text-[var(--muted-foreground)]">
                 Epistemic tags on every claim.

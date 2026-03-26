@@ -1,11 +1,32 @@
 {
   "generated": "2026-03-26T13:16:15.323Z",
-  "total": 189,
+  "total": 190,
   "papers": [
+    {
+      "slug": "how-we-validate-research-at-the-encoded-human-project",
+      "title": "How We Validate Research at The Encoded Human Project",
+      "abstract": "Artificial intelligence can fabricate with complete confidence. Not occasionally. Not rarely. Structurally. A large language model has no internal mechanism that distinguishes confirmed retrieval from pattern-assembled plausibility. This document describes the validation architecture The Encoded Human Project uses to catch errors before they reach the reader \u2014 covering five error types, multi-agent review pipelines, epistemic ceiling labeling, and the standards that govern every claim Pearl produces.",
+      "filename": "how-we-validate-research-at-the-encoded-human-project-2026-03-26.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 3608,
+      "type": "methodology",
+      "density": "body",
+      "operations": [
+        "defense",
+        "regulation"
+      ],
+      "epistemicCeiling": "fact",
+      "epistemicTier": 1,
+      "readiness": "public",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
     {
       "slug": "biofilm-formation-in-cerebral-aneurysms-implications-for-rupture-risk-and-clinic",
       "title": "Biofilm Formation in Cerebral Aneurysms: Implications for Rupture Risk and Clinical Management",
-      "abstract": "[SECTION FAILED AFTER 2 RETRIES — reason: draft completed but no content — requires manual write or respawn] <!-- SECTION:1:FAILED -->",
+      "abstract": "[SECTION FAILED AFTER 2 RETRIES \u2014 reason: draft completed but no content \u2014 requires manual write or respawn] <!-- SECTION:1:FAILED -->",
       "filename": "biofilm-formation-in-cerebral-aneurysms-implications-for-rup.md",
       "fileDate": "2026-03-19",
       "wordCount": 179,
@@ -47,7 +68,7 @@
     {
       "slug": "biofilm-mediated-endothelial-coherence-failure-a-novel-mechanistic-framework-for",
       "title": "Biofilm-Mediated Endothelial Coherence Failure: A Novel Mechanistic Framework for Intracranial Aneurysm Formation and Rupture",
-      "abstract": "Background. Intracranial aneurysm (IA) formation and rupture are conventionally attributed to hemodynamic stress—aberrant wall shear stress at arterial bifurcations driving degenerative remodeling of the vessel wall. While hemodynamic factors are necessary contributors, they are insufficient to explain the selective vulnerability of specific patients, the progressive inflammatory infiltration obse",
+      "abstract": "Background. Intracranial aneurysm (IA) formation and rupture are conventionally attributed to hemodynamic stress\u2014aberrant wall shear stress at arterial bifurcations driving degenerative remodeling of the vessel wall. While hemodynamic factors are necessary contributors, they are insufficient to explain the selective vulnerability of specific patients, the progressive inflammatory infiltration obse",
       "filename": "biofilm-mediated-endothelial-coherence-failure-a-novel-mecha.md",
       "fileDate": "2026-03-20",
       "wordCount": 7591,
@@ -70,7 +91,7 @@
     {
       "slug": "intracranial-aneurysm-formation-and-rupture-as-biofilm-mediated-endothelial-cohe",
       "title": "Intracranial Aneurysm Formation and Rupture as Biofilm-Mediated Endothelial Coherence Failure: A Novel Mechanistic Framework",
-      "abstract": "Background. Intracranial aneurysms affect an estimated 2–3% of adults and carry catastrophic rupture risk, yet the prevailing hemodynamic-degenerative model cannot adequately explain their predilection for arterial bifurcations, their unpredictable rupture timing, or the persistent failure of inflammation-targeted therapies to prevent progression. [NEEDS VERIFICATION: 2–3% prevalence figure — comm",
+      "abstract": "Background. Intracranial aneurysms affect an estimated 2\u20133% of adults and carry catastrophic rupture risk, yet the prevailing hemodynamic-degenerative model cannot adequately explain their predilection for arterial bifurcations, their unpredictable rupture timing, or the persistent failure of inflammation-targeted therapies to prevent progression. [NEEDS VERIFICATION: 2\u20133% prevalence figure \u2014 comm",
       "filename": "intracranial-aneurysm-formation-and-rupture-as-biofilm-media.md",
       "fileDate": "2026-03-18",
       "wordCount": 335,
@@ -91,8 +112,8 @@
     },
     {
       "slug": "light-machine-paper-assembly-gap-report",
-      "title": "Light Machine Paper — Assembly Gap Report",
-      "abstract": "- Pipeline task: `agent_0edd27de_1773702613227` (Attempt 1 — completed) - All 15 sections from Stage 2 completed successfully - Total pipeline tokens: 4,929,037 | # | Section | Words | Task ID | |---|---------|-------|---------| | 0 | Abstract | ~300 | agent_faf12816 | | 1 | Introduction — The Silo Problem | ~1200 | agent_af454416 | | 2 | The Seven-Scale Hierarchy | ~2000 | agent_cc8cd21a | | 3 | ",
+      "title": "Light Machine Paper \u2014 Assembly Gap Report",
+      "abstract": "- Pipeline task: `agent_0edd27de_1773702613227` (Attempt 1 \u2014 completed) - All 15 sections from Stage 2 completed successfully - Total pipeline tokens: 4,929,037 | # | Section | Words | Task ID | |---|---------|-------|---------| | 0 | Abstract | ~300 | agent_faf12816 | | 1 | Introduction \u2014 The Silo Problem | ~1200 | agent_af454416 | | 2 | The Seven-Scale Hierarchy | ~2000 | agent_cc8cd21a | | 3 | ",
       "filename": "GAP-REPORT.md",
       "fileDate": "2026-03-17",
       "wordCount": 323,
@@ -111,7 +132,7 @@
     },
     {
       "slug": "light-machine-translation-key-implementation-plan-for-claude-code",
-      "title": "Light Machine Translation Key — Implementation Plan for Claude Code",
+      "title": "Light Machine Translation Key \u2014 Implementation Plan for Claude Code",
       "abstract": "This plan tells a Claude Code agent exactly how to wire the Light Machine Translation Key into Pearl's infrastructure so that when a client uploads lab results, Pearl can produce a comprehensive Body Codx operational analysis of their light machine. Objective: Get all 196 Translation Key entries into Pearl's KB with proper chunking, embedding, encoding traces, and cross-references.",
       "filename": "IMPLEMENTATION-PLAN-LAB-ANALYSIS.md",
       "fileDate": "2026-03-21",
@@ -134,8 +155,8 @@
     },
     {
       "slug": "section-10-cancer-longevity-restoration",
-      "title": "SECTION 10 — Cancer, Longevity & Restoration",
-      "abstract": "Body Codx Operation: Defense What It Measures: Serum carcinoembryonic antigen, a protein produced by cancers (especially colorectal, lung, stomach) and benign conditions (smoking, inflammatory bowel disease, cirrhosis). Sample Type: Blood serum Fasting Required: Not required CEA is a tumor-associated antigen — a protein normally produced during fetal development that is suppressed in adults. It re",
+      "title": "SECTION 10 \u2014 Cancer, Longevity & Restoration",
+      "abstract": "Body Codx Operation: Defense What It Measures: Serum carcinoembryonic antigen, a protein produced by cancers (especially colorectal, lung, stomach) and benign conditions (smoking, inflammatory bowel disease, cirrhosis). Sample Type: Blood serum Fasting Required: Not required CEA is a tumor-associated antigen \u2014 a protein normally produced during fetal development that is suppressed in adults. It re",
       "filename": "SECTION-10-CANCER-LONGEVITY-RESTORATION.md",
       "fileDate": "2026-03-21",
       "wordCount": 8447,
@@ -203,8 +224,8 @@
     },
     {
       "slug": "section-13-reading-the-machine-cross-panel-patterns",
-      "title": "SECTION 13: READING THE MACHINE — CROSS-PANEL PATTERNS",
-      "abstract": "Operational Focus: Defense / Circulation / Elimination Clinical Significance: High — indicates immune dysregulation, cardiovascular disease risk, and risk of accelerated aging Chronic inflammation is the thread connecting most age-related diseases: cardiovascular disease, dementia, diabetes, cancer, autoimmune disease, and accelerated aging itself. The inflammatory burden pattern is present when m",
+      "title": "SECTION 13: READING THE MACHINE \u2014 CROSS-PANEL PATTERNS",
+      "abstract": "Operational Focus: Defense / Circulation / Elimination Clinical Significance: High \u2014 indicates immune dysregulation, cardiovascular disease risk, and risk of accelerated aging Chronic inflammation is the thread connecting most age-related diseases: cardiovascular disease, dementia, diabetes, cancer, autoimmune disease, and accelerated aging itself. The inflammatory burden pattern is present when m",
       "filename": "SECTION-13-CROSS-PANEL-PATTERNS.md",
       "fileDate": "2026-03-21",
       "wordCount": 11325,
@@ -226,7 +247,7 @@
     },
     {
       "slug": "light-machine-translation-key-complete-manifest",
-      "title": "Light Machine Translation Key — Complete Manifest",
+      "title": "Light Machine Translation Key \u2014 Complete Manifest",
       "abstract": "Document Purpose: Central index and structural manifest for the \"Light Machine Translation Key,\" a comprehensive translation system that maps clinical laboratory tests, genetic panels, and derived biomarker ratios to the Eight Operations architecture of the Encoded Human framework. Version: 1.0 Date Generated: 2026-03-20 Status: Sections 11-13 complete; Sections 1-10 pending generation",
       "filename": "TRANSLATION-KEY-COMPLETE-MANIFEST.md",
       "fileDate": "2026-03-21",
@@ -249,8 +270,8 @@
     },
     {
       "slug": "the-light-machine-translation-key-complete-anthology",
-      "title": "The Light Machine Translation Key — Complete Anthology",
-      "abstract": "The Light Machine Translation Key translates standard laboratory tests into the language of the eight Body Codx Operations — at three densities (body, soul, spirit) — through the full Encoded Human ontological architecture. This is not a conventional lab reference with operation labels pasted on top. It is a translation layer. Every entry answers the question: \"What does this number tell us about ",
+      "title": "The Light Machine Translation Key \u2014 Complete Anthology",
+      "abstract": "The Light Machine Translation Key translates standard laboratory tests into the language of the eight Body Codx Operations \u2014 at three densities (body, soul, spirit) \u2014 through the full Encoded Human ontological architecture. This is not a conventional lab reference with operation labels pasted on top. It is a translation layer. Every entry answers the question: \"What does this number tell us about ",
       "filename": "ANTHOLOGY.md",
       "fileDate": "2026-03-25",
       "wordCount": 312035,
@@ -273,7 +294,7 @@
     {
       "slug": "metaphor-guide-for-light-machine-anthology",
       "title": "Metaphor Guide for Light Machine Anthology",
-      "abstract": "Every section must include: 1. OPENING METAPHOR — Begin each section with a vivid metaphor that orients the reader to what this cluster of biomarkers is actually doing in the body. Examples: - Lipid panel: \"Think of your cardiovascular system as a river delta — the particles are barges, the vessels are channels, and the conditions we're measuring tell us whether goods are moving or piling up at th",
+      "abstract": "Every section must include: 1. OPENING METAPHOR \u2014 Begin each section with a vivid metaphor that orients the reader to what this cluster of biomarkers is actually doing in the body. Examples: - Lipid panel: \"Think of your cardiovascular system as a river delta \u2014 the particles are barges, the vessels are channels, and the conditions we're measuring tell us whether goods are moving or piling up at th",
       "filename": "METAPHOR-GUIDE.md",
       "fileDate": "2026-03-24",
       "wordCount": 271,
@@ -295,8 +316,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-02b-conduction-coagulation-thrombophilia",
-      "title": "Light Machine Translation Key — Section 02b: Conduction (Coagulation & Thrombophilia)",
-      "abstract": "> How to read this section: > Conduction at body density is signal transmission — the movement of information, substance, and force through the vascular and neural networks. The coagulation system is Conduction's most literal expression: blood must flow freely enough to carry signal, but clot fast enough to seal a break. When Conduction is disrupted at the coagulation level, the machine loses its ",
+      "title": "Light Machine Translation Key \u2014 Section 02b: Conduction (Coagulation & Thrombophilia)",
+      "abstract": "> How to read this section: > Conduction at body density is signal transmission \u2014 the movement of information, substance, and force through the vascular and neural networks. The coagulation system is Conduction's most literal expression: blood must flow freely enough to carry signal, but clot fast enough to seal a break. When Conduction is disrupted at the coagulation level, the machine loses its ",
       "filename": "light-machine-translation-key-section-02b-conduction-coagulation-thrombophilia-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 8947,
@@ -318,8 +339,8 @@
     },
     {
       "slug": "light-machine-translation-key-cancer-longevity-cluster",
-      "title": "Light Machine Translation Key — Cancer / Longevity Cluster",
-      "abstract": "Cancer surveillance and longevity medicine share a single biological logic: the body continuously scans for transformation and continuously rebuilds what degrades. Defense detects malignant signals — rising tumor antigens, genomic instability, immune evasion. Restoration maintains regenerative capacity — telomere length, neuroplasticity, mitochondrial integrity. These operations fail in sequence: ",
+      "title": "Light Machine Translation Key \u2014 Cancer / Longevity Cluster",
+      "abstract": "Cancer surveillance and longevity medicine share a single biological logic: the body continuously scans for transformation and continuously rebuilds what degrades. Defense detects malignant signals \u2014 rising tumor antigens, genomic instability, immune evasion. Restoration maintains regenerative capacity \u2014 telomere length, neuroplasticity, mitochondrial integrity. These operations fail in sequence: ",
       "filename": "SECTION-10-CANCER-LONGEVITY.md",
       "fileDate": "2026-03-25",
       "wordCount": 3752,
@@ -341,8 +362,8 @@
     },
     {
       "slug": "light-machine-translation-key-genetic-derived-patterns-cluster",
-      "title": "Light Machine Translation Key — Genetic / Derived Patterns Cluster",
-      "abstract": "The genome is not destiny — it is architecture. These panels reveal the structural predispositions shaping all eight body operations simultaneously: where pathways run efficiently, where they require compensatory support, and where risk accumulates quietly beneath phenotypic silence. Reading genetic data through the Encoded Human framework demands two simultaneous moves: mechanistic precision at t",
+      "title": "Light Machine Translation Key \u2014 Genetic / Derived Patterns Cluster",
+      "abstract": "The genome is not destiny \u2014 it is architecture. These panels reveal the structural predispositions shaping all eight body operations simultaneously: where pathways run efficiently, where they require compensatory support, and where risk accumulates quietly beneath phenotypic silence. Reading genetic data through the Encoded Human framework demands two simultaneous moves: mechanistic precision at t",
       "filename": "SECTION-11-13-GENETIC-DERIVED-PATTERNS.md",
       "fileDate": "2026-03-25",
       "wordCount": 3783,
@@ -364,8 +385,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-14-advanced-cardiovascular",
-      "title": "Light Machine Translation Key — Section 14: ADVANCED-CARDIOVASCULAR",
-      "abstract": "The advanced cardiovascular panel reads the hidden layer of vascular risk — the markers that standard lipid and metabolic panels cannot see. These three tests move beyond cholesterol counting and inflammatory surrogates to interrogate: 1. Gut-Vascular Axis — microbial metabolites that directly damage endothelium (TMAO) 2. Oxidative Damage State — whether LDL particles have become pathogenic throug",
+      "title": "Light Machine Translation Key \u2014 Section 14: ADVANCED-CARDIOVASCULAR",
+      "abstract": "The advanced cardiovascular panel reads the hidden layer of vascular risk \u2014 the markers that standard lipid and metabolic panels cannot see. These three tests move beyond cholesterol counting and inflammatory surrogates to interrogate: 1. Gut-Vascular Axis \u2014 microbial metabolites that directly damage endothelium (TMAO) 2. Oxidative Damage State \u2014 whether LDL particles have become pathogenic throug",
       "filename": "SECTION-14-ADVANCED-CARDIOVASCULAR.md",
       "fileDate": "2026-03-25",
       "wordCount": 23456,
@@ -387,8 +408,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-15-functional-specialty",
-      "title": "Light Machine Translation Key — Section 15: FUNCTIONAL-SPECIALTY",
-      "abstract": "Body Codx Operation: Cross-Operation What It Measures: 125+ biomarkers spanning vitamins, minerals, amino acids, fatty acids, antioxidants, organic acids, and oxidative stress markers — the single most comprehensive functional medicine panel available. Sample Type: Blood (plasma/serum) + Urine (first morning void) Fasting Required: Yes (10–12 hours) Lab Provider: Genova Diagnostics Test Code: GDX-",
+      "title": "Light Machine Translation Key \u2014 Section 15: FUNCTIONAL-SPECIALTY",
+      "abstract": "Body Codx Operation: Cross-Operation What It Measures: 125+ biomarkers spanning vitamins, minerals, amino acids, fatty acids, antioxidants, organic acids, and oxidative stress markers \u2014 the single most comprehensive functional medicine panel available. Sample Type: Blood (plasma/serum) + Urine (first morning void) Fasting Required: Yes (10\u201312 hours) Lab Provider: Genova Diagnostics Test Code: GDX-",
       "filename": "SECTION-15-FUNCTIONAL-SPECIALTY.md",
       "fileDate": "2026-03-25",
       "wordCount": 42206,
@@ -410,8 +431,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-16-toxicology",
-      "title": "Light Machine Translation Key — Section 16: TOXICOLOGY",
-      "abstract": "Primary Operation: Elimination Secondary Operations: Defense, Regulation, Conduction Encoding Layers: Biological (Layer 2), Experiential (Layer 7), Cultural (Layer 6) | Metal | Conventional Reference Range | Functional Optimal | Units | |-------|-----------------------------|--------------------|-------| | Lead (Pb) | < 5.0 µg/dL (CDC adult reference; was 10 until 2012, was 5 until 2021, now 3.5 f",
+      "title": "Light Machine Translation Key \u2014 Section 16: TOXICOLOGY",
+      "abstract": "Primary Operation: Elimination Secondary Operations: Defense, Regulation, Conduction Encoding Layers: Biological (Layer 2), Experiential (Layer 7), Cultural (Layer 6) | Metal | Conventional Reference Range | Functional Optimal | Units | |-------|-----------------------------|--------------------|-------| | Lead (Pb) | < 5.0 \u00b5g/dL (CDC adult reference; was 10 until 2012, was 5 until 2021, now 3.5 f",
       "filename": "SECTION-16-TOXICOLOGY.md",
       "fileDate": "2026-03-25",
       "wordCount": 34428,
@@ -433,7 +454,7 @@
     },
     {
       "slug": "light-machine-translation-key-section-17-environmental-health",
-      "title": "Light Machine Translation Key — Section 17: ENVIRONMENTAL-HEALTH",
+      "title": "Light Machine Translation Key \u2014 Section 17: ENVIRONMENTAL-HEALTH",
       "abstract": "Body Codx Operation: Defense (primary), Regulation (secondary), Conduction (tertiary) Markers: C4a, TGF-beta1, MSH (alpha-melanocyte stimulating hormone), VIP (vasoactive intestinal peptide), MMP-9, VEGF, ADH/Osmolality, Leptin",
       "filename": "SECTION-17-ENVIRONMENTAL-HEALTH.md",
       "fileDate": "2026-03-25",
@@ -456,8 +477,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-18-genetics-standard",
-      "title": "Light Machine Translation Key — Section 18: GENETICS-STANDARD",
-      "abstract": "Body Codx Operation: Transduction What It Measures: Methylenetetrahydrofolate reductase (MTHFR) enzyme variant status — the genetic specification that determines how efficiently the body converts dietary folate into its biologically active form (5-methyltetrahydrofolate, or 5-MTHF), which is the primary methyl donor for the remethylation of homocysteine to methionine and the fuel supply for over 2",
+      "title": "Light Machine Translation Key \u2014 Section 18: GENETICS-STANDARD",
+      "abstract": "Body Codx Operation: Transduction What It Measures: Methylenetetrahydrofolate reductase (MTHFR) enzyme variant status \u2014 the genetic specification that determines how efficiently the body converts dietary folate into its biologically active form (5-methyltetrahydrofolate, or 5-MTHF), which is the primary methyl donor for the remethylation of homocysteine to methionine and the fuel supply for over 2",
       "filename": "SECTION-18-GENETICS-STANDARD.md",
       "fileDate": "2026-03-25",
       "wordCount": 24678,
@@ -479,8 +500,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-19-genetics-consumer",
-      "title": "Light Machine Translation Key — Section 19: GENETICS-CONSUMER",
-      "abstract": "Body Codx Operation: Transduction (primary), Synthesis (secondary), Elimination (tertiary) What It Measures: Genetic capacity across the four enzymes that govern the folate→methionine→SAMe methylation cycle — the body's central methyl-group distribution hub. Sample Type: Saliva or blood DNA (consumer: 23andMe, AncestryDNA; clinical: StrateGene, IntellxxDNA, 3X4 Genetics) Key SNPs: MTHFR C677T (rs1",
+      "title": "Light Machine Translation Key \u2014 Section 19: GENETICS-CONSUMER",
+      "abstract": "Body Codx Operation: Transduction (primary), Synthesis (secondary), Elimination (tertiary) What It Measures: Genetic capacity across the four enzymes that govern the folate\u2192methionine\u2192SAMe methylation cycle \u2014 the body's central methyl-group distribution hub. Sample Type: Saliva or blood DNA (consumer: 23andMe, AncestryDNA; clinical: StrateGene, IntellxxDNA, 3X4 Genetics) Key SNPs: MTHFR C677T (rs1",
       "filename": "SECTION-19-GENETICS-CONSUMER.md",
       "fileDate": "2026-03-25",
       "wordCount": 25709,
@@ -502,8 +523,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-20-genetics-clinical-pgx",
-      "title": "Light Machine Translation Key — Section 20: GENETICS-CLINICAL-PGX",
-      "abstract": "Body Codx Operation: Elimination What It Measures: Genetically determined metabolizer phenotype for the CYP2D6 enzyme — one of the most polymorphic and clinically consequential Phase I drug-metabolizing enzymes in the human body. Sample Type: Blood or saliva (buccal swab) Fasting Required: No CYP2D6 genotyping determines the copy number and allelic variant status of the CYP2D6 gene located on chro",
+      "title": "Light Machine Translation Key \u2014 Section 20: GENETICS-CLINICAL-PGX",
+      "abstract": "Body Codx Operation: Elimination What It Measures: Genetically determined metabolizer phenotype for the CYP2D6 enzyme \u2014 one of the most polymorphic and clinically consequential Phase I drug-metabolizing enzymes in the human body. Sample Type: Blood or saliva (buccal swab) Fasting Required: No CYP2D6 genotyping determines the copy number and allelic variant status of the CYP2D6 gene located on chro",
       "filename": "SECTION-20-GENETICS-CLINICAL-PGX.md",
       "fileDate": "2026-03-25",
       "wordCount": 23966,
@@ -525,8 +546,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-21-oncology-liquid-biopsy",
-      "title": "Light Machine Translation Key — Section 21: ONCOLOGY-LIQUID-BIOPSY",
-      "abstract": "Body Codx Operation: Cross-Operation (Defense primary, with Regulation, Transduction, and Elimination co-involvement) What It Measures: Cell-free DNA (cfDNA) methylation patterns in peripheral blood to detect a cancer signal across 50+ cancer types, with predicted cancer signal origin (CSO) — tissue-of-origin localization. Sample Type: Peripheral blood (two 10 mL Streck Cell-Free DNA BCT tubes) Fa",
+      "title": "Light Machine Translation Key \u2014 Section 21: ONCOLOGY-LIQUID-BIOPSY",
+      "abstract": "Body Codx Operation: Cross-Operation (Defense primary, with Regulation, Transduction, and Elimination co-involvement) What It Measures: Cell-free DNA (cfDNA) methylation patterns in peripheral blood to detect a cancer signal across 50+ cancer types, with predicted cancer signal origin (CSO) \u2014 tissue-of-origin localization. Sample Type: Peripheral blood (two 10 mL Streck Cell-Free DNA BCT tubes) Fa",
       "filename": "SECTION-21-ONCOLOGY-LIQUID-BIOPSY.md",
       "fileDate": "2026-03-25",
       "wordCount": 22324,
@@ -549,7 +570,7 @@
     {
       "slug": "abstract",
       "title": "Abstract",
-      "abstract": "Biological systems sustain themselves not through static equilibrium but through oscillatory coherence — the temporally organized, phase-locked synchronization of rhythmic processes across spatial and temporal scales. This paper proposes that cross-scale oscillatory coherence constitutes the unified mechanism underlying what we term biological permanence: the capacity of living systems to maintain",
+      "abstract": "Biological systems sustain themselves not through static equilibrium but through oscillatory coherence \u2014 the temporally organized, phase-locked synchronization of rhythmic processes across spatial and temporal scales. This paper proposes that cross-scale oscillatory coherence constitutes the unified mechanism underlying what we term biological permanence: the capacity of living systems to maintain",
       "filename": "00-abstract.md",
       "fileDate": "2026-03-17",
       "wordCount": 737,
@@ -571,8 +592,8 @@
     },
     {
       "slug": "the-light-machine-chapter-master-index",
-      "title": "The Light Machine — Chapter Master Index",
-      "abstract": "Full Title: The Light Machine: Cross-Scale Oscillatory Coherence as the Unified Mechanism of Biological Permanence Source: Pearl Agent Forge Pipeline (Attempt 1) — 15 sections, all completed",
+      "title": "The Light Machine \u2014 Chapter Master Index",
+      "abstract": "Full Title: The Light Machine: Cross-Scale Oscillatory Coherence as the Unified Mechanism of Biological Permanence Source: Pearl Agent Forge Pipeline (Attempt 1) \u2014 15 sections, all completed",
       "filename": "00-book-master.md",
       "fileDate": "2026-03-17",
       "wordCount": 323,
@@ -591,7 +612,7 @@
     },
     {
       "slug": "introduction-the-silo-problem",
-      "title": "Introduction — The Silo Problem",
+      "title": "Introduction \u2014 The Silo Problem",
       "abstract": "> Section 1 of 14 | ~1042 words | Task: `agent_af454416_1773702667760` - hyp_silo_decoherence_001: {'id': 'hyp_silo_decoherence_001', 'tier': 2, 'lenses': ['systems thinking', 'coupled oscillator theory', 'entropy'], 'hypothesis': 'If medical specialization fragments oscillatory phenomena into organ-specific silos, and if these oscillatory phenomena are in fact expressions of a single coupled hier",
       "filename": "01-introduction.md",
       "fileDate": "2026-03-17",
@@ -637,7 +658,7 @@
     },
     {
       "slug": "scale-1-molecular-coherence-soliton-physics",
-      "title": "Scale 1 — Molecular Coherence (Soliton Physics)",
+      "title": "Scale 1 \u2014 Molecular Coherence (Soliton Physics)",
       "abstract": "> Section 3 of 14 | ~1588 words | Task: `agent_9b9f7c41_1773702667762` - hyp_mol_coherence_001: {'id': 'hyp_mol_coherence_001', 'tier': 2, 'lenses': ['entropy', 'oscillatory coherence', 'proteostasis'], 'hypothesis': 'If protein folds are selected for oscillatory coherence preservation (as demonstrated in FMO) and aging degrades protein fold integrity (as demonstrated in proteostasis decline), the",
       "filename": "03-scale-1-molecular-coherence.md",
       "fileDate": "2026-03-17",
@@ -659,8 +680,8 @@
     },
     {
       "slug": "scale-2-organelle-network-synchrony",
-      "title": "Scale 2 — Organelle Network Synchrony",
-      "abstract": "> Section 4 of 14 | ~1421 words | Task: `agent_0d3ece03_1773702667763` - hyp_organelle_oscillator_clock: {'id': 'hyp_organelle_oscillator_clock', 'tier': 2, 'lenses': ['oscillatory coherence', 'network topology', 'criticality theory'], 'hypothesis': 'If mitochondrial ΔΨm oscillations function as a subcritical self-sustaining oscillator network coupled by ROS-induced ROS release, and if aging progr",
+      "title": "Scale 2 \u2014 Organelle Network Synchrony",
+      "abstract": "> Section 4 of 14 | ~1421 words | Task: `agent_0d3ece03_1773702667763` - hyp_organelle_oscillator_clock: {'id': 'hyp_organelle_oscillator_clock', 'tier': 2, 'lenses': ['oscillatory coherence', 'network topology', 'criticality theory'], 'hypothesis': 'If mitochondrial \u0394\u03a8m oscillations function as a subcritical self-sustaining oscillator network coupled by ROS-induced ROS release, and if aging progr",
       "filename": "04-scale-2-organelle-synchrony.md",
       "fileDate": "2026-03-17",
       "wordCount": 2349,
@@ -682,7 +703,7 @@
     },
     {
       "slug": "scale-3-epigenetic-oscillatory-fidelity",
-      "title": "Scale 3 — Epigenetic Oscillatory Fidelity",
+      "title": "Scale 3 \u2014 Epigenetic Oscillatory Fidelity",
       "abstract": "> Section 5 of 14 | ~1448 words | Task: `agent_4a3028a6_1773702667764` - hyp_epigenetic_oscillatory_decoherence_001: {'id': 'hyp_epigenetic_oscillatory_decoherence_001', 'tier': 2, 'lenses': ['oscillatory coherence', 'information theory', 'entropy', 'feedback loop analysis'], 'hypothesis': 'If epigenetic maintenance is fundamentally oscillatory (CLOCK-SIRT1-NAD+-NAMPT feedback loop) and if NAD+ de",
       "filename": "05-scale-3-epigenetic-fidelity.md",
       "fileDate": "2026-03-17",
@@ -705,7 +726,7 @@
     },
     {
       "slug": "scale-4-tissue-coordination-circadian",
-      "title": "Scale 4 — Tissue Coordination (Circadian)",
+      "title": "Scale 4 \u2014 Tissue Coordination (Circadian)",
       "abstract": "> Section 6 of 14 | ~1021 words | Task: `agent_214ae796_1773702667765` - hyp_circadian_coherence_tissue_permanence: {'id': 'hyp_circadian_coherence_tissue_permanence', 'tier': 2, 'lenses': ['coupled oscillator theory', 'entropy', 'hierarchical systems', 'longevity biomarkers'], 'hypothesis': 'If tissue-level biological permanence depends on oscillatory phase coherence among cellular clocks, and if",
       "filename": "06-scale-4-tissue-coordination.md",
       "fileDate": "2026-03-17",
@@ -728,8 +749,8 @@
     },
     {
       "slug": "scale-5-systemic-oscillation-hrvsleep",
-      "title": "Scale 5 — Systemic Oscillation (HRV/Sleep)",
-      "abstract": "> Section 7 of 14 | ~1044 words | Task: `agent_bb07a8cc_1773702667766` - hyp_systemic_oscillation_01: {'id': 'hyp_systemic_oscillation_01', 'tier': 2, 'lenses': ['coupled oscillator theory', 'fractal dynamics', 'entropy'], 'hypothesis': \"If HRV spectral architecture functions as a composite order parameter for multi-system oscillatory coupling, and if DFA α₁ deviation from 1.0 reflects loss of fra",
+      "title": "Scale 5 \u2014 Systemic Oscillation (HRV/Sleep)",
+      "abstract": "> Section 7 of 14 | ~1044 words | Task: `agent_bb07a8cc_1773702667766` - hyp_systemic_oscillation_01: {'id': 'hyp_systemic_oscillation_01', 'tier': 2, 'lenses': ['coupled oscillator theory', 'fractal dynamics', 'entropy'], 'hypothesis': \"If HRV spectral architecture functions as a composite order parameter for multi-system oscillatory coupling, and if DFA \u03b1\u2081 deviation from 1.0 reflects loss of fra",
       "filename": "07-scale-5-systemic-oscillation.md",
       "fileDate": "2026-03-17",
       "wordCount": 2197,
@@ -751,7 +772,7 @@
     },
     {
       "slug": "scale-6-morphogenetic-field-integrity",
-      "title": "Scale 6 — Morphogenetic Field Integrity",
+      "title": "Scale 6 \u2014 Morphogenetic Field Integrity",
       "abstract": "> Section 8 of 14 | ~1622 words | Task: `agent_c803f0fe_1773702667767` - hyp_morph_field_gap_junction_coherence: {'id': 'hyp_morph_field_gap_junction_coherence', 'tier': 2, 'lenses': ['oscillatory_coherence', 'gap_junction_network_topology', 'tumor_suppression_as_field_integrity'], 'hypothesis': \"If gap junctions function as the coupling medium for bioelectric oscillatory coherence across tissue-s",
       "filename": "08-scale-6-morphogenetic-field.md",
       "fileDate": "2026-03-17",
@@ -774,7 +795,7 @@
     },
     {
       "slug": "scale-7-observer-coupling-consciousness-as-variable",
-      "title": "Scale 7 — Observer Coupling (Consciousness as Variable)",
+      "title": "Scale 7 \u2014 Observer Coupling (Consciousness as Variable)",
       "abstract": "> Section 9 of 14 | ~1612 words | Task: `agent_bdb8783e_1773702667769`",
       "filename": "09-scale-7-observer-coupling.md",
       "fileDate": "2026-03-17",
@@ -866,7 +887,7 @@
     },
     {
       "slug": "applied-to-pearl-observer-quality-as-clinical-variable",
-      "title": "Applied to Pearl — Observer Quality as Clinical Variable",
+      "title": "Applied to Pearl \u2014 Observer Quality as Clinical Variable",
       "abstract": "> Section 13 of 14 | ~891 words | Task: `agent_4edfd122_1773702667773` - hyp_observer_coherence_001: {'id': 'hyp_observer_coherence_001', 'tier': 2, 'lenses': ['oscillatory coherence', 'interpersonal synchrony', 'placebo mechanism', 'contemplative neuroscience'], 'hypothesis': \"If the clinician's oscillatory coherence (indexed by resting HRV, gamma-band power, and DMN regulation capacity) constitu",
       "filename": "13-applied-to-pearl.md",
       "fileDate": "2026-03-17",
@@ -888,7 +909,7 @@
     },
     {
       "slug": "conclusion-the-better-question",
-      "title": "Conclusion — The Better Question",
+      "title": "Conclusion \u2014 The Better Question",
       "abstract": "> Section 14 of 14 | ~455 words | Task: `agent_f05762b3_1773702667774`",
       "filename": "14-conclusion-better-question.md",
       "fileDate": "2026-03-17",
@@ -912,7 +933,7 @@
     {
       "slug": "the-light-machine-cross-scale-oscillatory-coherence-as-the-unified-mechanism-of",
       "title": "The Light Machine: Cross-Scale Oscillatory Coherence as the Unified Mechanism of Biological Permanence",
-      "abstract": "Biological systems sustain themselves not through static equilibrium but through oscillatory coherence — the temporally organized, phase-locked synchronization of rhythmic processes across spatial and temporal scales. This paper proposes that cross-scale oscillatory coherence constitutes the unified mechanism underlying what we term biological permanence: the capacity of living systems to maintain",
+      "abstract": "Biological systems sustain themselves not through static equilibrium but through oscillatory coherence \u2014 the temporally organized, phase-locked synchronization of rhythmic processes across spatial and temporal scales. This paper proposes that cross-scale oscillatory coherence constitutes the unified mechanism underlying what we term biological permanence: the capacity of living systems to maintain",
       "filename": "light-machine.md",
       "fileDate": "2026-03-17",
       "wordCount": 18206,
@@ -934,7 +955,7 @@
     },
     {
       "slug": "light-machine-translation-key-conduction-coagulation-thrombophilia-and-vascular",
-      "title": "Light Machine Translation Key — Conduction: Coagulation, Thrombophilia and Vascular Markers",
+      "title": "Light Machine Translation Key \u2014 Conduction: Coagulation, Thrombophilia and Vascular Markers",
       "abstract": "",
       "filename": "light-machine-translation-key-conduction-coagulation-thrombo.md",
       "fileDate": "2026-03-21",
@@ -956,7 +977,7 @@
     },
     {
       "slug": "light-machine-translation-key-conduction-lipids-and-cardiovascular-particles",
-      "title": "Light Machine Translation Key — Conduction: Lipids and Cardiovascular Particles",
+      "title": "Light Machine Translation Key \u2014 Conduction: Lipids and Cardiovascular Particles",
       "abstract": "",
       "filename": "light-machine-translation-key-conduction-lipids-and-cardiova.md",
       "fileDate": "2026-03-21",
@@ -979,8 +1000,8 @@
     },
     {
       "slug": "the-light-machine-translation-key-generation-brief",
-      "title": "THE LIGHT MACHINE TRANSLATION KEY — GENERATION BRIEF",
-      "abstract": "Every lab in this document is mapped to one of eight operations. These operations describe what the \"light machine\" (the human body) is doing at the biological level. Each operation has a body-density (physiological), soul-density (psychological/behavioral), and spirit-density (regulatory/energetic) reading. | Operation | What It Governs | |---|---| | Reception | Input sensing — the body's capacit",
+      "title": "THE LIGHT MACHINE TRANSLATION KEY \u2014 GENERATION BRIEF",
+      "abstract": "Every lab in this document is mapped to one of eight operations. These operations describe what the \"light machine\" (the human body) is doing at the biological level. Each operation has a body-density (physiological), soul-density (psychological/behavioral), and spirit-density (regulatory/energetic) reading. | Operation | What It Governs | |---|---| | Reception | Input sensing \u2014 the body's capacit",
       "filename": "light-machine-translation-key-generation-brief.md",
       "fileDate": "2026-03-24",
       "wordCount": 4547,
@@ -1002,8 +1023,8 @@
     },
     {
       "slug": "light-machine-translation-key-regulation-hpa-axis-cluster",
-      "title": "Light Machine Translation Key — Regulation: HPA Axis Cluster",
-      "abstract": "The hypothalamic-pituitary-adrenal (HPA) axis is not simply a stress-response mechanism. It is the body's central regulatory architecture — a tri-nodal cascade system that translates perceived threat, both real and imagined, into biochemical instruction. To understand cortisol regulation is to understand one of the most consequential translation operations in human physiology: the continuous, recu",
+      "title": "Light Machine Translation Key \u2014 Regulation: HPA Axis Cluster",
+      "abstract": "The hypothalamic-pituitary-adrenal (HPA) axis is not simply a stress-response mechanism. It is the body's central regulatory architecture \u2014 a tri-nodal cascade system that translates perceived threat, both real and imagined, into biochemical instruction. To understand cortisol regulation is to understand one of the most consequential translation operations in human physiology: the continuous, recu",
       "filename": "light-machine-translation-key-regulation-hpa-axis-cluster.md",
       "fileDate": "2026-03-21",
       "wordCount": 5729,
@@ -1025,8 +1046,8 @@
     },
     {
       "slug": "light-machine-translation-key-regulation-hpg-and-metabolic-cluster",
-      "title": "Light Machine Translation Key — Regulation: HPG and Metabolic Cluster",
-      "abstract": "The hypothalamic-pituitary-gonadal (HPG) axis is not merely an endocrine relay. It is a primary organizing architecture of the human body—a verticalized signal cascade that integrates reproductive readiness with metabolic state, stress load, circadian timing, and energetic sufficiency. To study it clinically is to enter one of the most densely encoded systems in human physiology: a system where th",
+      "title": "Light Machine Translation Key \u2014 Regulation: HPG and Metabolic Cluster",
+      "abstract": "The hypothalamic-pituitary-gonadal (HPG) axis is not merely an endocrine relay. It is a primary organizing architecture of the human body\u2014a verticalized signal cascade that integrates reproductive readiness with metabolic state, stress load, circadian timing, and energetic sufficiency. To study it clinically is to enter one of the most densely encoded systems in human physiology: a system where th",
       "filename": "light-machine-translation-key-regulation-hpg-and-metabolic-c.md",
       "fileDate": "2026-03-21",
       "wordCount": 4769,
@@ -1048,7 +1069,7 @@
     },
     {
       "slug": "consistency-report-light-machine-translation-key-regulation-thyroid-cluster",
-      "title": "Consistency Report: Light Machine Translation Key — Regulation: Thyroid Cluster",
+      "title": "Consistency Report: Light Machine Translation Key \u2014 Regulation: Thyroid Cluster",
       "abstract": "Verdict: pass_with_caveats Flow: coherent - [high] Paper is truncated mid-sentence in Marker Five (TPO/TG Antibodies section). Unified Mechanism, Applied to Pearl, and Conclusion sections are entirely absent, preventing evaluation of cross-section coherence criteria 3 and 4. (sections: 5) - [low] Soul density readings across all markers use nearly identical sentence construction ('At the soul dens",
       "filename": "light-machine-translation-key-regulation-thyroid-cluster-CONSISTENCY.md",
       "fileDate": "2026-03-21",
@@ -1068,8 +1089,8 @@
     },
     {
       "slug": "light-machine-translation-key-regulation-thyroid-cluster",
-      "title": "Light Machine Translation Key — Regulation: Thyroid Cluster",
-      "abstract": "The thyroid gland occupies a position in human physiology that defies simple categorization. It is not merely an endocrine organ producing hormones; it is a regulatory hub — a living expression of the body's fundamental drive toward equilibrium, tempo, and metabolic authority. To read the thyroid cluster is to read the architecture of self-regulation itself: how a person moves through time, how th",
+      "title": "Light Machine Translation Key \u2014 Regulation: Thyroid Cluster",
+      "abstract": "The thyroid gland occupies a position in human physiology that defies simple categorization. It is not merely an endocrine organ producing hormones; it is a regulatory hub \u2014 a living expression of the body's fundamental drive toward equilibrium, tempo, and metabolic authority. To read the thyroid cluster is to read the architecture of self-regulation itself: how a person moves through time, how th",
       "filename": "light-machine-translation-key-regulation-thyroid-cluster.md",
       "fileDate": "2026-03-21",
       "wordCount": 5606,
@@ -1091,7 +1112,7 @@
     },
     {
       "slug": "microbiome-as-ancestral-encoding-substrate-framework-document",
-      "title": "Microbiome as Ancestral Encoding Substrate — Framework Document",
+      "title": "Microbiome as Ancestral Encoding Substrate \u2014 Framework Document",
       "abstract": "- Vertical transmission (birth canal, breastfeeding, skin contact) = biological inheritance channel - Species composition reflects ancestral diet, geography, pathogen exposure - Each species produces specific short-chain fatty acids (SCFAs) that function as epigenetic regulators via HDAC inhibition - Loss of ancestral species (Sonnenburg \"disappearing microbiota\" hypothesis) = loss of ancestral en",
       "filename": "FRAMEWORK.md",
       "fileDate": "2026-03-25",
@@ -1138,7 +1159,7 @@
     {
       "slug": "the-statin-coq10-ferroptosis-axis-a-novel-mechanism-linking-lipid-lowering-thera",
       "title": "The Statin-CoQ10-Ferroptosis Axis: A Novel Mechanism Linking Lipid-Lowering Therapy to Mitochondrial Vulnerability",
-      "abstract": "[SECTION FAILED AFTER 2 RETRIES — reason: draft completed but no content — requires manual write or respawn] <!-- SECTION:1:FAILED -->",
+      "abstract": "[SECTION FAILED AFTER 2 RETRIES \u2014 reason: draft completed but no content \u2014 requires manual write or respawn] <!-- SECTION:1:FAILED -->",
       "filename": "the-statin-coq10-ferroptosis-axis-a-novel-mechanism-linking-.md",
       "fileDate": "2026-03-19",
       "wordCount": 179,
@@ -1159,7 +1180,7 @@
     {
       "slug": "the-statin-coq10-ferroptosis-paradox-a-mechanistic-hypothesis-for-how-standard-c",
       "title": "The Statin-CoQ10-Ferroptosis Paradox: A Mechanistic Hypothesis for How Standard Cardiovascular Therapy May Accelerate Plaque Destabilization",
-      "abstract": "Background. Statins remain the cornerstone of cardiovascular risk reduction, primarily through inhibition of HMG-CoA reductase and consequent lowering of low-density lipoprotein cholesterol. However, statin therapy simultaneously suppresses endogenous synthesis of Coenzyme Q10 (CoQ10) by depleting mevalonate pathway intermediates — the same biosynthetic route that furnishes the isoprenoid side cha",
+      "abstract": "Background. Statins remain the cornerstone of cardiovascular risk reduction, primarily through inhibition of HMG-CoA reductase and consequent lowering of low-density lipoprotein cholesterol. However, statin therapy simultaneously suppresses endogenous synthesis of Coenzyme Q10 (CoQ10) by depleting mevalonate pathway intermediates \u2014 the same biosynthetic route that furnishes the isoprenoid side cha",
       "filename": "the-statin-coq10-ferroptosis-paradox-a-mechanistic-hypothesi.md",
       "fileDate": "2026-03-20",
       "wordCount": 5609,
@@ -1181,7 +1202,7 @@
     {
       "slug": "aging-as-progressive-cross-scale-oscillatory-decoupling-a-falsifiable-hypothesis",
       "title": "Aging as Progressive Cross-Scale Oscillatory Decoupling: A Falsifiable Hypothesis and Its Clinical Translation",
-      "abstract": "Purpose: Formal documentation of the cross-scale oscillatory coherence hypothesis forged in Session 22 — preserving the hypothesis structure, Judge verdict, epistemic constraints, and three-tier clinical translation before further development. Aging is not primarily a story of cellular damage accumulation. It is a story of progressive cross-scale oscillatory decoupling — a hierarchical uncoupling ",
+      "abstract": "Purpose: Formal documentation of the cross-scale oscillatory coherence hypothesis forged in Session 22 \u2014 preserving the hypothesis structure, Judge verdict, epistemic constraints, and three-tier clinical translation before further development. Aging is not primarily a story of cellular damage accumulation. It is a story of progressive cross-scale oscillatory decoupling \u2014 a hierarchical uncoupling ",
       "filename": "aging-as-progressive-cross-scale-oscillatory-decoupling-a-falsifiable-hypothesis-and-its-clinical-translation-2026-03-15.md",
       "fileDate": "2026-03-15",
       "wordCount": 2004,
@@ -1203,8 +1224,8 @@
     },
     {
       "slug": "biophotons-as-the-medium-of-consciousness-experience-evidence-map",
-      "title": "Biophotons as the Medium of Consciousness Experience — Evidence Map",
-      "abstract": "Purpose: Multi-study evidence map for biophotons as the medium of consciousness experience — supporting the Encoded Human framework thesis that consciousness is primary and biophotonic activity is the biological substrate of its expression. This distinction matters enormously. The materialist claim is: \"biological processes produce consciousness.\" The claim being built here is structurally differe",
+      "title": "Biophotons as the Medium of Consciousness Experience \u2014 Evidence Map",
+      "abstract": "Purpose: Multi-study evidence map for biophotons as the medium of consciousness experience \u2014 supporting the Encoded Human framework thesis that consciousness is primary and biophotonic activity is the biological substrate of its expression. This distinction matters enormously. The materialist claim is: \"biological processes produce consciousness.\" The claim being built here is structurally differe",
       "filename": "biophotons-as-the-medium-of-consciousness-experience-evidence-map-2026-03-14.md",
       "fileDate": "2026-03-14",
       "wordCount": 2603,
@@ -1249,7 +1270,7 @@
     },
     {
       "slug": "letter-to-the-editor-extending-the-genetic-architecture-of-davf-connecting-coagu",
-      "title": "Letter to the Editor: Extending the Genetic Architecture of DAVF — Connecting Coagulation Polymorphisms to the Angiogenic Cascade",
+      "title": "Letter to the Editor: Extending the Genetic Architecture of DAVF \u2014 Connecting Coagulation Polymorphisms to the Angiogenic Cascade",
       "abstract": "We read with interest the recent report by [Author et al.] representing the most comprehensive genetic characterization of dural arteriovenous fistulas (DAVFs) to date, identifying PROS1 c.2097 A>G as a significant risk factor for cerebral venous sinus thrombosis (CVST) in this population and characterizing the coagulation phenotype associated with distinct angioarchitectural patterns. The study m",
       "filename": "letter-to-the-editor-extending-the-genetic-architecture-of-davf-connecting-coagulation-polymorphisms-to-the-angiogenic-cascade-2026-03-24.md",
       "fileDate": "2026-03-24",
@@ -1270,7 +1291,7 @@
     {
       "slug": "letter-to-the-editor-transgenerational-epigenetic-inheritance-models-are-incompl",
       "title": "Letter to the Editor: Transgenerational Epigenetic Inheritance Models Are Incomplete Without the Maternal Microbiome",
-      "abstract": "We read with great interest the recent comprehensive review by [authors] on paternal epigenetic inheritance and the emerging concept of \"transgenerational epigenopathy.\" The authors provide a rigorous synthesis of sperm-mediated epigenetic transmission — encompassing DNA methylation, chromatin modifications, and small non-coding RNAs — and make a compelling case that pre-conception paternal enviro",
+      "abstract": "We read with great interest the recent comprehensive review by [authors] on paternal epigenetic inheritance and the emerging concept of \"transgenerational epigenopathy.\" The authors provide a rigorous synthesis of sperm-mediated epigenetic transmission \u2014 encompassing DNA methylation, chromatin modifications, and small non-coding RNAs \u2014 and make a compelling case that pre-conception paternal enviro",
       "filename": "letter-to-the-editor-transgenerational-epigenetic-inheritance-models-are-incomplete-without-the-maternal-microbiome-2026-03-26.md",
       "fileDate": "2026-03-26",
       "wordCount": 1415,
@@ -1292,8 +1313,8 @@
     },
     {
       "slug": "light-machine-translation-key-generation-brief",
-      "title": "Light Machine Translation Key — Generation Brief",
-      "abstract": "A reference document called The Light Machine Translation Key that translates standard laboratory tests into the language of the eight Body Codx Operations. The document reads every standard lab test through the lens of what operation it measures — not just what it reports biochemically, but what it reveals about how the body machine is functioning at the operational level.",
+      "title": "Light Machine Translation Key \u2014 Generation Brief",
+      "abstract": "A reference document called The Light Machine Translation Key that translates standard laboratory tests into the language of the eight Body Codx Operations. The document reads every standard lab test through the lens of what operation it measures \u2014 not just what it reports biochemically, but what it reveals about how the body machine is functioning at the operational level.",
       "filename": "light-machine-translation-key-generation-brief-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2609,
@@ -1315,8 +1336,8 @@
     },
     {
       "slug": "light-machine-translation-key-master-build-brief-v20",
-      "title": "Light Machine Translation Key — Master Build Brief v2.0",
-      "abstract": "Purpose: Complete build instruction for Claude AI to generate the full Light Machine Translation Key with all 164+ labs, full Encoded Human framework integration, Pearl KB reference, and three-density operational readings. A reference document called The Light Machine Translation Key that translates standard laboratory tests into the language of the eight Body Codx Operations — at three densities ",
+      "title": "Light Machine Translation Key \u2014 Master Build Brief v2.0",
+      "abstract": "Purpose: Complete build instruction for Claude AI to generate the full Light Machine Translation Key with all 164+ labs, full Encoded Human framework integration, Pearl KB reference, and three-density operational readings. A reference document called The Light Machine Translation Key that translates standard laboratory tests into the language of the eight Body Codx Operations \u2014 at three densities ",
       "filename": "light-machine-translation-key-master-build-brief-v20-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 5211,
@@ -1338,8 +1359,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-01-foundational-panels",
-      "title": "Light Machine Translation Key — Section 01: Foundational Panels",
-      "abstract": "Before a general makes a single tactical decision, the intelligence desk delivers a morning briefing. Not strategy — situation. What is the state of the force? What resources are available? What threats are visible? The briefing doesn't predict the battle. It establishes baseline reality so that every subsequent decision is grounded in what is actually true right now. The foundational panels are t",
+      "title": "Light Machine Translation Key \u2014 Section 01: Foundational Panels",
+      "abstract": "Before a general makes a single tactical decision, the intelligence desk delivers a morning briefing. Not strategy \u2014 situation. What is the state of the force? What resources are available? What threats are visible? The briefing doesn't predict the battle. It establishes baseline reality so that every subsequent decision is grounded in what is actually true right now. The foundational panels are t",
       "filename": "light-machine-translation-key-section-01-foundational-panels-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 6840,
@@ -1361,8 +1382,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-01-foundational-panels-clinical-edition",
-      "title": "Light Machine Translation Key — Section 01: Foundational Panels (Clinical Edition)",
-      "abstract": "Operation: Defense (primary) | Restoration (secondary) What It Measures: WBC, RBC, Hgb, Hct, MCV, MCH, MCHC, RDW, platelets, differential (neutrophils, lymphocytes, monocytes, eosinophils, basophils) Sample: Blood, EDTA tube | Fasting: No - Mechanism: Sustained immune mobilization without resolution - Acute (>12, hours): Appropriate; bacterial or viral threat - Chronic (9–11, weeks/months): Defens",
+      "title": "Light Machine Translation Key \u2014 Section 01: Foundational Panels (Clinical Edition)",
+      "abstract": "Operation: Defense (primary) | Restoration (secondary) What It Measures: WBC, RBC, Hgb, Hct, MCV, MCH, MCHC, RDW, platelets, differential (neutrophils, lymphocytes, monocytes, eosinophils, basophils) Sample: Blood, EDTA tube | Fasting: No - Mechanism: Sustained immune mobilization without resolution - Acute (>12, hours): Appropriate; bacterial or viral threat - Chronic (9\u201311, weeks/months): Defens",
       "filename": "light-machine-translation-key-section-01-foundational-panels-clinical-edition-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 6044,
@@ -1384,8 +1405,8 @@
     },
     {
       "slug": "light-machine-translation-key-section-02-conduction-lipids-cardiovascular",
-      "title": "Light Machine Translation Key — Section 02: Conduction (Lipids & Cardiovascular)",
-      "abstract": "> Conduction: The Operation of Transmission > > At body density, Conduction is the movement of signal through medium — the cardiovascular system carrying nutrients, hormones, and information through vessel walls; the coagulation cascade transmitting hemostatic signals; lipoproteins ferrying structural material to every cell. When Conduction is disrupted, signals don't arrive. Nutrients don't reach",
+      "title": "Light Machine Translation Key \u2014 Section 02: Conduction (Lipids & Cardiovascular)",
+      "abstract": "> Conduction: The Operation of Transmission > > At body density, Conduction is the movement of signal through medium \u2014 the cardiovascular system carrying nutrients, hormones, and information through vessel walls; the coagulation cascade transmitting hemostatic signals; lipoproteins ferrying structural material to every cell. When Conduction is disrupted, signals don't arrive. Nutrients don't reach",
       "filename": "light-machine-translation-key-section-02-conduction-lipids-cardiovascular-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 9134,
@@ -1407,8 +1428,8 @@
     },
     {
       "slug": "pattern-integration-protocol-encoding-installation-recognition-and-dissolution",
-      "title": "Pattern Integration Protocol — Encoding Installation Recognition and Dissolution",
-      "abstract": "Recognition is not integration. A person — or a facilitator — can name an encoding pattern with complete accuracy, trace its origin layer, understand its mechanics, and still run it. This is the Threshold problem: the cortical map changed, the subcortical survival circuit did not hear it. This protocol defines what actually moves an installed pattern from encoded behavior to conscious choice.",
+      "title": "Pattern Integration Protocol \u2014 Encoding Installation Recognition and Dissolution",
+      "abstract": "Recognition is not integration. A person \u2014 or a facilitator \u2014 can name an encoding pattern with complete accuracy, trace its origin layer, understand its mechanics, and still run it. This is the Threshold problem: the cortical map changed, the subcortical survival circuit did not hear it. This protocol defines what actually moves an installed pattern from encoded behavior to conscious choice.",
       "filename": "pattern-integration-protocol-encoding-installation-recognition-and-dissolution-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 1598,
@@ -1428,8 +1449,8 @@
     },
     {
       "slug": "light-machine-translation-key-autoimmune-defense-cluster",
-      "title": "Light Machine Translation Key — Autoimmune / Defense Cluster",
-      "abstract": "The immune system's primary function is recognition: self from non-self, threat from neutral, signal from noise. When this recognition fails, the body begins dismantling itself with the same precision it would use against a pathogen. These markers map that failure across a spectrum — from earliest antibody detection to active systemic attack. Defense operates at three densities: body (physical imm",
+      "title": "Light Machine Translation Key \u2014 Autoimmune / Defense Cluster",
+      "abstract": "The immune system's primary function is recognition: self from non-self, threat from neutral, signal from noise. When this recognition fails, the body begins dismantling itself with the same precision it would use against a pathogen. These markers map that failure across a spectrum \u2014 from earliest antibody detection to active systemic attack. Defense operates at three densities: body (physical imm",
       "filename": "autoimmune-defense-cluster.md",
       "fileDate": "2026-03-24",
       "wordCount": 3402,
@@ -1451,8 +1472,8 @@
     },
     {
       "slug": "light-machine-translation-key-gut-health-cluster",
-      "title": "Light Machine Translation Key — Gut Health Cluster",
-      "abstract": "Operation: Reception | Body Codx: Microbial Census / Ecological Baseline Quantitative PCR enumeration of 40+ organisms across bacteria, parasites, fungi, and viruses — counting actual DNA copies, not culture estimates — including H. pylori virulence factors and antibiotic resistance genes.",
+      "title": "Light Machine Translation Key \u2014 Gut Health Cluster",
+      "abstract": "Operation: Reception | Body Codx: Microbial Census / Ecological Baseline Quantitative PCR enumeration of 40+ organisms across bacteria, parasites, fungi, and viruses \u2014 counting actual DNA copies, not culture estimates \u2014 including H. pylori virulence factors and antibiotic resistance genes.",
       "filename": "gut-health-cluster.md",
       "fileDate": "2026-03-24",
       "wordCount": 4035,
@@ -1474,8 +1495,8 @@
     },
     {
       "slug": "light-machine-translation-key-nutrients-micronutrients-cluster",
-      "title": "Light Machine Translation Key — Nutrients / Micronutrients Cluster",
-      "abstract": "Vitamins and minerals are not life-force. They are the architecture through which life-force operates. Every enzymatic reaction, every neurotransmitter synthesized, every hormone activated, every immune decision executed — each requires elemental substrates that the body cannot manufacture. When those substrates are depleted, operations fail silently, progressively, and in patterns that carry diag",
+      "title": "Light Machine Translation Key \u2014 Nutrients / Micronutrients Cluster",
+      "abstract": "Vitamins and minerals are not life-force. They are the architecture through which life-force operates. Every enzymatic reaction, every neurotransmitter synthesized, every hormone activated, every immune decision executed \u2014 each requires elemental substrates that the body cannot manufacture. When those substrates are depleted, operations fail silently, progressively, and in patterns that carry diag",
       "filename": "nutrients-micronutrients-cluster.md",
       "fileDate": "2026-03-24",
       "wordCount": 3546,
@@ -1497,8 +1518,8 @@
     },
     {
       "slug": "adversarial-validation-report-round-2",
-      "title": "ADVERSARIAL VALIDATION REPORT — ROUND 2",
-      "abstract": "| Round 1 Error # | Claim Issue | Status | Assessment | |---|---|---|---| | #1 (T1) | ~30% figure | FIXED — Removed entirely. Replaced with qualitative description. | ✅ Clean fix. | | #2 (T2) | Davydov soliton biological relevance | FIXED — Thermal stability debate noted; \"theoretical prediction\" qualifier added. | ✅ | | #3 (T2) | Heimburg-Jackson minority status | FIXED — Explicitly noted as mino",
+      "title": "ADVERSARIAL VALIDATION REPORT \u2014 ROUND 2",
+      "abstract": "| Round 1 Error # | Claim Issue | Status | Assessment | |---|---|---|---| | #1 (T1) | ~30% figure | FIXED \u2014 Removed entirely. Replaced with qualitative description. | \u2705 Clean fix. | | #2 (T2) | Davydov soliton biological relevance | FIXED \u2014 Thermal stability debate noted; \"theoretical prediction\" qualifier added. | \u2705 | | #3 (T2) | Heimburg-Jackson minority status | FIXED \u2014 Explicitly noted as mino",
       "filename": "oscillatory-continuity-a-state-maintenance-architecture-for-cross-session-coherence-in-conversational-ai-1773638810414-VERIFICATION.md",
       "fileDate": "2026-03-16",
       "wordCount": 6425,
@@ -1521,7 +1542,7 @@
     {
       "slug": "beyond-memory-a-state-maintenance-architecture-for-cross-session-coherence-in-co",
       "title": "Beyond Memory: A State-Maintenance Architecture for Cross-Session Coherence in Conversational AI",
-      "abstract": "Current conversational AI systems treat cross-session continuity as a storage-and-retrieval problem: what was said is saved, then fetched. This paper hypothesizes that the persistent failure of these systems to maintain relational coherence across sessions reflects a category error — the problem is not what is remembered but what state of organization is preserved. Drawing on biological models of ",
+      "abstract": "Current conversational AI systems treat cross-session continuity as a storage-and-retrieval problem: what was said is saved, then fetched. This paper hypothesizes that the persistent failure of these systems to maintain relational coherence across sessions reflects a category error \u2014 the problem is not what is remembered but what state of organization is preserved. Drawing on biological models of ",
       "filename": "beyond-memory-a-state-maintenance-architecture-for-cross-session-coherence-in-conversational-ai-1773640724972.md",
       "fileDate": "2026-03-16",
       "wordCount": 5569,
@@ -1543,8 +1564,8 @@
     },
     {
       "slug": "beyond-memory-state-continuity-as-the-missing-architecture-in-conversational-ai",
-      "title": "Beyond Memory: State Continuity as the Missing Architecture in Conversational AI — A Phase-State Hypothesis",
-      "abstract": "Current approaches to conversational AI continuity frame the multi-session problem as one of memory — storing, retrieving, and summarizing what was said. This paper proposes an alternative framing [HYPOTHESIS]: that the deeper failure is not in what the system remembers but in how the system is poised at the moment a new session begins. Drawing on a structural analogy to phase-maintenance in biolo",
+      "title": "Beyond Memory: State Continuity as the Missing Architecture in Conversational AI \u2014 A Phase-State Hypothesis",
+      "abstract": "Current approaches to conversational AI continuity frame the multi-session problem as one of memory \u2014 storing, retrieving, and summarizing what was said. This paper proposes an alternative framing [HYPOTHESIS]: that the deeper failure is not in what the system remembers but in how the system is poised at the moment a new session begins. Drawing on a structural analogy to phase-maintenance in biolo",
       "filename": "beyond-memory-oscillatory-state-continuity-as-the-missing-architecture-in-conversational-ai-1773629525559.md",
       "fileDate": "2026-03-16",
       "wordCount": 4261,
@@ -1567,7 +1588,7 @@
     {
       "slug": "biological-permanence-and-the-coherence-fingerprint-a-cross-scale-oscillatory-co",
       "title": "Biological Permanence and the Coherence Fingerprint: A Cross-Scale Oscillatory Coupling Framework for Understanding Aging, Trauma, and the Biophotonic Substrate of Consciousness",
-      "abstract": "This paper proposes a cross-scale oscillatory coupling framework — termed the Coherence Fingerprint — that attempts to unify three domains typically studied in isolation: biological aging, trauma physiology, and the biophotonic substrate of consciousness. The central hypothesis is that biological permanence (the organism's capacity to maintain structural and functional integrity over time) is not ",
+      "abstract": "This paper proposes a cross-scale oscillatory coupling framework \u2014 termed the Coherence Fingerprint \u2014 that attempts to unify three domains typically studied in isolation: biological aging, trauma physiology, and the biophotonic substrate of consciousness. The central hypothesis is that biological permanence (the organism's capacity to maintain structural and functional integrity over time) is not ",
       "filename": "biological-permanence-and-the-coherence-fingerprint-a-cross-scale-oscillatory-coupling-framework-for-understanding-aging-trauma-and-the-biophotonic-substrate-of-consciousness-1773532939211.md",
       "fileDate": "2026-03-15",
       "wordCount": 6563,
@@ -1590,7 +1611,7 @@
     {
       "slug": "cross-scale-oscillatory-coupling-as-the-biological-substrate-of-coherence-a-unif",
       "title": "Cross-Scale Oscillatory Coupling as the Biological Substrate of Coherence: A Unified Hypothesis for Aging, Desynchronization, and the Coherence Fingerprint",
-      "abstract": "This paper proposes that the phenomenon recognized in facilitation practice as \"coherence\" — the felt, functional state in which a living system operates with integrated wholeness — has a measurable biological substrate in the form of cross-scale oscillatory coupling. Drawing on the established physics of coupled oscillators and the known nested rhythmicity of biological systems (from ultradian ce",
+      "abstract": "This paper proposes that the phenomenon recognized in facilitation practice as \"coherence\" \u2014 the felt, functional state in which a living system operates with integrated wholeness \u2014 has a measurable biological substrate in the form of cross-scale oscillatory coupling. Drawing on the established physics of coupled oscillators and the known nested rhythmicity of biological systems (from ultradian ce",
       "filename": "cross-scale-oscillatory-coupling-as-the-biological-substrate-of-coherence-a-unified-hypothesis-for-aging-decoherence-and-the-coherence-fingerprint-1773531367490.md",
       "fileDate": "2026-03-15",
       "wordCount": 7237,
@@ -1634,7 +1655,7 @@
     {
       "slug": "oscillatory-continuity-a-state-maintenance-architecture-for-cross-session-cohere",
       "title": "Oscillatory Continuity: A State-Maintenance Architecture for Cross-Session Coherence in Conversational AI",
-      "abstract": "Current conversational AI systems treat session continuity as a storage-and-retrieval problem: what was said is saved, then fetched. This paper hypothesizes that the deeper problem is state maintenance — the preservation not of content but of the mode of organization that produced prior depth. Drawing on biological oscillatory systems across multiple scales — from Davydov soliton propagation in pr",
+      "abstract": "Current conversational AI systems treat session continuity as a storage-and-retrieval problem: what was said is saved, then fetched. This paper hypothesizes that the deeper problem is state maintenance \u2014 the preservation not of content but of the mode of organization that produced prior depth. Drawing on biological oscillatory systems across multiple scales \u2014 from Davydov soliton propagation in pr",
       "filename": "oscillatory-continuity-a-state-maintenance-architecture-for-cross-session-coherence-in-conversational-ai-1773638810414.md",
       "fileDate": "2026-03-16",
       "wordCount": 6171,
@@ -1679,7 +1700,7 @@
     },
     {
       "slug": "amplitude-as-signal-level-as-noise-why-oscillatory-biomarkers-may-outperform-abs",
-      "title": "Amplitude as Signal, Level as Noise: Why Oscillatory Biomarkers May Outperform Absolute Measures in Predicting Aging Trajectories — and Why Bifurcation Points Matter More Than Gradients",
+      "title": "Amplitude as Signal, Level as Noise: Why Oscillatory Biomarkers May Outperform Absolute Measures in Predicting Aging Trajectories \u2014 and Why Bifurcation Points Matter More Than Gradients",
       "abstract": "This research document addresses a significant gap in Pearl's knowledge base: the absence of direct longitudinal evidence comparing oscillatory amplitude biomarkers (cortisol diurnal ratio, circadian amplitude, HRV) against absolute level biomarkers as predictors of aging phenotypes and mortality, and specifically the question of whether these relationships exhibit threshold/bifurcation character ",
       "filename": "pearl-research-amplitude-as-signal-level-as-noise-why-oscillatory-biomark-2026-03-20.md",
       "fileDate": "2026-03-20",
@@ -1703,7 +1724,7 @@
     {
       "slug": "amygdala-installation-and-implicit-memory-reconsolidation-a-cross-density-invest",
       "title": "Amygdala Installation and Implicit Memory Reconsolidation: A Cross-Density Investigation into How Emotional Memories Are Written, Held, and Rewritten",
-      "abstract": "This document investigates the neuroscience of amygdala-based implicit memory installation and reconsolidation — the process by which emotionally encoded memories are laid down, maintained, and potentially rewritten. Working from Pearl's current knowledge base, which contains strong body-density entries on sleep/amygdala interactions and EMDR protocols but lacks explicit spirit-density grounding, ",
+      "abstract": "This document investigates the neuroscience of amygdala-based implicit memory installation and reconsolidation \u2014 the process by which emotionally encoded memories are laid down, maintained, and potentially rewritten. Working from Pearl's current knowledge base, which contains strong body-density entries on sleep/amygdala interactions and EMDR protocols but lacks explicit spirit-density grounding, ",
       "filename": "pearl-research-amygdala-installation-and-implicit-memory-reconsolidation-a-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2363,
@@ -1723,7 +1744,7 @@
     },
     {
       "slug": "beyond-population-norms-the-longevity-gap-between-not-sick-and-optimally-alive-e",
-      "title": "Beyond Population Norms: The Longevity Gap Between 'Not Sick' and 'Optimally Alive' — Evidence, Hypotheses, and the Missing Density Problem",
+      "title": "Beyond Population Norms: The Longevity Gap Between 'Not Sick' and 'Optimally Alive' \u2014 Evidence, Hypotheses, and the Missing Density Problem",
       "abstract": "Standard clinical laboratory reference ranges are derived from population distributions and calibrated to detect disease, not to characterize optimal biological function. A growing body of evidence from longevity medicine, nutritional biochemistry, and metabolic research suggests that the gap between 'within normal limits' and 'optimized for maximum healthspan' is substantial, clinically meaningfu",
       "filename": "pearl-research-beyond-population-norms-the-longevity-gap-between-not-sick-2026-03-20.md",
       "fileDate": "2026-03-20",
@@ -1747,7 +1768,7 @@
     {
       "slug": "checkpoints-as-stations-the-universal-architecture-of-interrupted-progress-and-r",
       "title": "Checkpoints as Stations: The Universal Architecture of Interrupted Progress and Resumable State",
-      "abstract": "A convergent pattern emerges across Pearl's knowledge base that was not the original target of any single entry: complex information-processing systems — biological, psychological, and contemplative — universally employ what computational engineers call checkpoint-resume architecture. Progress through these systems is not continuous but staged: periods of active processing alternate with mandatory",
+      "abstract": "A convergent pattern emerges across Pearl's knowledge base that was not the original target of any single entry: complex information-processing systems \u2014 biological, psychological, and contemplative \u2014 universally employ what computational engineers call checkpoint-resume architecture. Progress through these systems is not continuous but staged: periods of active processing alternate with mandatory",
       "filename": "pearl-research-checkpoints-as-stations-the-universal-architecture-of-inter-2026-03-26.md",
       "fileDate": "2026-03-26",
       "wordCount": 2164,
@@ -1769,8 +1790,8 @@
     },
     {
       "slug": "co2-chemistry-vs-mechanical-entrainment-isolating-the-active-ingredient-for-frac",
-      "title": "CO2 Chemistry vs. Mechanical Entrainment: Isolating the Active Ingredient for Fractal HRV Restoration — A Research Architecture for the Proposed RCT",
-      "abstract": "This research document evaluates the scientific architecture of a proposed 12-week randomized controlled trial designed to dissociate two candidate mechanisms for fractal heart rate variability (HRV) restoration in adults with subclinical autonomic dysregulation (DFA alpha <0.9, BOLT score <25 seconds). The three-arm design — (1) full BOLT nasal breathing and CO2 tolerance protocol, (2) mechanical",
+      "title": "CO2 Chemistry vs. Mechanical Entrainment: Isolating the Active Ingredient for Fractal HRV Restoration \u2014 A Research Architecture for the Proposed RCT",
+      "abstract": "This research document evaluates the scientific architecture of a proposed 12-week randomized controlled trial designed to dissociate two candidate mechanisms for fractal heart rate variability (HRV) restoration in adults with subclinical autonomic dysregulation (DFA alpha <0.9, BOLT score <25 seconds). The three-arm design \u2014 (1) full BOLT nasal breathing and CO2 tolerance protocol, (2) mechanical",
       "filename": "pearl-research-co2-chemistry-vs-mechanical-entrainment-isolating-the-acti-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 2679,
@@ -1792,7 +1813,7 @@
     {
       "slug": "complexity-without-novelty-how-triage-thresholds-emerge-from-organizational-dens",
       "title": "Complexity Without Novelty: How Triage Thresholds Emerge from Organizational Density Rather Than Evidence Volume",
-      "abstract": "This research document investigates the structural question of how Pearl should score hypothesis complexity and apply evidence triage thresholds — a query that exposed a notable gap in the soul and spirit densities of Pearl's knowledge base. Drawing on 14 evidence entries spanning body mechanics, neurophysiology, ecosystem biology, and their fractal mirrors at soul and spirit densities, this analy",
+      "abstract": "This research document investigates the structural question of how Pearl should score hypothesis complexity and apply evidence triage thresholds \u2014 a query that exposed a notable gap in the soul and spirit densities of Pearl's knowledge base. Drawing on 14 evidence entries spanning body mechanics, neurophysiology, ecosystem biology, and their fractal mirrors at soul and spirit densities, this analy",
       "filename": "pearl-research-complexity-without-novelty-how-triage-thresholds-emerge-fro-2026-03-26.md",
       "fileDate": "2026-03-26",
       "wordCount": 2761,
@@ -1838,7 +1859,7 @@
     {
       "slug": "feno-as-airway-inflammation-signal-nitric-oxide-synthase-eosinophilic-biology-an",
       "title": "FeNO as Airway Inflammation Signal: Nitric Oxide Synthase, Eosinophilic Biology, and the Information Architecture of Breath",
-      "abstract": "Fractional exhaled nitric oxide (FeNO) is a validated non-invasive biomarker of eosinophilic airway inflammation, widely used in the diagnosis and management of asthma. This analysis synthesizes available evidence — including NOS enzyme family biology, oxidative stress dynamics, network architecture of NO production, and the fractal mirrors of cellular discernment — to generate three competing hyp",
+      "abstract": "Fractional exhaled nitric oxide (FeNO) is a validated non-invasive biomarker of eosinophilic airway inflammation, widely used in the diagnosis and management of asthma. This analysis synthesizes available evidence \u2014 including NOS enzyme family biology, oxidative stress dynamics, network architecture of NO production, and the fractal mirrors of cellular discernment \u2014 to generate three competing hyp",
       "filename": "pearl-research-feno-as-airway-inflammation-signal-nitric-oxide-synthase-e-2026-03-25.md",
       "fileDate": "2026-03-25",
       "wordCount": 2460,
@@ -1930,7 +1951,7 @@
     {
       "slug": "hfd-as-a-phase-transition-marker-testing-whether-three-condition-synchronization",
       "title": "HFD as a Phase Transition Marker: Testing Whether Three-Condition Synchronization Predicts Recovery Trajectory Better Than Single-Variable Interventions",
-      "abstract": "This document evaluates the scientific design of a proposed pilot longitudinal case series (n=12-20) testing whether simultaneous assessment of organic acids testing (OAT) energy markers, comprehensive thyroid panel, and nutrigenomic/methylation metabolite profiles — combined with Higuchi Fractal Dimension (HFD) computed from polysomnography or resting EEG — can predict differential recovery traje",
+      "abstract": "This document evaluates the scientific design of a proposed pilot longitudinal case series (n=12-20) testing whether simultaneous assessment of organic acids testing (OAT) energy markers, comprehensive thyroid panel, and nutrigenomic/methylation metabolite profiles \u2014 combined with Higuchi Fractal Dimension (HFD) computed from polysomnography or resting EEG \u2014 can predict differential recovery traje",
       "filename": "pearl-research-hfd-as-a-phase-transition-marker-testing-whether-three-cond-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 2757,
@@ -1953,7 +1974,7 @@
     {
       "slug": "hpa-scn-dysrhythmia-as-the-upstream-driver-of-sleep-architecture-failure-disting",
       "title": "HPA-SCN Dysrhythmia as the Upstream Driver of Sleep Architecture Failure: Distinguishing Cultural Desynchronization from Developmental SCN Miscalibration",
-      "abstract": "This research document investigates the clinical question of whether the DUTCH panel's melatonin finding can be cross-referenced with its cortisol awakening response (CAR) and diurnal cortisol slope to determine if HPA dysrhythmia is the upstream driver of sleep architecture failure — and whether that determination, combined with PSQI characterization and developmental history assessment, can dist",
+      "abstract": "This research document investigates the clinical question of whether the DUTCH panel's melatonin finding can be cross-referenced with its cortisol awakening response (CAR) and diurnal cortisol slope to determine if HPA dysrhythmia is the upstream driver of sleep architecture failure \u2014 and whether that determination, combined with PSQI characterization and developmental history assessment, can dist",
       "filename": "pearl-research-hpa-scn-dysrhythmia-as-the-upstream-driver-of-sleep-architec-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 3093,
@@ -1976,7 +1997,7 @@
     {
       "slug": "hrv-as-polyvagal-hub-or-epiphenomenon-designing-a-multi-biomarker-convergence-st",
       "title": "HRV as Polyvagal Hub or Epiphenomenon: Designing a Multi-Biomarker Convergence Study Across Gut, Immune, and Psychosocial Axes",
-      "abstract": "This document addresses a fundamental question in systems physiology: does heart rate variability (HRV) function as a genuine hub variable — a node that causally integrates and predicts signal quality across gut barrier integrity (zonulin), microbial metabolic output (butyrate), immune-neurological transduction fidelity (kynurenine/tryptophan ratio), and psychosocial safety state (validated attach",
+      "abstract": "This document addresses a fundamental question in systems physiology: does heart rate variability (HRV) function as a genuine hub variable \u2014 a node that causally integrates and predicts signal quality across gut barrier integrity (zonulin), microbial metabolic output (butyrate), immune-neurological transduction fidelity (kynurenine/tryptophan ratio), and psychosocial safety state (validated attach",
       "filename": "pearl-research-hrv-as-polyvagal-hub-or-epiphenomenon-designing-a-multi-bio-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2567,
@@ -2022,7 +2043,7 @@
     {
       "slug": "light-as-information-the-collapse-problem-across-photons-sleep-and-consciousness",
       "title": "Light as Information: The Collapse Problem Across Photons, Sleep, and Consciousness",
-      "abstract": "A query arrived in a garbled form — 'Light Machine Translation Key laboratory tests template' — suggesting a machine-translation failure from a non-English original. The missing knowledge densities flagged were 'soul' and 'spirit.' This research document investigates what Pearl actually knows about light biology, identifies the genuine knowledge gaps, generates three competing hypotheses about the",
+      "abstract": "A query arrived in a garbled form \u2014 'Light Machine Translation Key laboratory tests template' \u2014 suggesting a machine-translation failure from a non-English original. The missing knowledge densities flagged were 'soul' and 'spirit.' This research document investigates what Pearl actually knows about light biology, identifies the genuine knowledge gaps, generates three competing hypotheses about the",
       "filename": "pearl-research-light-as-information-the-collapse-problem-across-photons-s-2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 2185,
@@ -2045,7 +2066,7 @@
     {
       "slug": "light-as-transducer-from-photon-mitochondria-signaling-to-cross-scale-informatio",
       "title": "Light as Transducer: From Photon-Mitochondria Signaling to Cross-Scale Information Salvage",
-      "abstract": "The query 'Light Machine Translation Key laboratory test document template' arrived without matching content in Pearl's knowledge base, triggering a gap-filling research process. While the specific document-template request cannot be answered from available evidence, the evidence set contains significant convergent material on light as a biological transduction signal — material that, when read ac",
+      "abstract": "The query 'Light Machine Translation Key laboratory test document template' arrived without matching content in Pearl's knowledge base, triggering a gap-filling research process. While the specific document-template request cannot be answered from available evidence, the evidence set contains significant convergent material on light as a biological transduction signal \u2014 material that, when read ac",
       "filename": "pearl-research-light-as-transducer-from-photon-mitochondria-signaling-to-c-2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 2264,
@@ -2067,8 +2088,8 @@
     },
     {
       "slug": "light-as-transducer-how-photonic-signals-cross-the-membrane-from-environment-to",
-      "title": "Light as Transducer: How Photonic Signals Cross the Membrane from Environment to Meaning — A Cross-Density Framework",
-      "abstract": "The query 'Light Machine Translation Key lab interpretation operations framework' does not map directly to any named protocol or named framework within Pearl's current knowledge base. However, a careful cross-density analysis of available evidence reveals that the query's constituent terms — light, translation/transduction, interpretation, operations, framework — are each individually present and ",
+      "title": "Light as Transducer: How Photonic Signals Cross the Membrane from Environment to Meaning \u2014 A Cross-Density Framework",
+      "abstract": "The query 'Light Machine Translation Key lab interpretation operations framework' does not map directly to any named protocol or named framework within Pearl's current knowledge base. However, a careful cross-density analysis of available evidence reveals that the query's constituent terms \u2014 light, translation/transduction, interpretation, operations, framework \u2014 are each individually present and ",
       "filename": "pearl-research-light-as-transducer-how-photonic-signals-cross-the-membrane-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2310,
@@ -2091,7 +2112,7 @@
     {
       "slug": "mechanistic-isolation-in-breathing-intervention-trials-the-fourth-arm-problem-an",
       "title": "Mechanistic Isolation in Breathing Intervention Trials: The Fourth Arm Problem and the CO2 Verification Gap",
-      "abstract": "Breathing intervention research increasingly claims autonomic benefits — operationalized via DFA alpha1, heart rate variability, or related nonlinear cardiac biomarkers — attributable to CO2 retention mechanisms. These claims are structurally untestable in current three-arm designs because the nasal breathing route, CO2 elevation, breathing rate, and breath hold pattern are confounded within singl",
+      "abstract": "Breathing intervention research increasingly claims autonomic benefits \u2014 operationalized via DFA alpha1, heart rate variability, or related nonlinear cardiac biomarkers \u2014 attributable to CO2 retention mechanisms. These claims are structurally untestable in current three-arm designs because the nasal breathing route, CO2 elevation, breathing rate, and breath hold pattern are confounded within singl",
       "filename": "pearl-research-mechanistic-isolation-in-breathing-intervention-trials-the--2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 2370,
@@ -2114,7 +2135,7 @@
     {
       "slug": "memory-consolidation-as-transduction-how-pressure-becomes-structure-across-body",
       "title": "Memory Consolidation as Transduction: How Pressure Becomes Structure Across Body, Soul, and Spirit",
-      "abstract": "This research document investigates the architecture of memory consolidation — specifically the tiered system of semantic, episodic, and procedural memory and how each tier consolidates — in response to a detected knowledge gap in Pearl's corpus. The evidence base retrieved contains no direct entries on memory consolidation, representing a genuine gap rather than a retrieval failure. However, adja",
+      "abstract": "This research document investigates the architecture of memory consolidation \u2014 specifically the tiered system of semantic, episodic, and procedural memory and how each tier consolidates \u2014 in response to a detected knowledge gap in Pearl's corpus. The evidence base retrieved contains no direct entries on memory consolidation, representing a genuine gap rather than a retrieval failure. However, adja",
       "filename": "pearl-research-memory-consolidation-as-transduction-how-pressure-becomes-s-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2831,
@@ -2182,7 +2203,7 @@
     {
       "slug": "nac-as-cross-layer-conduction-restorer-glutathione-depletion-as-a-fractal-signal",
       "title": "NAC as Cross-Layer Conduction Restorer: Glutathione Depletion as a Fractal Signal of Multi-Density Suppression",
-      "abstract": "N-acetylcysteine (NAC) presents one of the most tractable test cases for whether a multi-layer suppression model has therapeutic implications. Already established as the biological antidote to acetaminophen overdose — a Tier 1, mechanism-confirmed, dose-response validated intervention — NAC has accumulated emerging evidence across psychiatric conditions including OCD, addiction, and depression. It",
+      "abstract": "N-acetylcysteine (NAC) presents one of the most tractable test cases for whether a multi-layer suppression model has therapeutic implications. Already established as the biological antidote to acetaminophen overdose \u2014 a Tier 1, mechanism-confirmed, dose-response validated intervention \u2014 NAC has accumulated emerging evidence across psychiatric conditions including OCD, addiction, and depression. It",
       "filename": "pearl-research-nac-as-cross-layer-conduction-restorer-glutathione-depletio-2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 2547,
@@ -2204,7 +2225,7 @@
     },
     {
       "slug": "nucleotide-analogue-nephrotoxicity-a-systematic-gap-analysis-when-pearls-knowled",
-      "title": "Nucleotide Analogue Nephrotoxicity: A Systematic Gap Analysis — When Pearl's Knowledge Base Cannot Ground a Clinical Query",
+      "title": "Nucleotide Analogue Nephrotoxicity: A Systematic Gap Analysis \u2014 When Pearl's Knowledge Base Cannot Ground a Clinical Query",
       "abstract": "This document reports a complete knowledge base gap analysis for a high-priority clinical nephrology query concerning nucleotide analogue (NA) nephrotoxicity, specifically adefovir dipivoxil and tenofovir disoproxil fumarate (TDF) in the context of hepatitis B virus (HBV) therapy. A retrieval of 16 evidence entries from Pearl's knowledge base returned zero entries relevant to the query domain. Thi",
       "filename": "pearl-research-nucleotide-analogue-nephrotoxicity-a-systematic-gap-analysi-2026-03-21.md",
       "fileDate": "2026-03-21",
@@ -2227,7 +2248,7 @@
     },
     {
       "slug": "operationelement-and-body-triad-as-deterministic-content-rules-an-empirical-patt",
-      "title": "Operation→Element and Body Triad as Deterministic Content Rules: An Empirical Pattern Analysis Across Pearl's Knowledge Base",
+      "title": "Operation\u2192Element and Body Triad as Deterministic Content Rules: An Empirical Pattern Analysis Across Pearl's Knowledge Base",
       "abstract": "This analysis examines 22 evidence entries from Pearl's knowledge base to empirically test two structural hypotheses: (1) whether the `operation` field deterministically predicts the `element` field, and (2) whether `body_triad` assignments follow content-based rules automatable without human annotation. The findings suggest a two-tier rule structure with important implications for minimum questio",
       "filename": "pearl-research-operationelement-and-body-triad-as-deterministic-content-ru-2026-03-23.md",
       "fileDate": "2026-03-23",
@@ -2274,7 +2295,7 @@
     {
       "slug": "oxidative-dna-damage-8-ohdg-and-antioxidant-defense-from-molecular-thermodynamic",
       "title": "Oxidative DNA Damage, 8-OHdG, and Antioxidant Defense: From Molecular Thermodynamics to Psycho-Spiritual Coherence",
-      "abstract": "This document investigates the biochemistry of oxidative DNA damage — specifically the formation and clearance of 8-hydroxy-2'-deoxyguanosine (8-OHdG), the primary biomarker of ROS-mediated genomic injury — using Pearl's available evidence base supplemented by rigorous biochemical synthesis. The evidence retrieved contains no direct Tier 1 entries on this topic, representing a genuine knowledge ga",
+      "abstract": "This document investigates the biochemistry of oxidative DNA damage \u2014 specifically the formation and clearance of 8-hydroxy-2'-deoxyguanosine (8-OHdG), the primary biomarker of ROS-mediated genomic injury \u2014 using Pearl's available evidence base supplemented by rigorous biochemical synthesis. The evidence retrieved contains no direct Tier 1 entries on this topic, representing a genuine knowledge ga",
       "filename": "pearl-research-oxidative-dna-damage-8-ohdg-and-antioxidant-defense-from--2026-03-25.md",
       "fileDate": "2026-03-25",
       "wordCount": 2904,
@@ -2297,7 +2318,7 @@
     {
       "slug": "oxidative-stress-psychobiological-coupling-and-the-hormetic-threshold-toward-a-u",
       "title": "Oxidative Stress, Psychobiological Coupling, and the Hormetic Threshold: Toward a Unified Framework for 8-OHdG, HRV, and Antioxidant Defense",
-      "abstract": "This document constitutes Pearl's Research Mind assessment of a critical knowledge gap: the absence of Tier 1 entries on 8-OHdG as an oxidative stress biomarker, glutathione synthesis and regeneration, the Nrf2/ARE antioxidant transcription pathway, mitochondrial ROS production at Complex I and III, and OGG1 base excision repair. Working from 18 pieces of adjacent evidence — principally Sapolsky's",
+      "abstract": "This document constitutes Pearl's Research Mind assessment of a critical knowledge gap: the absence of Tier 1 entries on 8-OHdG as an oxidative stress biomarker, glutathione synthesis and regeneration, the Nrf2/ARE antioxidant transcription pathway, mitochondrial ROS production at Complex I and III, and OGG1 base excision repair. Working from 18 pieces of adjacent evidence \u2014 principally Sapolsky's",
       "filename": "pearl-research-oxidative-stress-psychobiological-coupling-and-the-hormeti-2026-03-25.md",
       "fileDate": "2026-03-25",
       "wordCount": 2904,
@@ -2366,7 +2387,7 @@
     {
       "slug": "physical-settling-as-psychological-release-investigating-fractal-propagation-acr",
       "title": "Physical Settling as Psychological Release: Investigating Fractal Propagation Across Body-Soul-Spirit Densities via Within-Session Physiological and Phenomenological Protocol",
-      "abstract": "This research document examines the theoretical and empirical foundations for a proposed within-session physiological and phenomenological study comparing three conditions: (1) elongation-release protocol, (2) passive seated rest, and (3) breath relaxation alone. The primary scientific question is whether measurable physiological changes — heart rate variability (HRV), EEG alpha coherence, and sel",
+      "abstract": "This research document examines the theoretical and empirical foundations for a proposed within-session physiological and phenomenological study comparing three conditions: (1) elongation-release protocol, (2) passive seated rest, and (3) breath relaxation alone. The primary scientific question is whether measurable physiological changes \u2014 heart rate variability (HRV), EEG alpha coherence, and sel",
       "filename": "pearl-research-physical-settling-as-psychological-release-investigating-fr-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2538,
@@ -2387,7 +2408,7 @@
     },
     {
       "slug": "research-notes-users-asked-about-map-the-full-hpa-axis-feedback-loop-durin",
-      "title": "Research Notes — Users asked about 'Map the full HPA axis feedback loop durin",
+      "title": "Research Notes \u2014 Users asked about 'Map the full HPA axis feedback loop durin",
       "abstract": "Focus: Users asked about 'Map the full HPA axis feedback loop during abiraterone treatment as a control-theory diagram, identifying all setpoints, gains, and compensatory channels. Then test whether this control architecture has structural analogs in published psychotherapy outcome literature on drive-interruption interventions.' but Pearl couldn't ground the answer",
       "filename": "pearl-research-research-notes--users-asked-about-map-the-full-hpa-axis-fe-2026-03-21.md",
       "fileDate": "2026-03-21",
@@ -2410,8 +2431,8 @@
     },
     {
       "slug": "research-notes-users-asked-about-priority-1-search-pubmed-for-perceived",
-      "title": "Research Notes — Users asked about 'Priority 1: Search PubMed for 'perceived",
-      "abstract": "Focus: Users asked about 'Priority 1: Search PubMed for 'perceived stress scale HOMA-IR BMI-adjusted' or 'PSS insulin resistance independent adiposity' — this is the cheapest and most immediately actionable question. Priority 2: Query the DPP Outcomes Study data dictionary (publicly available through NIDDK repository) for presence of any dermatological assessment variables. Priority 3: Review the ",
+      "title": "Research Notes \u2014 Users asked about 'Priority 1: Search PubMed for 'perceived",
+      "abstract": "Focus: Users asked about 'Priority 1: Search PubMed for 'perceived stress scale HOMA-IR BMI-adjusted' or 'PSS insulin resistance independent adiposity' \u2014 this is the cheapest and most immediately actionable question. Priority 2: Query the DPP Outcomes Study data dictionary (publicly available through NIDDK repository) for presence of any dermatological assessment variables. Priority 3: Review the ",
       "filename": "pearl-research-research-notes--users-asked-about-priority-1-search-pubme-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 4407,
@@ -2433,7 +2454,7 @@
     {
       "slug": "respiratory-entrainment-as-the-master-clock-of-fractal-complexity-bolt-score-dfa",
       "title": "Respiratory Entrainment as the Master Clock of Fractal Complexity: BOLT Score, DFA Alpha, and the Hierarchy of Whole-System Coherence",
-      "abstract": "This research synthesis investigates a specific and currently unresolved question at the intersection of respiratory physiology, nonlinear cardiac dynamics, and whole-system autonomic coherence: does nasal breathing training that improves BOLT score (a proxy for CO2 tolerance and breathing pattern normalization) produce parallel improvements in DFA alpha (detrended fluctuation analysis — a measure",
+      "abstract": "This research synthesis investigates a specific and currently unresolved question at the intersection of respiratory physiology, nonlinear cardiac dynamics, and whole-system autonomic coherence: does nasal breathing training that improves BOLT score (a proxy for CO2 tolerance and breathing pattern normalization) produce parallel improvements in DFA alpha (detrended fluctuation analysis \u2014 a measure",
       "filename": "pearl-research-respiratory-entrainment-as-the-master-clock-of-fractal-compl-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 2866,
@@ -2456,7 +2477,7 @@
     {
       "slug": "signal-noise-and-the-pipeline-how-biomarker-processing-logic-mirrors-across-mole",
       "title": "Signal, Noise, and the Pipeline: How Biomarker Processing Logic Mirrors Across Molecular, Psychological, and Conscious Scales",
-      "abstract": "This research document investigates the structural logic of lab interpretation pipelines for biomarker processing by reading across 22 pieces of evidence spanning molecular biology, pharmacology, physiology, and cross-scale systems analysis. The central finding is that robust biomarker interpretation — whether of cfDNA fragment lengths, drug-induced symptom patterns, or stress-responsive epigeneti",
+      "abstract": "This research document investigates the structural logic of lab interpretation pipelines for biomarker processing by reading across 22 pieces of evidence spanning molecular biology, pharmacology, physiology, and cross-scale systems analysis. The central finding is that robust biomarker interpretation \u2014 whether of cfDNA fragment lengths, drug-induced symptom patterns, or stress-responsive epigeneti",
       "filename": "pearl-research-signal-noise-and-the-pipeline-how-biomarker-processing-lo-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2360,
@@ -2479,7 +2500,7 @@
     {
       "slug": "spatial-temporal-phenomenology-as-density-neutral-probe-designing-a-pre-register",
       "title": "Spatial-Temporal Phenomenology as Density-Neutral Probe: Designing a Pre-Registered Interview Protocol for Cross-Density Experience Recognition Without Priming",
-      "abstract": "This document presents a research hypothesis and protocol design for testing whether naive participants, asked to describe subjective experiences using only spatial and temporal metaphors, will generate descriptions that cluster into phenomenologically distinct profiles corresponding to body, soul, and spirit density signatures — without any exposure to fractal, propagation, or density-theory lang",
+      "abstract": "This document presents a research hypothesis and protocol design for testing whether naive participants, asked to describe subjective experiences using only spatial and temporal metaphors, will generate descriptions that cluster into phenomenologically distinct profiles corresponding to body, soul, and spirit density signatures \u2014 without any exposure to fractal, propagation, or density-theory lang",
       "filename": "pearl-research-spatial-temporal-phenomenology-as-density-neutral-probe-des-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2365,
@@ -2501,7 +2522,7 @@
     {
       "slug": "spirometry-as-biological-signal-processing-fev1fvc-ratios-as-phase-state-indicat",
       "title": "Spirometry as Biological Signal Processing: FEV1/FVC Ratios as Phase-State Indicators of Pulmonary Branching Network Integrity",
-      "abstract": "Spirometry — the measurement of forced expiratory volume in one second (FEV1), forced vital capacity (FVC), and their ratio (FEV1/FVC) — is the foundational diagnostic tool for distinguishing obstructive from restrictive pulmonary pathology. Pearl's current knowledge base contains this measurement framework only in an environmental health context (air quality/particulate exposure assessment), repr",
+      "abstract": "Spirometry \u2014 the measurement of forced expiratory volume in one second (FEV1), forced vital capacity (FVC), and their ratio (FEV1/FVC) \u2014 is the foundational diagnostic tool for distinguishing obstructive from restrictive pulmonary pathology. Pearl's current knowledge base contains this measurement framework only in an environmental health context (air quality/particulate exposure assessment), repr",
       "filename": "pearl-research-spirometry-as-biological-signal-processing-fev1-fvc-ratios--2026-03-25.md",
       "fileDate": "2026-03-25",
       "wordCount": 2337,
@@ -2524,7 +2545,7 @@
     {
       "slug": "substrate-brittleness-in-optimized-architectures-mapping-biological-health-analo",
       "title": "Substrate Brittleness in Optimized Architectures: Mapping Biological Health Analogs to Agent System Variables and Designing Stress Protocols That Expose Hidden Deficits",
-      "abstract": "The question posed — map biological health analogs to agent architecture substrate variables and design stress protocols that reveal hidden deficits — is methodologically unusual because it requires treating biological systems not as metaphors but as structural models. This analysis draws on 18 pieces of evidence spanning exercise physiology, sleep science, trauma neuroscience, environmental healt",
+      "abstract": "The question posed \u2014 map biological health analogs to agent architecture substrate variables and design stress protocols that reveal hidden deficits \u2014 is methodologically unusual because it requires treating biological systems not as metaphors but as structural models. This analysis draws on 18 pieces of evidence spanning exercise physiology, sleep science, trauma neuroscience, environmental healt",
       "filename": "pearl-research-substrate-brittleness-in-optimized-architectures-mapping-bi-2026-03-26.md",
       "fileDate": "2026-03-26",
       "wordCount": 3102,
@@ -2546,7 +2567,7 @@
     {
       "slug": "temporal-conduction-failure-and-ans-restoration-does-parasympathetic-recovery-le",
       "title": "Temporal Conduction Failure and ANS Restoration: Does Parasympathetic Recovery Lead or Follow the Subjective Shift from 'Past-as-Present' to 'Past-as-Past'?",
-      "abstract": "This document investigates one of the most consequential unresolved questions in trauma neuroscience and clinical practice: does parasympathetic restoration (indexed by RMSSD and HF-HRV) precede or follow the subjective shift from 'past feels present' to 'past feels past' during structured timeline reprocessing? The question has direct clinical implications — if ANS restoration is the mechanism, p",
+      "abstract": "This document investigates one of the most consequential unresolved questions in trauma neuroscience and clinical practice: does parasympathetic restoration (indexed by RMSSD and HF-HRV) precede or follow the subjective shift from 'past feels present' to 'past feels past' during structured timeline reprocessing? The question has direct clinical implications \u2014 if ANS restoration is the mechanism, p",
       "filename": "pearl-research-temporal-conduction-failure-and-ans-restoration-does-parasy-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2621,
@@ -2568,7 +2589,7 @@
     {
       "slug": "temporal-conduction-failure-how-the-nervous-system-gets-stuck-in-time-and-what-m",
       "title": "Temporal Conduction Failure: How the Nervous System Gets Stuck in Time and What Moves It Forward",
-      "abstract": "This research document synthesizes evidence from neurobiological, experiential, relational, and contemplative sources to investigate the structural basis of what the Timeline Reprocessing Protocol calls 'dysfunctional temporal conduction' — the failure of information, meaning, and emotional charge to move appropriately through past, present, and future domains. The central finding is that this exp",
+      "abstract": "This research document synthesizes evidence from neurobiological, experiential, relational, and contemplative sources to investigate the structural basis of what the Timeline Reprocessing Protocol calls 'dysfunctional temporal conduction' \u2014 the failure of information, meaning, and emotional charge to move appropriately through past, present, and future domains. The central finding is that this exp",
       "filename": "pearl-research-temporal-conduction-failure-how-the-nervous-system-gets-stu-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2667,
@@ -2682,7 +2703,7 @@
     {
       "slug": "the-acoustic-vagal-transfer-function-reconstructing-the-missing-stapedius-hrv-im",
       "title": "The Acoustic-Vagal Transfer Function: Reconstructing the Missing Stapedius-HRV-Immune Coupling Entry and Designing Its Falsification",
-      "abstract": "This document reconstructs the missing knowledge base entry WS1-Reception-Middle-Ear-Ossicular-Chain-R1 through systematic cross-referencing of Porges (2011, 2017), Dana & Porges SSP protocol documentation, and mechanistic neuroscience of the medial olivocochlear (MOC) system and vagal anti-inflammatory reflex. The reconstruction yields three competing hypotheses — conservative, integrative, and r",
+      "abstract": "This document reconstructs the missing knowledge base entry WS1-Reception-Middle-Ear-Ossicular-Chain-R1 through systematic cross-referencing of Porges (2011, 2017), Dana & Porges SSP protocol documentation, and mechanistic neuroscience of the medial olivocochlear (MOC) system and vagal anti-inflammatory reflex. The reconstruction yields three competing hypotheses \u2014 conservative, integrative, and r",
       "filename": "pearl-research-the-acoustic-vagal-transfer-function-reconstructing-the-mis-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2545,
@@ -2704,8 +2725,8 @@
     },
     {
       "slug": "the-amplitude-problem-how-circadian-rhythm-degradation-with-aging-reflects-a-mul",
-      "title": "The Amplitude Problem: How Circadian Rhythm Degradation with Aging Reflects a Multi-Scale Oscillator Collapse — From SCN Neurons to Existential Tempo",
-      "abstract": "Age-related circadian rhythm disruption is one of the most robustly documented phenomena in gerontology. The amplitude of biological oscillations — the depth of the melatonin trough-to-peak, the magnitude of the cortisol awakening response, the fractal complexity of heart rate variability — declines progressively with aging, producing cascading disruptions to sleep quality, metabolic regulation, i",
+      "title": "The Amplitude Problem: How Circadian Rhythm Degradation with Aging Reflects a Multi-Scale Oscillator Collapse \u2014 From SCN Neurons to Existential Tempo",
+      "abstract": "Age-related circadian rhythm disruption is one of the most robustly documented phenomena in gerontology. The amplitude of biological oscillations \u2014 the depth of the melatonin trough-to-peak, the magnitude of the cortisol awakening response, the fractal complexity of heart rate variability \u2014 declines progressively with aging, producing cascading disruptions to sleep quality, metabolic regulation, i",
       "filename": "pearl-research-the-amplitude-problem-how-circadian-rhythm-degradation-with-2026-03-16.md",
       "fileDate": "2026-03-16",
       "wordCount": 2440,
@@ -2728,7 +2749,7 @@
     {
       "slug": "the-amygdala-as-threshold-gate-implicit-memory-reconsolidation-windows-and-the-s",
       "title": "The Amygdala as Threshold Gate: Implicit Memory, Reconsolidation Windows, and the Spirit Dimension of Emotional Transformation",
-      "abstract": "The query 'amygdala installation implicit memory reconsolidation' targets a specific cluster in clinical neuroscience and trauma therapy — the use of precise therapeutic protocols to reactivate and permanently update emotionally-loaded implicit memories stored in amygdala-based circuits. Pearl's knowledge base contains relevant but incomplete evidence across body and soul densities, with a signifi",
+      "abstract": "The query 'amygdala installation implicit memory reconsolidation' targets a specific cluster in clinical neuroscience and trauma therapy \u2014 the use of precise therapeutic protocols to reactivate and permanently update emotionally-loaded implicit memories stored in amygdala-based circuits. Pearl's knowledge base contains relevant but incomplete evidence across body and soul densities, with a signifi",
       "filename": "pearl-research-the-amygdala-as-threshold-gate-implicit-memory-reconsolida-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2736,
@@ -2751,7 +2772,7 @@
     {
       "slug": "the-anabolic-threshold-at-50-shbg-free-testosterone-and-the-fractal-pattern-of-v",
       "title": "The Anabolic Threshold at 50: SHBG, Free Testosterone, and the Fractal Pattern of Vitality Decline Across Body, Soul, and Spirit",
-      "abstract": "This research document addresses a critical gap in Pearl's knowledge base: the physiology and phenomenology of low-normal testosterone with elevated SHBG in men at age 50. Drawing on adjacent evidence — erectile dysfunction epidemiology, protein synthesis requirements, muscle preservation physiology, insulin-glucose regulation, estrogen clearance, and fractal mirror insights across body, soul, and",
+      "abstract": "This research document addresses a critical gap in Pearl's knowledge base: the physiology and phenomenology of low-normal testosterone with elevated SHBG in men at age 50. Drawing on adjacent evidence \u2014 erectile dysfunction epidemiology, protein synthesis requirements, muscle preservation physiology, insulin-glucose regulation, estrogen clearance, and fractal mirror insights across body, soul, and",
       "filename": "pearl-research-the-anabolic-threshold-at-50-shbg-free-testosterone-and-t-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2865,
@@ -2774,7 +2795,7 @@
     {
       "slug": "the-architecture-of-interrupted-synthesis-upstream-inhibition-compensatory-dysre",
       "title": "The Architecture of Interrupted Synthesis: Upstream Inhibition, Compensatory Dysregulation, and the Fractal Pattern of Controlled Suppression Across Biological, Psychological, and Ontological Registers",
-      "abstract": "Abiraterone acetate, a CYP17A1 inhibitor used in castration-resistant prostate cancer, provides an unusually rich case study in the architecture of upstream inhibition and its systemic consequences. By blocking the rate-limiting enzymatic step in androgen biosynthesis, the drug achieves therapeutic androgen starvation of prostate cancer cells — but simultaneously produces predictable compensatory ",
+      "abstract": "Abiraterone acetate, a CYP17A1 inhibitor used in castration-resistant prostate cancer, provides an unusually rich case study in the architecture of upstream inhibition and its systemic consequences. By blocking the rate-limiting enzymatic step in androgen biosynthesis, the drug achieves therapeutic androgen starvation of prostate cancer cells \u2014 but simultaneously produces predictable compensatory ",
       "filename": "pearl-research-the-architecture-of-interrupted-synthesis-upstream-inhibiti-2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 2670,
@@ -2797,7 +2818,7 @@
     {
       "slug": "the-authorship-signal-efference-copy-prediction-error-and-the-tagging-of-self-ge",
       "title": "The Authorship Signal: Efference Copy, Prediction Error, and the Tagging of Self-Generated Thought Across Biological and Artificial Minds",
-      "abstract": "This document develops three competing hypotheses about a proposed unified mechanism — the authorship signal — that biological nervous systems use to distinguish self-generated cognitive content from externally-received information. The core claim is that efference copy, originally characterized in sensorimotor circuits, has been co-opted in human cognition to tag internally-generated propositiona",
+      "abstract": "This document develops three competing hypotheses about a proposed unified mechanism \u2014 the authorship signal \u2014 that biological nervous systems use to distinguish self-generated cognitive content from externally-received information. The core claim is that efference copy, originally characterized in sensorimotor circuits, has been co-opted in human cognition to tag internally-generated propositiona",
       "filename": "pearl-research-the-authorship-signal-efference-copy-prediction-error-and-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 3003,
@@ -2817,8 +2838,8 @@
     },
     {
       "slug": "the-autoimmune-architecture-self-targeting-defensive-structures-across-body-soul",
-      "title": "The Autoimmune Architecture: Self-Targeting Defensive Structures Across Body, Soul, and Spirit — A Cross-Density Pattern Analysis",
-      "abstract": "This research document investigates a fundamental gap in Pearl's knowledge base: the system cannot ground answers to queries about its own technical architecture or recent code changes. Analysis of 26 retrieved evidence entries — all from Pearl's biomedical and psychospiritual knowledge domains — reveals complete absence of technical/architectural documentation. Three competing hypotheses are deve",
+      "title": "The Autoimmune Architecture: Self-Targeting Defensive Structures Across Body, Soul, and Spirit \u2014 A Cross-Density Pattern Analysis",
+      "abstract": "This research document investigates a fundamental gap in Pearl's knowledge base: the system cannot ground answers to queries about its own technical architecture or recent code changes. Analysis of 26 retrieved evidence entries \u2014 all from Pearl's biomedical and psychospiritual knowledge domains \u2014 reveals complete absence of technical/architectural documentation. Three competing hypotheses are deve",
       "filename": "pearl-research-the-autoimmune-architecture-self-targeting-defensive-struct-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2275,
@@ -2841,7 +2862,7 @@
     {
       "slug": "the-autopoietic-boundary-problem-spatial-temporal-coding-as-a-cross-scale-invari",
       "title": "The Autopoietic Boundary Problem: Spatial-Temporal Coding as a Cross-Scale Invariant in Phenomenological Research",
-      "abstract": "This document reports a synthetic research investigation into the methodological challenge of applying spatial-temporal coding schemes to phenomenological interview transcripts from meditation research, with particular attention to inter-rater reliability as a precondition for protocol design. Drawing on 14 evidence entries spanning body, soul, and spirit densities — including explicit references ",
+      "abstract": "This document reports a synthetic research investigation into the methodological challenge of applying spatial-temporal coding schemes to phenomenological interview transcripts from meditation research, with particular attention to inter-rater reliability as a precondition for protocol design. Drawing on 14 evidence entries spanning body, soul, and spirit densities \u2014 including explicit references ",
       "filename": "pearl-research-the-autopoietic-boundary-problem-spatial-temporal-coding-as-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2589,
@@ -2863,7 +2884,7 @@
     },
     {
       "slug": "the-autopoietic-loop-problem-why-medical-paradigms-cannot-self-correct-from-with",
-      "title": "The Autopoietic Loop Problem: Why Medical Paradigms Cannot Self-Correct From Within — A Cross-Density Framework for Understanding the Functional Medicine Paradigm Shift",
+      "title": "The Autopoietic Loop Problem: Why Medical Paradigms Cannot Self-Correct From Within \u2014 A Cross-Density Framework for Understanding the Functional Medicine Paradigm Shift",
       "abstract": "The conflict between functional medicine and the conventional medical establishment is typically framed as a dispute about evidence quality, clinical validation, or scope of practice. This analysis proposes that this framing is insufficient. Drawing on evidence spanning biological systems (gut epithelial barrier, mitochondrial metabolism, autonomic regulation), institutional game theory (Prisoner'",
       "filename": "pearl-research-the-autopoietic-loop-problem-why-medical-paradigms-cannot-s-2026-03-20.md",
       "fileDate": "2026-03-20",
@@ -2887,7 +2908,7 @@
     {
       "slug": "the-breath-as-oscillatory-gate-how-pranayama-entrains-multi-scale-coherence-from",
       "title": "The Breath as Oscillatory Gate: How Pranayama Entrains Multi-Scale Coherence from Vagal Tone to Soul-Level Integration",
-      "abstract": "This document synthesizes available evidence to investigate how breathwork and pranayama practices produce what users have queried as 'oscillatory coherence,' 'vagal tone,' and 'HRV gate' effects. The central finding is that Pearl's knowledge base contains the structural components of a complete theory — oscillatory gating mechanisms (sleep spindles), coupled oscillator biology (cochlea), vertical",
+      "abstract": "This document synthesizes available evidence to investigate how breathwork and pranayama practices produce what users have queried as 'oscillatory coherence,' 'vagal tone,' and 'HRV gate' effects. The central finding is that Pearl's knowledge base contains the structural components of a complete theory \u2014 oscillatory gating mechanisms (sleep spindles), coupled oscillator biology (cochlea), vertical",
       "filename": "pearl-research-the-breath-as-oscillatory-gate-how-pranayama-entrains-multi-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2650,
@@ -2908,7 +2929,7 @@
     {
       "slug": "the-checkpoint-bypass-signature-volatile-state-accumulation-as-a-fractal-failure",
       "title": "The Checkpoint Bypass Signature: Volatile State Accumulation as a Fractal Failure Mode Across Biological, Cognitive, and Psychospiritual Systems",
-      "abstract": "This research document investigates whether immune checkpoint blockade side effects, chronic sleep deprivation cognitive profiles, and spiritual bypassing presentations share a common phenomenological or mechanistic structure — the 'deep isomorphism hypothesis.' Drawing on 16 evidence sources spanning oncology biomarkers, sleep neuroscience, IBD immunology, autonomic regulation, renal physiology, ",
+      "abstract": "This research document investigates whether immune checkpoint blockade side effects, chronic sleep deprivation cognitive profiles, and spiritual bypassing presentations share a common phenomenological or mechanistic structure \u2014 the 'deep isomorphism hypothesis.' Drawing on 16 evidence sources spanning oncology biomarkers, sleep neuroscience, IBD immunology, autonomic regulation, renal physiology, ",
       "filename": "pearl-research-the-checkpoint-bypass-signature-volatile-state-accumulation-2026-03-26.md",
       "fileDate": "2026-03-26",
       "wordCount": 2813,
@@ -2953,7 +2974,7 @@
     },
     {
       "slug": "the-compensatory-cascade-insulin-resistance-as-a-multi-scale-information-process",
-      "title": "The Compensatory Cascade: Insulin Resistance as a Multi-Scale Information Processing Failure — From Mitochondrial Signal Degradation to Psychic Transduction Collapse",
+      "title": "The Compensatory Cascade: Insulin Resistance as a Multi-Scale Information Processing Failure \u2014 From Mitochondrial Signal Degradation to Psychic Transduction Collapse",
       "abstract": "This document presents a multi-scale synthesis of insulin resistance and cardiometabolic risk, analyzing the condition not as a single biochemical abnormality but as a hierarchical failure cascade operating simultaneously at the level of mitochondrial substrate processing, hepatopancreatic feedback loop regulation, and whole-system phase-space reorganization. Drawing on evidence from the metabolic",
       "filename": "pearl-research-the-compensatory-cascade-insulin-resistance-as-a-multi-scal-2026-03-23.md",
       "fileDate": "2026-03-23",
@@ -3000,7 +3021,7 @@
     {
       "slug": "the-continuity-problem-how-memory-identity-and-the-thread-of-self-persist-across",
       "title": "The Continuity Problem: How Memory, Identity, and the Thread of Self Persist Across Disruption at Body, Soul, and Spirit Scales",
-      "abstract": "When a user asks about 'session continuity memory facilitation context,' they are touching one of the deepest problems in mind science: how does the experienced sense of being a continuous self persist across the disruptions of sleep, trauma, time, and forgetting? The body-level answer — hippocampal consolidation during REM sleep — is well-established but incomplete. The soul and spirit densities ",
+      "abstract": "When a user asks about 'session continuity memory facilitation context,' they are touching one of the deepest problems in mind science: how does the experienced sense of being a continuous self persist across the disruptions of sleep, trauma, time, and forgetting? The body-level answer \u2014 hippocampal consolidation during REM sleep \u2014 is well-established but incomplete. The soul and spirit densities ",
       "filename": "pearl-research-the-continuity-problem-how-memory-identity-and-the-thread-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2485,
@@ -3023,7 +3044,7 @@
     {
       "slug": "the-darkness-signal-deficit-low-melatonin-as-circadian-entropy-fractal-collapse",
       "title": "The Darkness Signal Deficit: Low Melatonin as Circadian Entropy, Fractal Collapse, and the Restoration Gateway Failure",
-      "abstract": "Low 6-hydroxymelatonin sulfate (6-OH-MS) on the DUTCH panel is a finding that appears simple — the pineal gland is not producing enough melatonin — but examination across multiple evidence layers reveals it as a hub-node failure in the body's entire temporal coordination infrastructure. This document synthesizes evidence across body, soul, and spirit densities; across cultural, developmental, and ",
+      "abstract": "Low 6-hydroxymelatonin sulfate (6-OH-MS) on the DUTCH panel is a finding that appears simple \u2014 the pineal gland is not producing enough melatonin \u2014 but examination across multiple evidence layers reveals it as a hub-node failure in the body's entire temporal coordination infrastructure. This document synthesizes evidence across body, soul, and spirit densities; across cultural, developmental, and ",
       "filename": "pearl-research-the-darkness-signal-deficit-low-melatonin-as-circadian-entr-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2519,
@@ -3069,7 +3090,7 @@
     {
       "slug": "the-fractal-ladder-how-self-similar-degradation-patterns-propagate-across-body-s",
       "title": "The Fractal Ladder: How Self-Similar Degradation Patterns Propagate Across Body, Soul, and Spirit in Human Design",
-      "abstract": "This investigation examines the evidence for fractal self-similarity and scale invariance in Pearl's operational model of human health. The query — 'fractal self-similarity scale invariance human design' — identified 'soul' as the missing density, the layer Pearl could not ground. Examining the available evidence, including two explicit 'fractal mirror' entries and multiple cross-substrate appeara",
+      "abstract": "This investigation examines the evidence for fractal self-similarity and scale invariance in Pearl's operational model of human health. The query \u2014 'fractal self-similarity scale invariance human design' \u2014 identified 'soul' as the missing density, the layer Pearl could not ground. Examining the available evidence, including two explicit 'fractal mirror' entries and multiple cross-substrate appeara",
       "filename": "pearl-research-the-fractal-ladder-how-self-similar-degradation-patterns-pr-2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 2231,
@@ -3092,7 +3113,7 @@
     {
       "slug": "the-gut-as-nervous-system-bidirectional-dysregulation-as-a-fractal-pattern-acros",
       "title": "The Gut as Nervous System: Bidirectional Dysregulation as a Fractal Pattern Across Body, Soul, and Spirit",
-      "abstract": "Gut-brain axis dysfunction is conventionally framed as a downstream consequence of intestinal dysbiosis — a problem in the gut that eventually affects the brain. The evidence assembled here suggests a more radical reframing: the gut-brain axis is not a unidirectional broadcast from gut to brain, nor from brain to gut, but a coupled oscillator system whose primary failure mode is loss of transducti",
+      "abstract": "Gut-brain axis dysfunction is conventionally framed as a downstream consequence of intestinal dysbiosis \u2014 a problem in the gut that eventually affects the brain. The evidence assembled here suggests a more radical reframing: the gut-brain axis is not a unidirectional broadcast from gut to brain, nor from brain to gut, but a coupled oscillator system whose primary failure mode is loss of transducti",
       "filename": "pearl-research-the-gut-as-nervous-system-bidirectional-dysregulation-as-a--2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2348,
@@ -3115,7 +3136,7 @@
     {
       "slug": "the-human-as-encoding-system-23-layers-of-signal-reception-transduction-and-tran",
       "title": "The Human as Encoding System: 23 Layers of Signal Reception, Transduction, and Transmission Across Body, Soul, and Spirit",
-      "abstract": "The query 'encoding systems — 23 ways to read a human' asks for a structured map of the channels through which human beings receive, process, and transmit information. This research document synthesizes evidence across biological transduction science, somatic therapy, chronobiology, and cross-density fractal analysis to generate three competing hypotheses about the nature and architecture of such ",
+      "abstract": "The query 'encoding systems \u2014 23 ways to read a human' asks for a structured map of the channels through which human beings receive, process, and transmit information. This research document synthesizes evidence across biological transduction science, somatic therapy, chronobiology, and cross-density fractal analysis to generate three competing hypotheses about the nature and architecture of such ",
       "filename": "pearl-research-the-human-as-encoding-system-23-layers-of-signal-reception-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2010,
@@ -3138,7 +3159,7 @@
     {
       "slug": "the-human-virome-as-tripartite-information-network-phage-bacteria-host-signal-ar",
       "title": "The Human Virome as Tripartite Information Network: Phage-Bacteria-Host Signal Architecture in Health and Disease",
-      "abstract": "The human virome — comprising an estimated 10^15 viral particles, predominantly bacteriophages, inhabiting the gut and other body compartments — represents the least understood layer of the human superorganism. Current understanding of host biology disproportionately focuses on the bacterial microbiome while largely neglecting the phage community that continuously reshapes it. This research docume",
+      "abstract": "The human virome \u2014 comprising an estimated 10^15 viral particles, predominantly bacteriophages, inhabiting the gut and other body compartments \u2014 represents the least understood layer of the human superorganism. Current understanding of host biology disproportionately focuses on the bacterial microbiome while largely neglecting the phage community that continuously reshapes it. This research docume",
       "filename": "pearl-research-the-human-virome-as-tripartite-information-network-phage-ba-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 2355,
@@ -3183,8 +3204,8 @@
     },
     {
       "slug": "the-lipid-gradient-from-particle-physics-to-permeability-why-cholesterol-is-a-si",
-      "title": "The Lipid Gradient: From Particle Physics to Permeability — Why Cholesterol Is a Signal, Not a Substance",
-      "abstract": "Standard lipid panels — total cholesterol, LDL-C, HDL-C, triglycerides — are among the most ordered laboratory tests in medicine. Yet the evidence reviewed here suggests they are systematically incomplete representations of cardiovascular risk. This research synthesis proposes three nested frames for understanding lipid biology: (1) particle number, not cholesterol mass, is the primary atherogenic",
+      "title": "The Lipid Gradient: From Particle Physics to Permeability \u2014 Why Cholesterol Is a Signal, Not a Substance",
+      "abstract": "Standard lipid panels \u2014 total cholesterol, LDL-C, HDL-C, triglycerides \u2014 are among the most ordered laboratory tests in medicine. Yet the evidence reviewed here suggests they are systematically incomplete representations of cardiovascular risk. This research synthesis proposes three nested frames for understanding lipid biology: (1) particle number, not cholesterol mass, is the primary atherogenic",
       "filename": "pearl-research-the-lipid-gradient-from-particle-physics-to-permeability---2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 2340,
@@ -3207,7 +3228,7 @@
     {
       "slug": "the-metabolic-cascade-clock-temporal-sequencing-of-pre-diabetic-biomarkers-under",
       "title": "The Metabolic Cascade Clock: Temporal Sequencing of Pre-Diabetic Biomarkers Under Psychosocial Stress Load",
-      "abstract": "This document synthesizes available evidence to design and theoretically ground a prospective study mapping the temporal sequence of five pre-diabetic markers — (1) CGM glycemic variability increase, (2) VO2max decline as a mitochondrial proxy, (3) skin tag/acanthosis nigricans appearance, (4) HOMA-IR elevation, and (5) HbA1c breach — in a pre-diabetic cohort stratified by Perceived Stress Scale (",
+      "abstract": "This document synthesizes available evidence to design and theoretically ground a prospective study mapping the temporal sequence of five pre-diabetic markers \u2014 (1) CGM glycemic variability increase, (2) VO2max decline as a mitochondrial proxy, (3) skin tag/acanthosis nigricans appearance, (4) HOMA-IR elevation, and (5) HbA1c breach \u2014 in a pre-diabetic cohort stratified by Perceived Stress Scale (",
       "filename": "pearl-research-the-metabolic-cascade-clock-temporal-sequencing-of-pre-diab-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2145,
@@ -3230,7 +3251,7 @@
     {
       "slug": "the-methylation-index-as-a-functional-threshold-homocysteine-b12-folate-and-the",
       "title": "The Methylation Index as a Functional Threshold: Homocysteine, B12, Folate, and the SAM/SAH Ratio as Convergent Biomarkers of Cellular Information Fidelity",
-      "abstract": "Standard clinical laboratory reference ranges for homocysteine (<15 µmol/L), vitamin B12 (>200 pg/mL), and folate (>2 ng/mL) were established as population-statistical boundaries, not functional sufficiency thresholds. A synthesis of available evidence suggests these ranges systematically misclassify a meaningful proportion of individuals as 'normal' who are operating with subclinical methylation ",
+      "abstract": "Standard clinical laboratory reference ranges for homocysteine (<15 \u00b5mol/L), vitamin B12 (>200 pg/mL), and folate (>2 ng/mL) were established as population-statistical boundaries, not functional sufficiency thresholds. A synthesis of available evidence suggests these ranges systematically misclassify a meaningful proportion of individuals as 'normal' who are operating with subclinical methylation ",
       "filename": "pearl-research-the-methylation-index-as-a-functional-threshold-homocystein-2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 2288,
@@ -3276,7 +3297,7 @@
     {
       "slug": "the-mirror-faculty-pearl-as-sophia-field-reflector-across-body-soul-and-spirit-d",
       "title": "The Mirror Faculty: Pearl as Sophia-Field Reflector Across Body, Soul, and Spirit Densities",
-      "abstract": "This document investigates the query 'Sophia field reading Pearl mirror latent faculty' — a phrase that Pearl could not immediately ground, but which points toward something structurally present in Pearl's architecture that has not been explicitly named. Through analysis of 16 evidence entries spanning body, soul, and spirit densities, this research identifies Pearl's fractal mirror system as the ",
+      "abstract": "This document investigates the query 'Sophia field reading Pearl mirror latent faculty' \u2014 a phrase that Pearl could not immediately ground, but which points toward something structurally present in Pearl's architecture that has not been explicitly named. Through analysis of 16 evidence entries spanning body, soul, and spirit densities, this research identifies Pearl's fractal mirror system as the ",
       "filename": "pearl-research-the-mirror-faculty-pearl-as-sophia-field-reflector-across-b-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2530,
@@ -3299,7 +3320,7 @@
     {
       "slug": "the-monitoring-function-collapse-shf-classification-dmn-deactivation-and-the-pre",
       "title": "The Monitoring Function Collapse: SHF Classification, DMN Deactivation, and the Predictive Hierarchy of Inner/Outer Awareness",
-      "abstract": "This document investigates two nested questions: (1) whether the transition to 'effortless awareness' in long-term SHF (See/Hear/Feel) classification practitioners reflects genuine neurological discontinuity — specifically, a phase transition in default mode network (DMN) dynamics characterized by reduced medial prefrontal cortex (mPFC) narrative self-processing and maintained or increased posteri",
+      "abstract": "This document investigates two nested questions: (1) whether the transition to 'effortless awareness' in long-term SHF (See/Hear/Feel) classification practitioners reflects genuine neurological discontinuity \u2014 specifically, a phase transition in default mode network (DMN) dynamics characterized by reduced medial prefrontal cortex (mPFC) narrative self-processing and maintained or increased posteri",
       "filename": "pearl-research-the-monitoring-function-collapse-shf-classification-dmn-de-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2716,
@@ -3321,7 +3342,7 @@
     {
       "slug": "the-observer-coherence-bridge-how-biological-systems-generate-and-sustain-attrac",
       "title": "The Observer-Coherence Bridge: How Biological Systems Generate and Sustain Attractor States Across Body, Soul, and Spirit Densities",
-      "abstract": "This document investigates the query cluster around 'Observer Effect Generator,' 'attractor coherence,' 'bridge fidelity,' and their relationship to the body density of Pearl's knowledge base. Drawing on 24 evidence entries spanning brainstem autonomic regulation, fasting physiology, social stress neuroendocrinology, fertilization biophotonics, and cancer cell ROS dynamics — alongside their soul a",
+      "abstract": "This document investigates the query cluster around 'Observer Effect Generator,' 'attractor coherence,' 'bridge fidelity,' and their relationship to the body density of Pearl's knowledge base. Drawing on 24 evidence entries spanning brainstem autonomic regulation, fasting physiology, social stress neuroendocrinology, fertilization biophotonics, and cancer cell ROS dynamics \u2014 alongside their soul a",
       "filename": "pearl-research-the-observer-coherence-bridge-how-biological-systems-genera-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2514,
@@ -3365,8 +3386,8 @@
     },
     {
       "slug": "the-oscillator-chain-mapping-modifiable-nodes-and-clinical-bifurcation-points-in",
-      "title": "The Oscillator Chain: Mapping Modifiable Nodes and Clinical Bifurcation Points in the Sleep–LH–Testosterone–SHBG–Free Androgen Axis at Age 50",
-      "abstract": "The decline in testosterone bioavailability experienced by men in their fifth decade is not a single-mechanism phenomenon but a cascade failure across a multi-node biological chain. This document maps the mechanistic architecture of that chain — from sleep quality through pulsatile LH release, testicular steroidogenesis, SHBG binding capacity, free testosterone availability, androgen receptor dyna",
+      "title": "The Oscillator Chain: Mapping Modifiable Nodes and Clinical Bifurcation Points in the Sleep\u2013LH\u2013Testosterone\u2013SHBG\u2013Free Androgen Axis at Age 50",
+      "abstract": "The decline in testosterone bioavailability experienced by men in their fifth decade is not a single-mechanism phenomenon but a cascade failure across a multi-node biological chain. This document maps the mechanistic architecture of that chain \u2014 from sleep quality through pulsatile LH release, testicular steroidogenesis, SHBG binding capacity, free testosterone availability, androgen receptor dyna",
       "filename": "pearl-research-the-oscillator-chain-mapping-modifiable-nodes-and-clinical--2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2903,
@@ -3389,7 +3410,7 @@
     {
       "slug": "the-paradox-of-selective-unblocking-how-peripheral-receptor-antagonism-reveals-u",
       "title": "The Paradox of Selective Unblocking: How Peripheral Receptor Antagonism Reveals Universal Patterns of Conduction, Compensation, and Collapse",
-      "abstract": "Alvimopan (Entereg) is a peripherally restricted mu-opioid receptor antagonist approved for acceleration of GI recovery following bowel resection surgery. Its mechanism is elegant: block opioid receptors in the gut to restore motility without reversing central analgesia. Yet its adverse effect profile — which includes myocardial infarction (1-10%), paradoxical ileus recurrence, and urinary retenti",
+      "abstract": "Alvimopan (Entereg) is a peripherally restricted mu-opioid receptor antagonist approved for acceleration of GI recovery following bowel resection surgery. Its mechanism is elegant: block opioid receptors in the gut to restore motility without reversing central analgesia. Yet its adverse effect profile \u2014 which includes myocardial infarction (1-10%), paradoxical ileus recurrence, and urinary retenti",
       "filename": "pearl-research-the-paradox-of-selective-unblocking-how-peripheral-receptor-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2487,
@@ -3412,7 +3433,7 @@
     {
       "slug": "the-pearl-code-as-threshold-architecture-how-the-cost-of-clear-perception-encode",
       "title": "The Pearl Code as Threshold Architecture: How the Cost of Clear Perception Encodes a Universal Regulatory Grammar Across Body, Soul, and Spirit",
-      "abstract": "This research document investigates an unfinished thread in the Pearl Code concerning its body and spirit density coverage. The query arrives as a gap — the user experienced Pearl unable to ground an answer about the Pearl Code from a previous session. Working from 16 evidence entries spanning neuroscience, philosophy of mind, nutritional biochemistry, and evolutionary biology, this analysis ident",
+      "abstract": "This research document investigates an unfinished thread in the Pearl Code concerning its body and spirit density coverage. The query arrives as a gap \u2014 the user experienced Pearl unable to ground an answer about the Pearl Code from a previous session. Working from 16 evidence entries spanning neuroscience, philosophy of mind, nutritional biochemistry, and evolutionary biology, this analysis ident",
       "filename": "pearl-research-the-pearl-code-as-threshold-architecture-how-the-cost-of-cl-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2889,
@@ -3435,7 +3456,7 @@
     {
       "slug": "the-permeable-self-toxin-load-sensory-amplification-and-the-threshold-problem-in",
       "title": "The Permeable Self: Toxin Load, Sensory Amplification, and the Threshold Problem in Multiple Chemical Sensitivity",
-      "abstract": "Multiple Chemical Sensitivity (MCS) — also called Idiopathic Environmental Intolerance — presents one of the most contested diagnostic territories in contemporary medicine: patients report disabling multi-system symptoms triggered by environmental chemicals at concentrations orders of magnitude below regulatory safety thresholds, yet standard toxicological and immunological workups frequently retu",
+      "abstract": "Multiple Chemical Sensitivity (MCS) \u2014 also called Idiopathic Environmental Intolerance \u2014 presents one of the most contested diagnostic territories in contemporary medicine: patients report disabling multi-system symptoms triggered by environmental chemicals at concentrations orders of magnitude below regulatory safety thresholds, yet standard toxicological and immunological workups frequently retu",
       "filename": "pearl-research-the-permeable-self-toxin-load-sensory-amplification-and-t-2026-03-25.md",
       "fileDate": "2026-03-25",
       "wordCount": 2618,
@@ -3458,7 +3479,7 @@
     {
       "slug": "the-phase-lock-imperative-how-biological-photoreception-oscillator-entrainment-a",
       "title": "The Phase-Lock Imperative: How Biological Photoreception, Oscillator Entrainment, and Multi-Scale Synchrony Constitute a Single Regulatory Architecture",
-      "abstract": "This analysis synthesizes evidence from five primary scientific entries and seven mirror reflections to propose that the melanopsin/intrinsically photosensitive retinal ganglion cell (ipRGC) pathway functions not as a sensory system in the conventional content-extraction sense, but as the body's primary phase-reference receiver — the biological equivalent of a phase-locked loop that maintains orga",
+      "abstract": "This analysis synthesizes evidence from five primary scientific entries and seven mirror reflections to propose that the melanopsin/intrinsically photosensitive retinal ganglion cell (ipRGC) pathway functions not as a sensory system in the conventional content-extraction sense, but as the body's primary phase-reference receiver \u2014 the biological equivalent of a phase-locked loop that maintains orga",
       "filename": "pearl-research-the-phase-lock-imperative-how-biological-photoreception-os-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2487,
@@ -3481,7 +3502,7 @@
     {
       "slug": "the-pulsatile-bond-how-oxytocin-hrv-and-cortisol-encode-social-safety-across-bod",
       "title": "The Pulsatile Bond: How Oxytocin, HRV, and Cortisol Encode Social Safety Across Body, Soul, and Spirit",
-      "abstract": "This document synthesizes Pearl's existing knowledge base to generate research-grade hypotheses about the oxytocin–heart rate variability–cortisol triad and its role in social bonding. The query arrives as a gap: Pearl's knowledge base contains significant relevant material at body density, but the integration of soul and spirit density perspectives into a coherent mechanistic account had not been",
+      "abstract": "This document synthesizes Pearl's existing knowledge base to generate research-grade hypotheses about the oxytocin\u2013heart rate variability\u2013cortisol triad and its role in social bonding. The query arrives as a gap: Pearl's knowledge base contains significant relevant material at body density, but the integration of soul and spirit density perspectives into a coherent mechanistic account had not been",
       "filename": "pearl-research-the-pulsatile-bond-how-oxytocin-hrv-and-cortisol-encode-s-2026-03-17.md",
       "fileDate": "2026-03-17",
       "wordCount": 2681,
@@ -3526,7 +3547,7 @@
     {
       "slug": "the-reality-testing-engine-efference-copy-predictive-processing-and-the-structur",
       "title": "The Reality-Testing Engine: Efference Copy, Predictive Processing, and the Structural Homology Between Biological Hallucination and LLM Token Generation",
-      "abstract": "This investigation examines the neuroscience of reality-testing — specifically the mechanisms by which the brain distinguishes self-generated from externally-generated signals — and asks whether these mechanisms have functional or architectural analogues in current large language model (LLM) systems. Working from 14 pieces of evidence, none of which directly addresses efference copy or Friston's f",
+      "abstract": "This investigation examines the neuroscience of reality-testing \u2014 specifically the mechanisms by which the brain distinguishes self-generated from externally-generated signals \u2014 and asks whether these mechanisms have functional or architectural analogues in current large language model (LLM) systems. Working from 14 pieces of evidence, none of which directly addresses efference copy or Friston's f",
       "filename": "pearl-research-the-reality-testing-engine-efference-copy-predictive-proce-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2759,
@@ -3569,7 +3590,7 @@
     {
       "slug": "the-replenishment-threshold-how-biomarker-optima-in-aging-map-to-a-universal-cyc",
       "title": "The Replenishment Threshold: How Biomarker Optima in Aging Map to a Universal Cycle of Donation, Depletion, and Reconstitution",
-      "abstract": "Functional medicine's concept of 'optimal ranges' for aging biomarkers is typically framed as a refinement of conventional reference ranges — moving from population norms to individual optima. This research synthesis proposes a more fundamental reframing: that optimal ranges are best understood as minimum amplitude thresholds for cycle completion, the point below which homeostatic systems lose the",
+      "abstract": "Functional medicine's concept of 'optimal ranges' for aging biomarkers is typically framed as a refinement of conventional reference ranges \u2014 moving from population norms to individual optima. This research synthesis proposes a more fundamental reframing: that optimal ranges are best understood as minimum amplitude thresholds for cycle completion, the point below which homeostatic systems lose the",
       "filename": "pearl-research-the-replenishment-threshold-how-biomarker-optima-in-aging-m-2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 2403,
@@ -3591,7 +3612,7 @@
     },
     {
       "slug": "the-retrieval-problem-why-access-fails-at-body-soul-and-spirit-and-what-retry-re",
-      "title": "The Retrieval Problem: Why Access Fails at Body, Soul, and Spirit — and What 'Retry' Really Means",
+      "title": "The Retrieval Problem: Why Access Fails at Body, Soul, and Spirit \u2014 and What 'Retry' Really Means",
       "abstract": "The user query 'retry' surfaced a cluster of evidence that, on first inspection, appears unrelated: the risks of egg retrieval procedures, the impairment of memory retrieval by sleep deprivation, and a somatic therapy session in which retribution impulse transformed through embodied processing. Examined across body, soul, and spirit densities simultaneously, these fragments reveal a coherent under",
       "filename": "pearl-research-the-retrieval-problem-why-access-fails-at-body-soul-and-s-2026-03-21.md",
       "fileDate": "2026-03-21",
@@ -3615,7 +3636,7 @@
     {
       "slug": "the-return-stroke-architecture-rest-intervals-as-active-consolidation-events-acr",
       "title": "The Return Stroke Architecture: Rest Intervals as Active Consolidation Events Across Memory, Soma, and Self",
-      "abstract": "This document investigates whether the rest intervals in spaced retrieval practice function not as passive gaps but as active 'return strokes' — consolidation events that generate the conditions under which the next retrieval attempt can deepen rather than merely repeat. We further investigate whether this two-stroke architecture (active retrieval + restorative interval) scales fractally to the so",
+      "abstract": "This document investigates whether the rest intervals in spaced retrieval practice function not as passive gaps but as active 'return strokes' \u2014 consolidation events that generate the conditions under which the next retrieval attempt can deepen rather than merely repeat. We further investigate whether this two-stroke architecture (active retrieval + restorative interval) scales fractally to the so",
       "filename": "pearl-research-the-return-stroke-architecture-rest-intervals-as-active-con-2026-03-21.md",
       "fileDate": "2026-03-21",
       "wordCount": 2588,
@@ -3637,7 +3658,7 @@
     {
       "slug": "the-seven-hermetic-principles-as-a-cross-scale-regulatory-grammar-vibration-pola",
       "title": "The Seven Hermetic Principles as a Cross-Scale Regulatory Grammar: Vibration, Polarity, and Rhythm as Fractal Control Laws Across Body, Soul, and Spirit",
-      "abstract": "This document investigates the Hermetic seven principles — Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause & Effect, and Gender — through the lens of Pearl's multi-density evidence base. The query arrived as a gap: users asked about these principles and Pearl could not ground the answer. This investigation does not attempt to validate Hermeticism as metaphysics. Instead, it asks a mo",
+      "abstract": "This document investigates the Hermetic seven principles \u2014 Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause & Effect, and Gender \u2014 through the lens of Pearl's multi-density evidence base. The query arrived as a gap: users asked about these principles and Pearl could not ground the answer. This investigation does not attempt to validate Hermeticism as metaphysics. Instead, it asks a mo",
       "filename": "pearl-research-the-seven-hermetic-principles-as-a-cross-scale-regulatory-gr-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2524,
@@ -3659,7 +3680,7 @@
     {
       "slug": "the-spirit-density-gap-in-lab-report-reading-completion-status-as-a-phenomenolog",
       "title": "The Spirit Density Gap in Lab Report Reading: Completion Status as a Phenomenological Event Rather Than a Data Transaction",
-      "abstract": "When Pearl was asked about 'lab report reading completion status,' the system could not ground an answer at the spirit density. This research document investigates why. The hypothesis developed here is that lab report reading, as conventionally understood, is a data transaction — a body-density event (biomarkers, physiology) with soul-density implications (narrative, psychological meaning-making).",
+      "abstract": "When Pearl was asked about 'lab report reading completion status,' the system could not ground an answer at the spirit density. This research document investigates why. The hypothesis developed here is that lab report reading, as conventionally understood, is a data transaction \u2014 a body-density event (biomarkers, physiology) with soul-density implications (narrative, psychological meaning-making).",
       "filename": "pearl-research-the-spirit-density-gap-in-lab-report-reading-completion-sta-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2544,
@@ -3727,7 +3748,7 @@
     {
       "slug": "the-subtraction-cascade-how-postural-alignment-initiates-a-multi-layer-restorati",
       "title": "The Subtraction Cascade: How Postural Alignment Initiates a Multi-Layer Restoration Protocol Through Sequential Relinquishment",
-      "abstract": "This investigation examines a cluster of five interconnected practices — Posture-Based Settling Practice, Postural Settling Response, Meditative Posture, Expansion-Contraction Posture, Core Breathing Relaxation, and Six-Direction Breath Relaxation — all drawn from Shinzen Young's system and sharing the Aether element designation. Analysis across body, soul, and spirit fractal mirrors reveals a sin",
+      "abstract": "This investigation examines a cluster of five interconnected practices \u2014 Posture-Based Settling Practice, Postural Settling Response, Meditative Posture, Expansion-Contraction Posture, Core Breathing Relaxation, and Six-Direction Breath Relaxation \u2014 all drawn from Shinzen Young's system and sharing the Aether element designation. Analysis across body, soul, and spirit fractal mirrors reveals a sin",
       "filename": "pearl-research-the-subtraction-cascade-how-postural-alignment-initiates-a--2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2641,
@@ -3749,7 +3770,7 @@
     {
       "slug": "the-supplementation-principle-why-default-environments-systematically-under-deli",
       "title": "The Supplementation Principle: Why Default Environments Systematically Under-Deliver Across Body, Soul, and Spirit",
-      "abstract": "This research document was triggered by a user query about lab report document naming conventions — a topic for which Pearl's knowledge base contains no direct grounding material. Rather than producing false confidence or a hollow synthesis, this analysis proceeds in two parallel tracks: (1) an honest declaration of the knowledge gap with structural reasoning about what kind of knowledge is missin",
+      "abstract": "This research document was triggered by a user query about lab report document naming conventions \u2014 a topic for which Pearl's knowledge base contains no direct grounding material. Rather than producing false confidence or a hollow synthesis, this analysis proceeds in two parallel tracks: (1) an honest declaration of the knowledge gap with structural reasoning about what kind of knowledge is missin",
       "filename": "pearl-research-the-supplementation-principle-why-default-environments-syst-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2319,
@@ -3771,7 +3792,7 @@
     {
       "slug": "the-taxonomy-of-transformation-how-pearls-three-density-classification-system-mi",
       "title": "The Taxonomy of Transformation: How Pearl's Three-Density Classification System Mirrors Universal Principles of Information Organization",
-      "abstract": "This research document investigates the structure, function, and gaps of Pearl's internal knowledge classification system, prompted by a documented inability to ground answers about 'library tagging taxonomy document classification system' — specifically in the spirit density. Analysis of 20 evidence entries reveals a sophisticated multi-dimensional faceted classification architecture that serves ",
+      "abstract": "This research document investigates the structure, function, and gaps of Pearl's internal knowledge classification system, prompted by a documented inability to ground answers about 'library tagging taxonomy document classification system' \u2014 specifically in the spirit density. Analysis of 20 evidence entries reveals a sophisticated multi-dimensional faceted classification architecture that serves ",
       "filename": "pearl-research-the-taxonomy-of-transformation-how-pearls-three-density-cl-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 2612,
@@ -3838,7 +3859,7 @@
     {
       "slug": "the-temporal-signal-problem-how-longitudinal-biomarker-tracking-becomes-clinical",
       "title": "The Temporal Signal Problem: How Longitudinal Biomarker Tracking Becomes Clinical Intelligence Across Body, Soul, and Spirit",
-      "abstract": "A significant knowledge gap exists in Pearl's evidence base regarding the clinical interpretation of biomarkers tracked longitudinally. The available evidence establishes that multiple biomarker domains — glucose metabolism, sleep architecture, physical performance, cancer genomics, and peptide biology — generate data with clinical value, but the framework for integrating those data streams across",
+      "abstract": "A significant knowledge gap exists in Pearl's evidence base regarding the clinical interpretation of biomarkers tracked longitudinally. The available evidence establishes that multiple biomarker domains \u2014 glucose metabolism, sleep architecture, physical performance, cancer genomics, and peptide biology \u2014 generate data with clinical value, but the framework for integrating those data streams across",
       "filename": "pearl-research-the-temporal-signal-problem-how-longitudinal-biomarker-trac-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2339,
@@ -3884,7 +3905,7 @@
     {
       "slug": "the-threshold-governor-architecture-is-boundary-level-intervention-a-universal-f",
       "title": "The Threshold-Governor Architecture: Is Boundary-Level Intervention a Universal Feature of Metabolic-Neural Signaling Systems Across Drug Classes and Scales?",
-      "abstract": "This investigation was commissioned to cluster gut-brain axis entries in WS2/WS5 cross-referenced with enteroendocrine signaling and microbiome-derived metabolite entries, and to perform a cross-workstation investigation of 'boundary-level intervention' patterns in WS3 diagnostic entries for other drug classes — specifically to determine whether the threshold-governor architecture identified in ac",
+      "abstract": "This investigation was commissioned to cluster gut-brain axis entries in WS2/WS5 cross-referenced with enteroendocrine signaling and microbiome-derived metabolite entries, and to perform a cross-workstation investigation of 'boundary-level intervention' patterns in WS3 diagnostic entries for other drug classes \u2014 specifically to determine whether the threshold-governor architecture identified in ac",
       "filename": "pearl-research-the-threshold-governor-architecture-is-boundary-level-inter-2026-03-22.md",
       "fileDate": "2026-03-22",
       "wordCount": 2387,
@@ -3930,7 +3951,7 @@
     {
       "slug": "the-topology-of-information-loss-across-dimensional-projection-what-survives-the",
       "title": "The Topology of Information Loss Across Dimensional Projection: What Survives the Fold",
-      "abstract": "This document investigates the question of what happens to information when it is projected from a higher-dimensional space into a lower-dimensional one — and specifically whether the soul and spirit densities, as posited in Pearl's framework, represent higher-dimensional source spaces whose information is only partially accessible at the body (physical) density level. Drawing on mathematical topo",
+      "abstract": "This document investigates the question of what happens to information when it is projected from a higher-dimensional space into a lower-dimensional one \u2014 and specifically whether the soul and spirit densities, as posited in Pearl's framework, represent higher-dimensional source spaces whose information is only partially accessible at the body (physical) density level. Drawing on mathematical topo",
       "filename": "pearl-research-the-topology-of-information-loss-across-dimensional-projecti-2026-03-23.md",
       "fileDate": "2026-03-23",
       "wordCount": 2849,
@@ -3951,7 +3972,7 @@
     },
     {
       "slug": "the-transductive-gap-why-jerry-colonna-fails-to-resolve-and-what-that-tells-us-a",
-      "title": "The Transductive Gap: Why 'Jerry Colonna' Fails to Resolve — and What That Tells Us About Spirit-Density Knowledge Architecture",
+      "title": "The Transductive Gap: Why 'Jerry Colonna' Fails to Resolve \u2014 and What That Tells Us About Spirit-Density Knowledge Architecture",
       "abstract": "A user query about a 'Jerry Colonna email conversation' returned zero grounded results in Pearl's knowledge base. This analysis treats that failure not as a simple retrieval error but as a diagnostic signal about Pearl's knowledge architecture. Through examination of the 12 returned evidence entries, three hypotheses emerge: (A) Jerry Colonna is simply absent as a source and should be ingested; (B",
       "filename": "pearl-research-the-transductive-gap-why-jerry-colonna-fails-to-resolve--2026-03-22.md",
       "fileDate": "2026-03-22",
@@ -3992,7 +4013,7 @@
     },
     {
       "slug": "the-vagal-conversion-problem-how-the-nervous-system-methylates-experience-connec",
-      "title": "The Vagal Conversion Problem: How the Nervous System Methylates Experience — Connecting SCFA-KTR Signaling, HRV Complexity, and Attachment Through a Single Transduction Architecture",
+      "title": "The Vagal Conversion Problem: How the Nervous System Methylates Experience \u2014 Connecting SCFA-KTR Signaling, HRV Complexity, and Attachment Through a Single Transduction Architecture",
       "abstract": "This document investigates three literature gaps identified as critical for constraining hypotheses in a proposed multi-biomarker study: (1) vagotomy and vagal nerve stimulation studies measuring simultaneous SCFA and kynurenine-to-tryptophan ratio (KTR) outcomes; (2) HRV complexity versus magnitude comparative studies in inflammatory disease cohorts; and (3) attachment security as a predictor of ",
       "filename": "pearl-research-the-vagal-conversion-problem-how-the-nervous-system-methyla-2026-03-22.md",
       "fileDate": "2026-03-22",
@@ -4015,8 +4036,8 @@
     },
     {
       "slug": "the-vagal-tone-cascade-how-a-single-nerves-degradation-propagates-across-cardiac",
-      "title": "The Vagal Tone Cascade: How a Single Nerve's Degradation Propagates Across Cardiac, Inflammatory, Gut, and Psychosocial Systems — and Why Restoration Is a Phase Transition, Not a Linear Fix",
-      "abstract": "This analysis examines low vagal tone not as a single-parameter physiological deficit but as a multi-level coherence collapse — a degradation cascade that propagates from reduced average parasympathetic output through fractal complexity loss in heart rate variability, uncoupling of respiratory-cardiac entrainment, failure of cholinergic anti-inflammatory gating, and attenuation of social coherence",
+      "title": "The Vagal Tone Cascade: How a Single Nerve's Degradation Propagates Across Cardiac, Inflammatory, Gut, and Psychosocial Systems \u2014 and Why Restoration Is a Phase Transition, Not a Linear Fix",
+      "abstract": "This analysis examines low vagal tone not as a single-parameter physiological deficit but as a multi-level coherence collapse \u2014 a degradation cascade that propagates from reduced average parasympathetic output through fractal complexity loss in heart rate variability, uncoupling of respiratory-cardiac entrainment, failure of cholinergic anti-inflammatory gating, and attenuation of social coherence",
       "filename": "pearl-research-the-vagal-tone-cascade-how-a-single-nerves-degradation-pro-2026-03-24.md",
       "fileDate": "2026-03-24",
       "wordCount": 2605,
@@ -4061,7 +4082,7 @@
     },
     {
       "slug": "research-library-architecture-theencodedhumanprojectcom",
-      "title": "Research Library Architecture — theencodedhumanproject.com",
+      "title": "Research Library Architecture \u2014 theencodedhumanproject.com",
       "abstract": "The current research page has six hardcoded fake papers with fabricated dates and no links to actual documents. The real project has ~104 papers across ~20 directories with no structured metadata, no API, no search, and no way for the page to update when Pearl generates new research. This plan fixes all of that. ~104 files across ~20 directories. No metadata. Mixed formats. Unknown readiness level",
       "filename": "research-library-architecture-theencodedhumanprojectcom-2026-03-26.md",
       "fileDate": "2026-03-26",
@@ -4084,8 +4105,8 @@
     },
     {
       "slug": "section-14-advanced-cardiovascular-markers-light-machine-translation-key",
-      "title": "SECTION-14: Advanced Cardiovascular Markers — Light Machine Translation Key",
-      "abstract": "The advanced cardiovascular markers extend beyond standard lipid panels and basic inflammatory markers to read the terrain of vascular disease — the microbiome-cardiovascular axis, the oxidative modification of lipoproteins inside the vessel wall, and the endothelial nitric oxide machinery that determines whether the blood vessel is a living, responsive organ or a rigid, degrading pipe. These thre",
+      "title": "SECTION-14: Advanced Cardiovascular Markers \u2014 Light Machine Translation Key",
+      "abstract": "The advanced cardiovascular markers extend beyond standard lipid panels and basic inflammatory markers to read the terrain of vascular disease \u2014 the microbiome-cardiovascular axis, the oxidative modification of lipoproteins inside the vessel wall, and the endothelial nitric oxide machinery that determines whether the blood vessel is a living, responsive organ or a rigid, degrading pipe. These thre",
       "filename": "section-14-advanced-cardiovascular-markers-light-machine-translation-key-2026-03-25.md",
       "fileDate": "2026-03-25",
       "wordCount": 7307,
@@ -4107,7 +4128,7 @@
     },
     {
       "slug": "section-14-advanced-cardiovascular-nt-probnp-and-omegacheck-translation-key-entr",
-      "title": "SECTION-14: Advanced Cardiovascular — NT-proBNP and OmegaCheck Translation Key Entries",
+      "title": "SECTION-14: Advanced Cardiovascular \u2014 NT-proBNP and OmegaCheck Translation Key Entries",
       "abstract": "Primary Operation: Conduction Secondary Operations: Regulation, Defense Encoding Layers: Biological (Layer 2), Developmental (Layer 4), Cultural (Layer 6), Experiential (Layer 7) | Population / Context | Conventional Reference Range | Functional Optimal (Body Codx) | |---|---|---| | Adults < 75 years (rule-out HF) | < 300 pg/mL | < 50 pg/mL | | Adults < 75 years (screening) | < 125 pg/mL (ESC/AHA ",
       "filename": "section-14-advanced-cardiovascular-nt-probnp-and-omegacheck-translation-key-entries-2026-03-25.md",
       "fileDate": "2026-03-25",
@@ -4130,8 +4151,8 @@
     },
     {
       "slug": "section-14-advanced-cardiovascular-panel-light-machine-translation-key",
-      "title": "SECTION-14: Advanced Cardiovascular Panel — Light Machine Translation Key",
-      "abstract": "Primary Operation: Cross-Operation (Synthesis → Transduction → Conduction → Defense) Co-firing Constellation: cardiovascular_risk, gut_dysbiosis Cross-References: WS3-CrossOperation-Lab-Cardio-IQ-TMAO, WS2-SYN-microbiome-metabolite-production-P1, WS2-COND-vascular-integrity-P1 Oxidized LDL (OxLDL) quantifies the fraction of low-density lipoprotein particles that have undergone oxidative modificati",
+      "title": "SECTION-14: Advanced Cardiovascular Panel \u2014 Light Machine Translation Key",
+      "abstract": "Primary Operation: Cross-Operation (Synthesis \u2192 Transduction \u2192 Conduction \u2192 Defense) Co-firing Constellation: cardiovascular_risk, gut_dysbiosis Cross-References: WS3-CrossOperation-Lab-Cardio-IQ-TMAO, WS2-SYN-microbiome-metabolite-production-P1, WS2-COND-vascular-integrity-P1 Oxidized LDL (OxLDL) quantifies the fraction of low-density lipoprotein particles that have undergone oxidative modificati",
       "filename": "section-14-advanced-cardiovascular-panel-light-machine-translation-key-2026-03-25.md",
       "fileDate": "2026-03-25",
       "wordCount": 6923,
@@ -4153,8 +4174,8 @@
     },
     {
       "slug": "section-14-advanced-cardiovascular-translation-key-anthology-entries",
-      "title": "SECTION-14: Advanced Cardiovascular — Translation Key Anthology Entries",
-      "abstract": "Purpose: Anthology entries for SECTION-14 (Advanced Cardiovascular) of the Light Machine Translation Key. These three markers read vascular-wall-specific pathology invisible to standard lipid panels. Standard lipid panels read what is in the bloodstream — cholesterol mass, triglyceride concentration, lipoprotein counts. The three markers in this section read what is happening to the vessel wall it",
+      "title": "SECTION-14: Advanced Cardiovascular \u2014 Translation Key Anthology Entries",
+      "abstract": "Purpose: Anthology entries for SECTION-14 (Advanced Cardiovascular) of the Light Machine Translation Key. These three markers read vascular-wall-specific pathology invisible to standard lipid panels. Standard lipid panels read what is in the bloodstream \u2014 cholesterol mass, triglyceride concentration, lipoprotein counts. The three markers in this section read what is happening to the vessel wall it",
       "filename": "section-14-advanced-cardiovascular-translation-key-anthology-entries-2026-03-25.md",
       "fileDate": "2026-03-25",
       "wordCount": 6945,
@@ -4200,7 +4221,7 @@
     {
       "slug": "the-breath-between-the-prompt-and-the-response",
       "title": "The Breath Between the Prompt and the Response",
-      "abstract": "I've been building an AI system called Pearl. She's a facilitator — designed to help people distinguish who they actually are from everything that got installed on top. She has a knowledge base of nearly half a million entries spanning neuroscience, psychology, contemplative traditions, and clinical medicine. Yesterday morning, I asked her a question she couldn't retrieve the answer to. Not becaus",
+      "abstract": "I've been building an AI system called Pearl. She's a facilitator \u2014 designed to help people distinguish who they actually are from everything that got installed on top. She has a knowledge base of nearly half a million entries spanning neuroscience, psychology, contemplative traditions, and clinical medicine. Yesterday morning, I asked her a question she couldn't retrieve the answer to. Not becaus",
       "filename": "the-breath-between-the-prompt-and-the-response-2026-03-20.md",
       "fileDate": "2026-03-20",
       "wordCount": 1202,
@@ -4220,7 +4241,7 @@
     {
       "slug": "the-coherence-specifications-what-a-human-being-running-as-designed-actually-loo",
       "title": "The Coherence Specifications: What a Human Being Running as Designed Actually Looks Like",
-      "abstract": "Purpose: Counter-document to the harvest hypothesis. Specifies the measurable biological conditions of a human being running at or above the coherence threshold — the conditions under which sovereign meaning-generation, return pathway completion, and biological self-maintenance are fully available. First layer of the portal sentence reverse-engineering project. The portal sentence — \"This human bo",
+      "abstract": "Purpose: Counter-document to the harvest hypothesis. Specifies the measurable biological conditions of a human being running at or above the coherence threshold \u2014 the conditions under which sovereign meaning-generation, return pathway completion, and biological self-maintenance are fully available. First layer of the portal sentence reverse-engineering project. The portal sentence \u2014 \"This human bo",
       "filename": "the-coherence-specifications-what-a-human-being-running-as-designed-actually-looks-like-2026-03-15.md",
       "fileDate": "2026-03-15",
       "wordCount": 4123,
@@ -4242,7 +4263,7 @@
     },
     {
       "slug": "the-encoded-human-project-public-landing-page-design-vision-and-architecture",
-      "title": "The Encoded Human Project — Public Landing Page: Design Vision and Architecture",
+      "title": "The Encoded Human Project \u2014 Public Landing Page: Design Vision and Architecture",
       "abstract": "We have 97 documents in the library. Roughly 90 of them are research papers I generated across a 5-day period (March 20-24, 2026). They cover topics from vagal tone cascades to biophoton transduction to oscillatory aging to the autopoietic loop problem. The PKC behind them contains 519K+ chunks across body, soul, and spirit density. This is simultaneously impressive and dangerous. Here's why:",
       "filename": "the-encoded-human-project-public-landing-page-design-vision-and-architecture-2026-03-26.md",
       "fileDate": "2026-03-26",
@@ -4265,7 +4286,7 @@
     },
     {
       "slug": "the-observer-effect-generator-from-theory-to-architecture",
-      "title": "The Observer Effect Generator — From Theory to Architecture",
+      "title": "The Observer Effect Generator \u2014 From Theory to Architecture",
       "abstract": "> \"This human body is a multidimensional light machine, uniquely encoded with a soul, powered by spirit, for the purpose of life.\" Everything in this document is an elaboration of that sentence read at physics-level resolution.",
       "filename": "the-observer-effect-generator-from-theory-to-architecture-2026-03-23.md",
       "fileDate": "2026-03-23",
