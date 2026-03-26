@@ -23,7 +23,7 @@ export default function ResearchPage() {
   return (
     <div className="max-w-6xl mx-auto px-6 py-16">
       {/* Header */}
-      <div className="mb-12">
+      <div className="mb-10">
         <p className="text-xs font-mono text-crimson uppercase tracking-widest mb-3">
           Open Access · CC-BY-SA 4.0
         </p>
@@ -31,53 +31,45 @@ export default function ResearchPage() {
           Research Library
         </h1>
         <p className="text-lg text-[var(--muted-foreground)] max-w-2xl leading-relaxed">
-          {papers.length} papers — hypothesis documents, clinical translation keys,
-          and synthesis research. Every paper carries an epistemic ceiling badge.
-          All research is open access.
+          Hypothesis papers, clinical translation keys, framework documents, and technical reports
+          from The Encoded Human Project. Every claim carries an epistemic ceiling badge.
         </p>
       </div>
 
-      {/* Epistemic + Density Legend */}
-      <div className="flex flex-wrap gap-6 mb-10 p-4 rounded-lg border border-[var(--border)] bg-[var(--muted)]">
-        <div className="flex flex-wrap gap-2 items-center">
-          <span className="text-xs text-[var(--muted-foreground)] font-mono uppercase tracking-wider mr-1">
-            Epistemic:
+      {/* Epistemic legend */}
+      <div className="flex flex-wrap gap-4 mb-10 p-4 rounded-lg border border-[var(--border)] bg-[var(--muted)]">
+        <span className="text-xs font-mono text-[var(--muted-foreground)] self-center uppercase tracking-wider">
+          Epistemic tiers:
+        </span>
+        {[
+          { label: "Fact", dot: "bg-emerald-400", text: "text-emerald-400" },
+          { label: "Interpretation", dot: "bg-blue-400", text: "text-blue-400" },
+          { label: "Hypothesis", dot: "bg-amber-400", text: "text-amber-400" },
+          { label: "Speculation", dot: "bg-violet-400/70", text: "text-violet-400" },
+        ].map(({ label, dot, text }) => (
+          <span key={label} className="inline-flex items-center gap-1.5">
+            <span className={`w-2 h-2 rounded-full ${dot}`} />
+            <span className={`text-xs font-mono font-semibold ${text}`}>{label}</span>
           </span>
-          {[
-            { badge: "FACT", cls: "text-emerald-400 border-emerald-400/30 bg-emerald-400/5" },
-            { badge: "INTERPRETATION", cls: "text-blue-400 border-blue-400/30 bg-blue-400/5" },
-            { badge: "HYPOTHESIS", cls: "text-amber-400 border-amber-400/30 bg-amber-400/5" },
-            { badge: "SPECULATION", cls: "text-violet-400 border-violet-400/30 bg-violet-400/5" },
-          ].map(({ badge, cls }) => (
-            <span
-              key={badge}
-              className={`inline-flex items-center text-[10px] font-mono font-semibold px-1.5 py-0.5 rounded border ${cls}`}
-            >
-              {badge}
-            </span>
-          ))}
-        </div>
-        <div className="flex flex-wrap gap-2 items-center">
-          <span className="text-xs text-[var(--muted-foreground)] font-mono uppercase tracking-wider mr-1">
-            Density:
+        ))}
+        <span className="text-[var(--border)] mx-1">·</span>
+        <span className="text-xs font-mono text-[var(--muted-foreground)] self-center uppercase tracking-wider">
+          Density:
+        </span>
+        {[
+          { label: "Body", dot: "bg-sky-400", text: "text-sky-400" },
+          { label: "Soul", dot: "bg-amber-400", text: "text-amber-400" },
+          { label: "Spirit", dot: "bg-violet-400", text: "text-violet-400" },
+          { label: "Cross-Density", dot: "bg-gradient-to-r from-sky-400 to-violet-400", text: "text-emerald-400" },
+        ].map(({ label, dot, text }) => (
+          <span key={label} className="inline-flex items-center gap-1.5">
+            <span className={`w-2 h-2 rounded-full ${dot}`} />
+            <span className={`text-xs font-mono font-semibold ${text}`}>{label}</span>
           </span>
-          {[
-            { badge: "BODY", cls: "text-sky-400 border-sky-400/30 bg-sky-400/5" },
-            { badge: "SOUL", cls: "text-amber-400 border-amber-400/30 bg-amber-400/5" },
-            { badge: "SPIRIT", cls: "text-violet-400 border-violet-400/30 bg-violet-400/5" },
-            { badge: "CROSS-DENSITY", cls: "text-emerald-400 border-emerald-400/30 bg-emerald-400/5" },
-          ].map(({ badge, cls }) => (
-            <span
-              key={badge}
-              className={`inline-flex items-center text-[10px] font-mono font-semibold px-1.5 py-0.5 rounded border ${cls}`}
-            >
-              {badge}
-            </span>
-          ))}
-        </div>
+        ))}
       </div>
 
-      {/* Client search + filter + grid */}
+      {/* Main library client */}
       <ResearchClient papers={papers} />
 
       {/* Publication pathway */}
@@ -113,17 +105,14 @@ export default function ResearchPage() {
               <h3 className="font-sans font-semibold text-[var(--foreground)] text-sm mb-2">
                 {name}
               </h3>
-              <p className="text-xs text-[var(--muted-foreground)] leading-relaxed">
-                {desc}
-              </p>
+              <p className="text-xs text-[var(--muted-foreground)] leading-relaxed">{desc}</p>
             </div>
           ))}
         </div>
         <div className="border-l-2 border-crimson pl-6">
           <p className="text-sm text-[var(--muted-foreground)] leading-relaxed italic">
-            We publish early and transparently. The cost of waiting for perfection
-            is silence. The cost of publishing honestly is vulnerability. We choose
-            vulnerability.
+            We publish early and transparently. The cost of waiting for perfection is silence. The
+            cost of publishing honestly is vulnerability. We choose vulnerability.
           </p>
         </div>
       </section>
