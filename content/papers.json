@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-27T04:13:09.370Z",
-  "total": 405,
+  "generated": "2026-03-27T06:20:10.259Z",
+  "total": 409,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -8850,6 +8850,91 @@
       "density": "body",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "how-we-validate-research-at-the-encoded-human-project-v4",
+      "title": "How We Validate Research at The Encoded Human Project",
+      "abstract": "Epistemic ceiling: FACT / INTERPRETATION _Published by Eric Whitney, DO — Primary Investigator, The Encoded Human Project_ _AI Disclosed: This article was written with Pearl, the project's AI research partner. The validation architecture described here governs Pearl's own outputs._",
+      "filename": "how-we-validate-research-at-the-encoded-human-project-v4.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 5583,
+      "type": "methodology",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "my-story-intake-question-set-v20",
+      "title": "My Story — Intake Question Set v2.0",
+      "abstract": "69 questions. 8 chapters. Complete encoding foundation.",
+      "filename": "my-story-intake-question-set-v20.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 5484,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-relational-safety-as-the-deepest-attractor-basin-toward-a-h",
+      "title": "Relational Safety as the Deepest Attractor Basin: Toward a Hierarchical Nested-Setpoint Model of the Nervous System",
+      "abstract": "Focus: Users asked about 'Investigate polyvagal theory (Porges), predictive processing accounts of trauma (Karl Friston's active inference applied to PTSD), and allostasis literature (McEwen, Sterling) to triangulate between the control-theory, information-theoretic, and relational-evolutionary accounts of nervous system set points. Specifically: does the evidence support a hierarchical attractor model where relational safety is the deepest/oldest basin, and all other set points are nested within it?' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-relational-safety-as-the-deepest-attractor-basin-toward-a-h.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 2597,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-set-point-as-attractor-why-the-nervous-system-resists-c",
+      "title": "The Set Point as Attractor: Why the Nervous System Resists Change and How Titrated Stress Expands Its Range",
+      "abstract": "Focus: Users asked about 'nervous system set point default mode behavior resistance to change' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-set-point-as-attractor-why-the-nervous-system-resists-c.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 2816,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
