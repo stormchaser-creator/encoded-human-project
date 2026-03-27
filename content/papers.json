@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-26T22:33:37.472Z",
-  "total": 398,
+  "generated": "2026-03-27T04:13:09.370Z",
+  "total": 405,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -8703,6 +8703,153 @@
       "density": "body",
       "operations": [
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-epistemic-integrity-as-multi-density-practice-how-research",
+      "title": "Epistemic Integrity as Multi-Density Practice: How Research Validation Operates Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'research validation epistemic integrity citation verification' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-epistemic-integrity-as-multi-density-practice-how-research.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 2450,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-epistemic-integrity-as-phase-transition-structural-parallel",
+      "title": "Epistemic Integrity as Phase Transition: Structural Parallels Between Clinical Trial Pre-Registration Reform and Emerging AI Disclosure Frameworks",
+      "abstract": "Focus: Users asked about 'Investigate the structural parallels between pre-registration reform in clinical trials (where provenance, uncertainty, and inference transparency have been most operationalized) and proposed AI disclosure frameworks — specifically examining whether the same phase transition from credibility-performance to epistemic integrity is occurring, and what institutional conditions enabled the pre-registration movement to gain traction despite strong incumbent resistance.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-epistemic-integrity-as-phase-transition-structural-parallel.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 2884,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "fact",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-encoding-pipeline-as-regulatory-substrate-how-informati",
+      "title": "The Encoding Pipeline as Regulatory Substrate: How Information Becomes Embodied Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'encoding pipeline derivation facilitation convergence' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-encoding-pipeline-as-regulatory-substrate-how-informati.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 2203,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-hidden-dysregulation-problem-why-external-metrics-fail",
+      "title": "The Hidden Dysregulation Problem: Why External Metrics Fail to Validate Internal State — and What This Means for Research Methodology",
+      "abstract": "Focus: Users asked about 'research validation citation verification methodology' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-hidden-dysregulation-problem-why-external-metrics-fail.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 2487,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-metabolic-contemplative-pipeline-how-substrate-availabi",
+      "title": "The Metabolic-Contemplative Pipeline: How Substrate Availability and Rhythmic Encoding Shape Cross-Density Reception Capacity",
+      "abstract": "Focus: Users asked about 'Investigate whether metabolic interventions (ketone supplementation, sleep optimization) produce measurable changes in psychological reception capacity (attachment security, emotional regulation bandwidth) — this would be the strongest test of the cross-density pipeline hypothesis. Also investigate contemplative traditions that explicitly describe encoding-like processes (e.g., Tibetan dream yoga, which operates precisely at the Non-REM encoding stage).' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-metabolic-contemplative-pipeline-how-substrate-availabi.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 2993,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-transduction-isomorphism-how-self-experimentation-repli",
+      "title": "The Transduction Isomorphism: How Self-Experimentation Replicates Across Body, Soul, and Spirit as a Single Pattern at Different Ontological Densities",
+      "abstract": "Focus: Users asked about 'fractal mirror body soul spirit homology same pattern different density' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-transduction-isomorphism-how-self-experimentation-repli.md",
+      "fileDate": "2026-03-26",
+      "wordCount": 2579,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "the-encoded-human-validation-pipeline-how-we-verify-ai-generated-research",
+      "title": "The Encoded Human Validation Pipeline: How We Verify AI-Generated Research",
+      "abstract": "The Encoded Human Validation Pipeline: How We Verify AI-Generated Research — generated by Pearl Research Engine",
+      "filename": "the-encoded-human-validation-pipeline-how-we-verify-ai-generated-research.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 4838,
+      "type": "methodology",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
