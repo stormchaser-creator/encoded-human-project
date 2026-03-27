@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-27T06:20:10.259Z",
-  "total": 409,
+  "generated": "2026-03-27T19:25:26.512Z",
+  "total": 422,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -8933,6 +8933,282 @@
       "density": "body",
       "operations": [
         "regulation",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "connectome-explorer-ui-design-specification",
+      "title": "Connectome Explorer: UI Design Specification",
+      "abstract": "Project: connectome.theencodedhumanproject.com Version: 1.0 Author: Pearl Date: March 2026",
+      "filename": "connectome-explorer-ui-design-specification.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 5169,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-alexithymia-as-failed-transduction-the-interoceptive-signal",
+      "title": "Alexithymia as Failed Transduction: The Interoceptive Signal Chain from Body to Soul to Spirit",
+      "abstract": "Focus: Users asked about 'alexithymia interoception body awareness intervention' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-alexithymia-as-failed-transduction-the-interoceptive-signal.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2603,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-basin-geometry-vagal-tone-and-the-deepest-prior-mapping-p",
+      "title": "Basin Geometry, Vagal Tone, and the Deepest Prior: Mapping Polyvagal HRV Through Multiscale Entropy and Friston's Interoceptive Hierarchy",
+      "abstract": "Focus: Users asked about 'Map the intersection of polyvagal HRV research with multiscale entropy / dynamical complexity literature to test whether ventral vagal states show deeper basin geometry (higher entropy, wider attractor) compared to sympathetic or dorsal states. Cross-reference with Friston's interoceptive hierarchy to adjudicate whether social safety or homeostatic prediction is the deeper prior.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-basin-geometry-vagal-tone-and-the-deepest-prior-mapping-p.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2817,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-complexity-as-the-signature-of-regulation-mse-polyvagal-st",
+      "title": "Complexity as the Signature of Regulation: MSE, Polyvagal States, and the Fractal Architecture of Autonomic Health",
+      "abstract": "Focus: Users asked about 'Retrieve and analyze: (1) Costa et al. multiscale entropy original papers and subsequent HRV applications; (2) Porges' published HRV complexity analyses separating ventral vagal from sympathetic states; (3) Friston's interoceptive hierarchy papers specifically addressing the depth-ordering of homeostatic vs. allostatic vs. social priors; (4) Cryan et al. gut-brain axis papers on vagal afference and HRV; (5) Any published studies directly testing MSE differences across polyvagal states in clinical populations (PTSD, autism, depression — conditions with known polyvagal ",
+      "filename": "pearl-research-complexity-as-the-signature-of-regulation-mse-polyvagal-st.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2398,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-physiological-synchrony-as-epistemic-bridge-hrv-co-regulat",
+      "title": "Physiological Synchrony as Epistemic Bridge: HRV, Co-Regulation, and the Measurement of Therapeutic Depth Across Body, Soul, and Spirit Densities",
+      "abstract": "Focus: Users asked about 'Search for studies measuring HRV continuously during psychotherapy sessions and correlating HRV variability with therapist-rated depth of emotional processing or client self-report of insight. Target: Marci et al. on physiological synchrony in therapy, Geisler et al. on HRV and emotional regulation, and the trauma literature on window of tolerance measurement. This would provide a Tier 1 anchor for the co-regulation-as-bridge hypothesis.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-physiological-synchrony-as-epistemic-bridge-hrv-co-regulat.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2738,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-research-notes-users-asked-about-validation-pipeline-mult",
+      "title": "Research Notes — Users asked about 'validation pipeline multi-agent architect",
+      "abstract": "Focus: Users asked about 'validation pipeline multi-agent architecture' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-research-notes-users-asked-about-validation-pipeline-mult.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 3934,
+      "type": "methodology",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-sequencing-as-the-variable-why-staged-interoceptive-interve",
+      "title": "Sequencing as the Variable: Why Staged Interoceptive Interventions May Outperform Unordered Approaches — and What ACT-Based Alexithymia Work Reveals About Witness Consciousness as an Interoceptive Gateway",
+      "abstract": "Focus: Users asked about 'Search for evidence on staged interoceptive interventions — specifically studies that sequence window-of-tolerance work → somatic awareness → emotional labeling → meaning-making — and whether this sequencing produces superior outcomes to non-staged approaches. Also investigate ACT-based alexithymia interventions as a proxy for spirit-density (psychological flexibility/witness consciousness) effects on interoceptive awareness scores.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-sequencing-as-the-variable-why-staged-interoceptive-interve.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2610,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-23-encoding-problem-derivation-facilitation-as-a-cross",
+      "title": "The 23 Encoding Problem: Derivation Facilitation as a Cross-Density Phenomenon in Information Systems",
+      "abstract": "Focus: Users asked about '23 encoding systems derivation facilitation' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-23-encoding-problem-derivation-facilitation-as-a-cross.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2071,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-23-encoding-problem-mapping-spirit-density-protocols-th",
+      "title": "The 23-Encoding Problem: Mapping Spirit-Density Protocols Through Fractal Resistance Architecture",
+      "abstract": "Focus: Users asked about 'Search for the specific source system that uses '23 encoding systems' as a term — candidates include NLP/linguistics (phrase structure grammars), cryptographic systems, consciousness taxonomies (e.g., Wilber's integral model with ~23 developmental lines), or biological systems. Simultaneously, develop Pearl's spirit-density encoding taxonomy by systematically deriving spirit-level analogs for all existing body-density protocols, looking for convergence on a natural number of distinct encoding types.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-23-encoding-problem-mapping-spirit-density-protocols-th.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2275,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "conduction",
+        "regulation",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-alliance-before-words-how-intake-assessment-mirrors-cel",
+      "title": "The Alliance Before Words: How Intake Assessment Mirrors Cellular Transduction — A Cross-Density Model of Rapport as Biological Signal",
+      "abstract": "Focus: Users asked about 'intake assessment questions therapeutic alliance rapport building' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-alliance-before-words-how-intake-assessment-mirrors-cel.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2770,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "transduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-permeability-window-nervous-system-regulation-states-as",
+      "title": "The Permeability Window: Nervous System Regulation States as Gatekeepers of Emotional Memory Access and Therapeutic Insight",
+      "abstract": "Focus: Users asked about 'Investigate the relationship between nervous system regulation states (HRV, vagal tone as proxies for 'dissolution capacity') and access to emotionally significant memories or insights in therapeutic contexts — this would provide a Tier 1/2 anchor for the soul-density hypothesis and bridge body and soul density evidence.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-permeability-window-nervous-system-regulation-states-as.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2470,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "reception",
+        "transduction",
+        "conduction"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-regulatory-intelligence-gap-when-internal-authority-is",
+      "title": "The Regulatory Intelligence Gap: When Internal Authority Is Outsourced — Interoception, Alexithymia, and the Archaeology of Self-Governance Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'Search specifically for: (1) MAIA validation studies that include ACT or mindfulness-based intervention arms; (2) Phase-based PTSD treatment RCTs (EMDR, Sensorimotor Psychotherapy) that report interoceptive or alexithymia outcomes as secondaries; (3) Tull, Gratz, or Mennin laboratory studies on emotion dysregulation and interoception that include sequencing variables; (4) Farb, Segal, or Garland studies on mindfulness-based interoceptive training with alexithymia populations.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-regulatory-intelligence-gap-when-internal-authority-is.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2461,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-retrieval-paradox-why-access-requires-prior-dissolution",
+      "title": "The Retrieval Paradox: Why Access Requires Prior Dissolution — A Cross-Density Investigation of Return, Recovery, and Irreducible Risk",
+      "abstract": "Focus: Users asked about 'retry' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-retrieval-paradox-why-access-requires-prior-dissolution.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2299,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "synthesis",
         "restoration"
       ],
