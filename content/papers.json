@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-28T17:22:11.090Z",
-  "total": 445,
+  "generated": "2026-03-28T22:35:42.148Z",
+  "total": 451,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -9695,6 +9695,130 @@
       "density": "body",
       "operations": [
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-resistance-as-constitution-how-teleological-language-in-sci",
+      "title": "Resistance as Constitution: How Teleological Language in Scientific Editorials May Signal Structural Integrity in Knowledge Systems",
+      "abstract": "Focus: Users asked about 'Develop a Spirit-Density Lexicon (SDL) — a validated coding scheme for teleological language in scientific editorial contexts — by: (1) piloting on 10 known editorials from Nature (Maddox era) vs. 10 from contemporaneous specialty journals, (2) establishing inter-rater reliability, (3) applying retrospectively to the five target journals' available editorial correspondence, and (4) correlating SDL scores with available citation and replication data from the same periods. Simultaneously, request raw data from the Registered Reports consortium on author-reported sense o",
+      "filename": "pearl-research-resistance-as-constitution-how-teleological-language-in-sci.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 3029,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-signal-clarity-as-civilizational-force-teleological-languag",
+      "title": "Signal Clarity as Civilizational Force: Teleological Language, Spirit-Density, and the Information Architecture of Transformative Science",
+      "abstract": "Focus: Users asked about 'Identify and analyze the editorial correspondence and submission guidelines of 5 historically transformative journals (Nature 1953-1970, Cell 1974-1990, NEJM 1981-1995, Science 1960-1975, Lancet 1945-1965) for the presence of explicit teleological language — purpose statements, civilizational framing, developmental reviewer instructions — and compare with contemporaneous non-transformative journals. Simultaneously, analyze Registered Reports outcome data (2013-2024) for evidence of spirit-density effects: cross-disciplinary citation rate, replication success rate, and",
+      "filename": "pearl-research-signal-clarity-as-civilizational-force-teleological-languag.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2749,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-absent-scaffold-what-pearls-knowledge-gap-on-cureus-ma",
+      "title": "The Absent Scaffold: What Pearl's Knowledge Gap on Cureus Manuscript Editing Reveals About Information Architecture and Epistemic Integrity",
+      "abstract": "Focus: Users asked about 'Cureus manuscript editing reference management' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-absent-scaffold-what-pearls-knowledge-gap-on-cureus-ma.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2556,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-revision-as-restoration-arc-how-biological-regulation-p",
+      "title": "The Revision-as-Restoration Arc: How Biological Regulation Patterns Mirror the Structure of Research Paper Submission and Revision Workflows",
+      "abstract": "Focus: Users asked about 'research paper submission revision workflow' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-revision-as-restoration-arc-how-biological-regulation-p.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2930,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-three-density-architecture-of-scientific-publishing-bod",
+      "title": "The Three-Density Architecture of Scientific Publishing: Body as Compliance Engine, Soul as Author Upregulation, Spirit as the Absent Teleological Attractor",
+      "abstract": "Focus: Users asked about 'Map the three-density framework explicitly onto the stages of the research submission-revision cycle: identify which stage operates primarily at body (regulatory compliance), which at soul (author upregulation), and which is currently absent at spirit (teleological orientation). Then identify historical examples where spirit-density function was present — paradigm-shifting papers, transformative journals — and characterize what structural conditions enabled it.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-three-density-architecture-of-scientific-publishing-bod.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2680,
+      "type": "framework",
+      "density": "spirit",
+      "operations": [
+        "transduction",
+        "regulation",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "why-you-know-exactly-what-to-do-and-still-dont-do-it",
+      "title": "Why You Know Exactly What To Do (And Still Don't Do It)",
+      "abstract": "The real reason change doesn't stick — and what's actually broken",
+      "filename": "why-you-know-exactly-what-to-do-and-still-dont-do-it.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 1762,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
