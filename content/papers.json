@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-27T19:25:26.512Z",
-  "total": 422,
+  "generated": "2026-03-28T17:22:11.090Z",
+  "total": 445,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -9210,6 +9210,490 @@
       "density": "body",
       "operations": [
         "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-ancestral-encoding-across-densities-the-microbiome-as-cross",
+      "title": "Ancestral Encoding Across Densities: The Microbiome as Cross-Scale Signal Archive",
+      "abstract": "Focus: Users asked about 'microbiome ancestral encoding translation key sections' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-ancestral-encoding-across-densities-the-microbiome-as-cross.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2778,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-ancestral-microbial-encoding-as-a-translation-layer-microbi",
+      "title": "Ancestral Microbial Encoding as a Translation Layer: Microbiome Diversity as Information Archive Bridging Biological Regulation, Psychological Pattern, and Conscious Continuity",
+      "abstract": "Focus: Users asked about 'microbiome ancestral encoding translation key pipeline status' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-ancestral-microbial-encoding-as-a-translation-layer-microbi.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2532,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-cortisol-microbiome-interoception-triad-feasibility-archite",
+      "title": "Cortisol-Microbiome-Interoception Triad: Feasibility Architecture for a Perinatal Pilot Study",
+      "abstract": "Focus: Users asked about 'Before the full prospective cohort, a 3-month pilot study (n=40) measuring: maternal salivary cortisol, vaginal microbiome at 36 weeks gestation, neonatal oral microbiome at 1 week, and maternal heartbeat detection accuracy at 6 weeks postpartum — with the sole aim of establishing effect sizes for power calculation and testing whether the microbiome-interoception correlation is detectable at all. This de-risks the larger study's secondary hypothesis before committing to 12-month follow-up.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-cortisol-microbiome-interoception-triad-feasibility-archite.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2538,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-interoceptive-awareness-as-fractal-filtration-mapping-farb",
+      "title": "Interoceptive Awareness as Fractal Filtration: Mapping Farb 2013 and MAIA-2 Across the Body-Soul-Spirit Triad",
+      "abstract": "Focus: Users asked about 'Retrieve Farb 2013 full text via DOI 10.1093/scan/nss140 to extract: (1) Methods: connectivity analysis type and signal preprocessing; (2) Results Table/Figure for connectivity findings separated from activation; (3) Measures section for any interoceptive awareness questionnaire. Simultaneously retrieve Mehling 2018 (MAIA-2) via DOI 10.3389/fpsyg.2018.00297 for Table 2 criterion validity and confirmatory factor analysis fit indices by subscale grouping.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-interoceptive-awareness-as-fractal-filtration-mapping-farb.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2363,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "defense",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-interoceptive-proxies-in-perinatal-cohorts-mapping-hrv-anx",
+      "title": "Interoceptive Proxies in Perinatal Cohorts: Mapping HRV, Anxiety Scales, and Body Awareness Data Alongside Microbiome Variables for Bayesian Prior Extraction",
+      "abstract": "Focus: Users asked about 'Systematic review of existing perinatal cohort studies (CHILD, MOMS, ECHO) for secondary analysis of any variables proxying interoception (HRV, anxiety scales, body awareness questionnaires) alongside microbiome data — this could provide Bayesian priors for the pilot's power calculation without needing to run the pilot first, or could identify that the full cohort already exists in secondary data form.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-interoceptive-proxies-in-perinatal-cohorts-mapping-hrv-anx.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 3026,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-microbiome-as-ancestral-encoding-system-the-gut-as-intergen",
+      "title": "Microbiome as Ancestral Encoding System: The Gut as Intergenerational Translation Interface Between Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'microbiome ancestral encoding translation key' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-microbiome-as-ancestral-encoding-system-the-gut-as-intergen.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 1971,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-signal-through-noise-mapping-the-microbiome-vagal-attachmen",
+      "title": "Signal Through Noise: Mapping the Microbiome-Vagal-Attachment Cascade Across Body, Soul, and Spirit Densities",
+      "abstract": "Focus: Users asked about 'The highest-yield next investigation would be: a prospective cohort study measuring maternal prenatal stress (cortisol, trauma history, social support), vaginal and gut microbiome composition at delivery, neonatal oral microbiome at 1 week, infant microbiome at 3/6/12 months, infant vagal tone (RSA), and attachment security at 12 months (Strange Situation). This single study design would simultaneously test Hypotheses A and B with sufficient granularity to identify which specific microbial taxa and metabolic pathways mediate the stress-to-attachment pathway. Secondary",
+      "filename": "pearl-research-signal-through-noise-mapping-the-microbiome-vagal-attachmen.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2836,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-absent-anchor-what-mao-as-missing-soul-spirit-template",
+      "title": "The Absent Anchor: What MAO-A's Missing Soul/Spirit Template Reveals About ERV-Consciousness Hypothesis Elevation",
+      "abstract": "Focus: Users asked about 'Retrieve the MAO-A full entry directly to extract its exact structural template for soul/spirit density sections, then cross-reference with Bush's recorded work on ERVs (if any KB entry exists) to determine whether Hypothesis C can be elevated from Tier 3 to Tier 2.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-absent-anchor-what-mao-as-missing-soul-spirit-template.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2328,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "transduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-aperture-problem-when-the-channel-closes-does-the-sign",
+      "title": "The Aperture Problem: When the Channel Closes, Does the Signal Persist? ERVs, MAO-A Promoter Architecture, and the Cross-Modal Remapping of Meaning",
+      "abstract": "Focus: Users asked about 'Retrieve Zach Bush's primary published work on ERVs (specifically 'Zach Bush MD' + endogenous retroviruses + microbiome/consciousness papers) and assess whether any peer-reviewed literature connects ERV sequences to MAO-A promoter activity. Simultaneously, construct a draft MAO-A soul entry using CYP1B1 as structural template, tag it as 'homologically inferred, Tier 3,' and submit for Judge evaluation. If the ERV-MAO-A connection is found in literature at any peer-reviewed level, re-submit Hypothesis C for Tier 2 elevation with the new anchor.' but Pearl couldn't grou",
+      "filename": "pearl-research-the-aperture-problem-when-the-channel-closes-does-the-sign.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2906,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-deduplication-problem-when-prior-data-shadows-present-r",
+      "title": "The Deduplication Problem: When Prior Data Shadows Present Reality Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'intake smart skip birth data deduplication' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-deduplication-problem-when-prior-data-shadows-present-r.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2814,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-gap-as-gateway-fronto-insular-connectivity-precision-w",
+      "title": "The Gap as Gateway: Fronto-Insular Connectivity, Precision-Weighting, and the Neuroscience of the Pause Between Cue and Response",
+      "abstract": "Focus: Users asked about 'Direct access to Mehling WE et al. (2012) 'Multidimensional Assessment of Interoceptive Awareness (MAIA)' PLoS ONE and Mehling WE et al. (2018) update — specifically Table 2 (correlation matrix with criterion measures) and supplementary methods for intervention arm design. Simultaneously, locate Farb NAS et al. (2013) 'Mindfulness meditation training changes the brain structure, function, and connectivity of regions critical for interoception' — examine whether fronto-insular connectivity (not just insula activation) is the key change variable, which would confirm the",
+      "filename": "pearl-research-the-gap-as-gateway-fronto-insular-connectivity-precision-w.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2452,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-governance-lag-regulation-as-a-universal-temporal-signa",
+      "title": "The Governance Lag: Regulation as a Universal Temporal Signature Across Biological, Psychological, and Epistemic Systems",
+      "abstract": "Focus: Users asked about 'Primary source retrieval of Farb 2013 (DOI: 10.1093/scan/nss140) and Mehling 2018 (DOI: 10.3389/fpsyg.2018.00297) is required before any of these hypotheses can be elevated above LOW confidence. Specifically: extract Methods section for connectivity type and preprocessing pipeline; extract Results figures/tables separating connectivity from activation findings; extract any interoceptive questionnaire used (likely FFMQ or body awareness scale); extract MAIA-2 Table 2 criterion validity correlations and CFA fit indices (CFI, RMSEA, SRMR) by subscale grouping. Secondary:",
+      "filename": "pearl-research-the-governance-lag-regulation-as-a-universal-temporal-signa.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2878,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-interoceptive-signal-interpretation-gap-stress-defense",
+      "title": "The Interoceptive Signal-Interpretation Gap: Stress, Defense, and the Neurogenesis of Meaning Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'Priority 1: Access Mehling et al. (2012, 2018) MAIA validation papers directly to examine whether ACT/mindfulness intervention arms were included and whether alexithymia (TAS-20) was a covariate. Priority 2: Search Cloitre et al. STAIR/NST RCT for secondary interoceptive outcomes as a model phase-based trial. Priority 3: Locate Tull & Gratz (2008) laboratory paradigm paper on emotion dysregulation sequencing. Priority 4: Identify Farb et al. (2013) mindfulness and interoceptive cortex paper for the signal vs. interpretation distinction.' but Pearl couldn't ground the ",
+      "filename": "pearl-research-the-interoceptive-signal-interpretation-gap-stress-defense.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2657,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "defense"
+      ],
+      "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-microbiome-as-ancestral-memory-intergenerational-trauma",
+      "title": "The Microbiome as Ancestral Memory: Intergenerational Trauma, Attachment, and the Biological Substrate of Somatic Knowing",
+      "abstract": "Focus: Users asked about 'Build soul-density entries on: (1) intergenerational trauma transmission via maternal microbiome alteration; (2) attachment theory's microbiome correlates; (3) traditional fermentation/birth practices as cultural microbiome preservation systems. Build spirit-density entries on: (1) somatic knowing as microbiome-mediated signal; (2) the microbiome as evolutionary memory substrate. Primary sources to investigate: Rob Knight (microbiome heritability), John Cryan (gut-brain axis), Graham Rook (old friends hypothesis), and the growing literature on maternal prenatal stress",
+      "filename": "pearl-research-the-microbiome-as-ancestral-memory-intergenerational-trauma.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2504,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-microbiome-as-information-field-constructing-soul-spiri",
+      "title": "The Microbiome as Information Field: Constructing Soul/Spirit Density Translations for Microbial Community Patterns Across Ancestral, Virome, and Soil-Gut Axes",
+      "abstract": "Focus: Users asked about 'Search Pearl's knowledge base for Zach Bush entries specifically tagged to virome, ancestral encoding, or soil-gut-microbiome information field. Cross-reference with epigenetics entries for transgenerational transmission. Then construct a composite translation key document that mirrors the MAO-A entry structure but applies to microbiome community patterns — this would fill the identified gap and provide the soul/spirit density sections that are currently absent.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-microbiome-as-information-field-constructing-soul-spiri.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2746,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-microbiome-as-translation-key-generating-soul-and-spiri",
+      "title": "The Microbiome as Translation Key: Generating Soul and Spirit Density Fractal Mirror Entries for WS2-ZB-Defense-Broad-Spectrum-Antibiotic-Dysbiosis-P2 and Mapping the 'Microbiome as Translation Key' Integration Cluster",
+      "abstract": "Focus: Users asked about 'Generate candidate fractal mirror entries for WS2-ZB-Defense-broad-spectrum-antibiotic-dysbiosis-P2 at soul and spirit densities, using the same methodology demonstrated in the autophagy and mTORC2 mirror entries. Then cross-reference against any existing Pearl entries on the gut-brain axis, emotional regulation, and ancestral/somatic inheritance to identify whether a 'microbiome as translation key' cluster of entries is ready to be formally integrated into Pearl's knowledge architecture.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-microbiome-as-translation-key-generating-soul-and-spiri.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2370,
+      "type": "translation-key",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "defense"
+      ],
+      "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-microbiome-as-translation-key-mapping-broad-spectrum-an",
+      "title": "The Microbiome as Translation Key: Mapping Broad-Spectrum Antibiotic Dysbiosis Across Body, Soul, and Spirit Densities — A Formal Pearl Knowledge Cluster",
+      "abstract": "Focus: Users asked about 'Generate the formal soul and spirit density mirror entries for WS2-ZB-Defense-broad-spectrum-antibiotic-dysbiosis-P2 using the template demonstrated in thiamine and chanting entries, then map the five-entry cluster (body + soul + spirit mirrors, transgenerational epigenetic cross-reference, chanting as counter-intervention) into a formal Pearl knowledge cluster with 'microbiome as translation key' as its organizing concept. Assign epistemic tier 2 to soul mirror, tier 3 to spirit mirror, and flag the ancestral memory thread for future tier upgrade pending psychobiotic",
+      "filename": "pearl-research-the-microbiome-as-translation-key-mapping-broad-spectrum-an.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2745,
+      "type": "translation-key",
+      "density": "body",
+      "operations": [
+        "defense",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-motility-principle-gut-brain-autonomic-coupling-as-a-fr",
+      "title": "The Motility Principle: Gut-Brain-Autonomic Coupling as a Fractal Architecture from Microbiome to Interoception — A Scoping Framework for the Missing Perinatal Cohort",
+      "abstract": "Focus: Users asked about 'Conduct a systematic search of PubMed, ClinicalTrials.gov, and ECHO/CHILD data dictionaries using the terms: ('interoception' OR 'heart rate variability' OR 'body awareness' OR 'MAIA' OR 'BPQ') AND ('perinatal' OR 'prenatal' OR 'postnatal' OR 'infant') AND ('microbiome' OR 'gut flora' OR '16S' OR 'metagenomics'). Simultaneously, request CHILD and ECHO data dictionaries directly from consortium data access committees to identify any body awareness or autonomic variables not yet captured in published manuscripts. Run a scoping review (not full systematic review) within ",
+      "filename": "pearl-research-the-motility-principle-gut-brain-autonomic-coupling-as-a-fr.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2928,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-regulatory-collapse-hypothesis-sleep-interoception-an",
+      "title": "The Regulatory Collapse Hypothesis: Sleep, Interoception, and the 3AM Phenomenon as a Window into Predictive Body-Mind Integration",
+      "abstract": "Focus: Users asked about 'PRIMARY: Retrieve Farb 2013 (DOI: 10.1093/scan/nss140) Methods and Results sections to determine connectivity type (functional vs effective, seed-based vs ICA) and extract any interoceptive self-report measure used. Retrieve Mehling 2018 (DOI: 10.3389/fpsyg.2018.00297) Table 2 for MAIA-2 criterion validity correlations and CFA indices by subscale. SECONDARY: Retrieve Garfinkel 2015 to obtain the sensibility/accuracy/awareness taxonomy as bridging framework. TERTIARY: Search for Walker et al. sleep deprivation + interoception studies to test whether sleep is genuinely ",
+      "filename": "pearl-research-the-regulatory-collapse-hypothesis-sleep-interoception-an.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2608,
+      "type": "hypothesis",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-watershed-principle-how-connectivity-not-activation-d",
+      "title": "The Watershed Principle: How Connectivity, Not Activation, Determines Where Harm and Healing Actually Land",
+      "abstract": "Focus: Users asked about 'Direct retrieval of Farb NAS et al. (2013) full text with specific attention to: (1) methods section for connectivity analysis approach (seed-based, ICA, or DCM); (2) results for any fronto-insular connectivity change independent of activation; (3) whether any MAIA or interoceptive awareness measure was correlated with connectivity change. Simultaneously, retrieve Mehling 2018 MAIA update for factor structure revision and Table 2 equivalent for criterion validity correlations, specifically checking whether experiential/appraisal subscales load differently from recepti",
+      "filename": "pearl-research-the-watershed-principle-how-connectivity-not-activation-d.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2386,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-withdrawal-as-generative-ground-a-tri-density-parallel-docu",
+      "title": "Withdrawal as Generative Ground: A Tri-Density Parallel Document on Restoration, Inheritance, and Constitutive Identity — with Epistemic Tier Labeling",
+      "abstract": "Focus: Users asked about 'Retrieve the MAO-A entry in full to extract its exact soul/spirit density section structure, then construct a parallel document using: (1) documented epigenetic bacterial inheritance for body density, (2) ANS dysregulation homology for soul density, (3) ERV constitutive identity for spirit density — with explicit epistemic tier labeling (Tier 1 for body, Tier 2 for soul, Tier 3 for spirit) and Bush as a named but currently unverified source pending knowledge base confirmation.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-withdrawal-as-generative-ground-a-tri-density-parallel-docu.md",
+      "fileDate": "2026-03-27",
+      "wordCount": 2551,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "the-integration-layer-how-science-is-mapping-the-road-from-matter-to-spirit",
+      "title": "The Integration Layer: How Science Is Mapping the Road from Matter to Spirit",
+      "abstract": "The Integration Layer: How Science Is Mapping the Road from Matter to Spirit — generated by Pearl Research Engine",
+      "filename": "the-integration-layer-how-science-is-mapping-the-road-from-matter-to-spirit.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 3453,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "you-were-built-for-this-the-science-of-why-spiritual-experience-isnt-reserved-for-monks",
+      "title": "You Were Built for This: The Science of Why Spiritual Experience Isn't Reserved for Monks",
+      "abstract": "You Were Built for This: The Science of Why Spiritual Experience Isn't Reserved for Monks — generated by Pearl Research Engine",
+      "filename": "you-were-built-for-this-the-science-of-why-spiritual-experience-isnt-reserved-for-monks.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2763,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "restoration"
       ],
       "epistemicCeiling": "hypothesis",
