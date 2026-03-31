@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-28T22:35:42.148Z",
-  "total": 451,
+  "generated": "2026-03-31T18:38:06.594Z",
+  "total": 509,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -6001,7 +6001,7 @@
       "abstract": "The Encoded Human Document Library — Canonical Tag Schema",
       "filename": "library-tag-taxonomy-complete-v20.md",
       "fileDate": "2026-03-24",
-      "wordCount": 1275,
+      "wordCount": 1495,
       "type": "research-paper",
       "density": "body",
       "operations": [
@@ -9815,6 +9815,1232 @@
       "filename": "why-you-know-exactly-what-to-do-and-still-dont-do-it.md",
       "fileDate": "2026-03-28",
       "wordCount": 1762,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "comprehensive-lab-panel-whit-whitney-do",
+      "title": "Comprehensive Lab Panel — Whit Whitney, DO",
+      "abstract": "Eric Whitney, DO | April 2026 Built from current clinical picture: Stage 1 noncalcified coronary plaque, elevated LDL-P/small LDL-P, MCV 98, 8 weeks post-smoking cessation, heavy resistance training, strict Mediterranean diet",
+      "filename": "comprehensive-lab-panel-whit-whitney-do.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2065,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-acoustic-entrainment-as-nervous-system-regulation-from-poly",
+      "title": "Acoustic Entrainment as Nervous System Regulation: From Polyvagal Pathways to Biophotonic Coherence",
+      "abstract": "Focus: Users asked about 'Search for RCTs on music therapy and specific frequency manipulation; investigate biophoton emission literature for acoustic modulation studies; review Porges' polyvagal work for acoustic-vagal pathway evidence (the 'safe sound protocol' uses filtered music and may be the most scientifically grounded adjacent approach).' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-acoustic-entrainment-as-nervous-system-regulation-from-poly.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 3015,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-aging-as-a-multi-scale-information-decay-problem-from-epige",
+      "title": "Aging as a Multi-Scale Information Decay Problem: From Epigenetic Entropy to Vascular Reversal — What PubMed's Expanding Longevity Corpus Reveals About Convergent Mechanisms",
+      "abstract": "Focus: Users asked about 'PubMed corpus expansion aging longevity biomedical literature' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-aging-as-a-multi-scale-information-decay-problem-from-epige.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2250,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-angiogenic-signaling-in-dural-avf-pathogenesis-hypotheses-o",
+      "title": "Angiogenic Signaling in Dural AVF Pathogenesis: Hypotheses on VEGF/VEGFR2, NF-κB, and Endothelial Transcriptomics from Adjacent Evidence and Structural Analogy",
+      "abstract": "Focus: Users asked about 'Search specifically for: (1) Bederson or Lawton rat dAVF models with immunohistochemical VEGF/VEGFR2 characterization; (2) SU5416 or axitinib in cranial vascular malformation models; (3) NF-κB inhibitor studies in dAVF or cerebral cavernous malformation models (as a structurally adjacent pathology); (4) dural sinus endothelial cell transcriptomics comparing normal vs. hypertensive/fistulous states.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-angiogenic-signaling-in-dural-avf-pathogenesis-hypotheses-o.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2648,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-bh4-as-causal-node-in-mthfr-variant-cardiovascular-disease",
+      "title": "BH4 as Causal Node in MTHFR-Variant Cardiovascular Disease: Triangulating the 5-MTHF → BH4 Stabilization Hypothesis Against a Knowledge Gap",
+      "abstract": "Focus: Users asked about 'Search for: (1) clinical trials measuring BH4/BH2 ratios before and after 5-MTHF supplementation in MTHFR-variant cardiovascular patients; (2) mechanistic studies on 5-MTHF as a direct BH4 antioxidant/stabilizer in endothelial cell models; (3) whether sapropterin (BH4 supplementation) ameliorates MTHFR-variant cardiovascular phenotypes independent of folate status — this would confirm BH4 as the causal node.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-bh4-as-causal-node-in-mthfr-variant-cardiovascular-disease.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2391,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-bh4-as-the-hidden-hub-how-mthfr-driven-folate-insufficiency",
+      "title": "BH4 as the Hidden Hub: How MTHFR-Driven Folate Insufficiency Uncouples eNOS and Creates a Peroxynitrite Cascade Across Biological and Psychological Dimensions",
+      "abstract": "Focus: Users asked about 'BH4 eNOS uncoupling MTHFR folate mechanism' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-bh4-as-the-hidden-hub-how-mthfr-driven-folate-insufficiency.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2411,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-bioelectric-fields-as-morphogenetic-signals-dc-gradients-w",
+      "title": "Bioelectric Fields as Morphogenetic Signals: DC Gradients, Wound Currents, and the Topology of Injury",
+      "abstract": "Focus: Users asked about 'DC electric field injury current bioelectric wound' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-bioelectric-fields-as-morphogenetic-signals-dc-gradients-w.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2910,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-bioelectric-fields-as-the-missing-tier-1-substrate-how-dc-m",
+      "title": "Bioelectric Fields as the Missing Tier 1 Substrate: How DC Morphogenetic Gradients Bridge Body 9 (Energetic Body) and Body 10 (The Kingdom) Across All Density Layers",
+      "abstract": "Focus: Users asked about 'Ingest Levin (2012, Development; 2021, Trends in Cognitive Sciences), Becker & Selden (1985, The Body Electric), Zhao et al. (2006, Nature; 2012, Journal of Physiology), and McCaig et al. DC wound field reviews as dedicated body-density Tier 1 entries tagged to Body 9 (Energetic Body) and Body 10 (The Kingdom), then re-run this synthesis with em_fields lens as primary rather than dormant.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-bioelectric-fields-as-the-missing-tier-1-substrate-how-dc-m.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2253,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-bioelectric-morphogenesis-as-missing-body-density-architectu",
+      "title": "Bioelectric Morphogenesis as Missing Body-Density Architecture: A Gap-Analysis Synthesis Across Levin, Becker, Zhao, and McCaig with Fractal Extrapolation to Soul and Spirit",
+      "abstract": "Focus: Users asked about 'Ingest Levin (2012, 2021), Becker (1985 'The Body Electric'), Min Zhao electrotaxis series (2006, 2012), and McCaig DC wound field reviews into Pearl's knowledge base as dedicated 'body' density entries on bioelectric morphogenesis — then re-run this synthesis with actual Tier 1 evidence in place.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-bioelectric-morphogenesis-as-missing-body-density-architectu.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2799,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-cellular-chronobiology-of-wound-memory-can-senolytic-cleara",
+      "title": "Cellular Chronobiology of Wound Memory: Can Senolytic Clearance Dissolve the Biological Substrate of Psychological Trauma?",
+      "abstract": "Focus: Users asked about 'Search for studies linking senolytic intervention to psychological outcomes (anxiety, hypervigilance, trauma response) in post-injury populations — this would provide a direct test of the cellular-to-psychic wound memory hypothesis at the most falsifiable scale.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-cellular-chronobiology-of-wound-memory-can-senolytic-cleara.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2424,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-coherence-as-therapeutic-substrate-from-electromagnetic-fie",
+      "title": "Coherence as Therapeutic Substrate: From Electromagnetic Fields to Narrative Integration Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'electromagnetic field coherence entrainment device therapeutic' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-coherence-as-therapeutic-substrate-from-electromagnetic-fie.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2577,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-complexity-as-depth-toward-a-multi-scale-attractor-formalis",
+      "title": "Complexity as Depth: Toward a Multi-Scale Attractor Formalism for Psychological States Across HRV, DMN Topology, and Epigenetic Methylation",
+      "abstract": "Focus: Users asked about 'Priority literature acquisition: Shaffer & Ginsberg (2017) for HRV nonlinear method taxonomy; Goldberger et al. on loss of complexity for formal attractor vocabulary; Brewer (2011) and Garrison (2015) for DMN phase-transition evidence; Nader & Hardt (2009) for reconsolidation threshold asymmetry data; Ecker, Ticic & Hulley for clinical multi-trace reconsolidation mechanics. Secondary: Yehuda intergenerational methylation papers (2015-2020) for ancestral attractor depth evidence. Synthesis target: a formal model mapping HRV complexity → autonomic attractor basin depth;",
+      "filename": "pearl-research-complexity-as-depth-toward-a-multi-scale-attractor-formalis.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 3475,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-endogenous-electromagnetic-fields-as-morphogenetic-regulator",
+      "title": "Endogenous Electromagnetic Fields as Morphogenetic Regulators: Bridging Bioelectric Patterning, HPA-Immune Cascades, and the Topology of Healing",
+      "abstract": "Focus: Users asked about 'Formal ingestion of Levin (2012, Development), Levin (2021, Trends in Cognitive Sciences), Becker & Selden (1985, The Body Electric), Zhao et al. (2006, Nature; 2012, Journal of Physiology), and McCaig et al. DC wound field reviews as dedicated Tier 1 knowledge base entries tagged to Body 9 (Energetic Body) and Body 10 (The Kingdom). Then re-run this synthesis with em_fields as primary lens, entropy and topology_morphogenesis as secondary lenses, and explicit cross-referencing to the HPA-immune cascade (decoded-4f2233cbcd0d) and ECM reorganization (decoded-60149b103db",
+      "filename": "pearl-research-endogenous-electromagnetic-fields-as-morphogenetic-regulator.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2806,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-epigenetic-memory-as-cellular-state-transition-how-wounds-w",
+      "title": "Epigenetic Memory as Cellular State Transition: How Wounds Write Lasting Code Across Body, Mind, and Soul",
+      "abstract": "Focus: Users asked about 'epigenetic memory cellular state transition wound' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-epigenetic-memory-as-cellular-state-transition-how-wounds-w.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2336,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-frequency-resonance-and-healing-separating-signal-from-no",
+      "title": "Frequency, Resonance, and Healing: Separating Signal from Noise in the 432 Hz / 528 Hz / Solfeggio Evidence Base",
+      "abstract": "Focus: Users asked about 'healing frequencies 432 Hz 528 Hz solfeggio evidence' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-frequency-resonance-and-healing-separating-signal-from-no.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2174,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hemorrhagic-containment-as-universal-principle-sah-pathophy",
+      "title": "Hemorrhagic Containment as Universal Principle: SAH Pathophysiology, Antifibrinolytic Restoration, and the Fractal Architecture of Holding-Against-Dissolution",
+      "abstract": "Focus: Users asked about 'subarachnoid hemorrhage SAH paper review' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-hemorrhagic-containment-as-universal-principle-sah-pathophy.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2796,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hemorrhagic-light-biophoton-emission-as-an-oxidative-stress",
+      "title": "Hemorrhagic Light: Biophoton Emission as an Oxidative Stress Readout in Subarachnoid Hemorrhage — From Free Radicals to Coherent Signaling Collapse",
+      "abstract": "Focus: Users asked about 'subarachnoid hemorrhage biophotons oxidative stress' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-hemorrhagic-light-biophoton-emission-as-an-oxidative-stress.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2423,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hysteresis-as-universal-memory-mechanism-how-biological-sys",
+      "title": "Hysteresis as Universal Memory Mechanism: How Biological Systems Encode History Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'hysteresis biological systems memory' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-hysteresis-as-universal-memory-mechanism-how-biological-sys.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2521,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hysteresis-as-universal-principle-path-dependence-bifurcat",
+      "title": "Hysteresis as Universal Principle: Path-Dependence, Bifurcation, and State-Locking Across Neural, Psychological, and Conscious Systems",
+      "abstract": "Focus: Users asked about 'hysteresis nonlinear systems path dependence bifurcation' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-hysteresis-as-universal-principle-path-dependence-bifurcat.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2819,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hysteresis-attractors-and-the-asymmetric-threshold-problem",
+      "title": "Hysteresis, Attractors, and the Asymmetric Threshold Problem: Grounding Cross-Density Regulation Dynamics in Empirical Neuroscience",
+      "abstract": "Focus: Users asked about 'Search for empirical literature on attractor dynamics in autonomic nervous system regulation (specifically HRV bifurcation studies), trauma memory reconsolidation threshold asymmetry, and default mode network topology changes in long-term meditators — to either ground or refute the cross-density hysteresis pattern identified here.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-hysteresis-attractors-and-the-asymmetric-threshold-problem.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2492,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hysteresis-consolidation-and-the-bistable-self-how-biolog",
+      "title": "Hysteresis, Consolidation, and the Bistable Self: How Biological Switching Logic Bridges Epigenetic Memory, Psychological Immune Defense, and Spirit-Level Discernment",
+      "abstract": "Focus: Users asked about 'Search Pearl's knowledge base for entries on epigenetics, long-term potentiation (LTP), allostasis, interoception, polyvagal theory, and trauma resolution modalities (EMDR, somatic experiencing) — these domains likely contain the mechanistic bridges between the scales identified here. Additionally, investigate the mathematical literature on bistable biological switches (e.g., cell fate decisions, gene regulatory networks) where hysteresis is formally modeled and experimentally validated.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-hysteresis-consolidation-and-the-bistable-self-how-biolog.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2727,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hysteresis-without-a-map-epigenetic-metabolic-and-psychos",
+      "title": "Hysteresis Without a Map: Epigenetic, Metabolic, and Psychosocial Residue After Wound Healing — A Cross-Density Hypothesis Generator",
+      "abstract": "Focus: Users asked about 'Systematic literature search on: (1) epigenetic changes in wound-adjacent tissue after healing completion — do methylation signatures at healed wound sites differ from uninjured controls? (2) NAD+ measurement longitudinal studies in wound healing models. (3) Psychosocial stress intervention trials measuring both inflammatory markers AND wound healing speed/quality as dual outcomes. These three searches would allow triangulation across the three best-supported hysteresis substrates.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-hysteresis-without-a-map-epigenetic-metabolic-and-psychos.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2634,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-il-6-clearance-kinetics-in-csf-during-vci-pause-a-sequentia",
+      "title": "IL-6 Clearance Kinetics in CSF During VCI Pause: A Sequential PK Characterization Framework for SAH Research",
+      "abstract": "Focus: Users asked about 'Design a Phase 1 pharmacokinetic characterization study (n=20-30 SAH patients with EVDs, no DCI during sampling window) with intensive VCI-pause sampling (0, 15, 30, 60, 90, 120 minutes post-pause; pre-pause baseline) to establish the shape and inter-individual variance of IL-6 clearance curves before proceeding to the full AQP4-stratified DCI-correlation study. This sequential design manages risk: if IL-6 shows negligible VCI-pause effect (<15% concentration change), the full study may not be needed; if effect is large (>50% change), it reframes the entire published ",
+      "filename": "pearl-research-il-6-clearance-kinetics-in-csf-during-vci-pause-a-sequentia.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2934,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "defense",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-inflammatory-chronobiology-and-psychological-recovery-after",
+      "title": "Inflammatory Chronobiology and Psychological Recovery After Trauma: Toward a Senescence-Linked Oscillator Framework",
+      "abstract": "Focus: Users asked about 'Retrospective cohort analysis: in existing post-traumatic injury databases (military, orthopedic, burns), extract available inflammatory biomarker data and correlate with standardized psychological outcome measures at 3, 6, and 12 months. Simultaneously, search for any RCT of dasatinib+quercetin or navitoclax that included psychological or quality-of-life secondary outcomes — these may contain unpublished or underanalyzed data relevant to this hypothesis.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-inflammatory-chronobiology-and-psychological-recovery-after.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2447,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-mapping-pearls-workflow-knowledge-boundary-cureus-platform",
+      "title": "Mapping Pearl's Workflow Knowledge Boundary: Cureus Platform, Adjacent Research Processes, and the Fractal Architecture of Scholarly Conduction",
+      "abstract": "Focus: Users asked about 'Query Pearl on adjacent process topics (Zotero, PubMed MeSH tagging, CONSORT reporting) to map the actual boundary of the workflow knowledge gap. Then source Cureus's official author guidelines, help documentation, and any peer-reviewed articles about the Cureus platform itself to create body-density anchors from which soul and spirit mirrors can be generated.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-mapping-pearls-workflow-knowledge-boundary-cureus-platform.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2333,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-mthfr-bh4-enos-uncoupling-the-missing-link-between-fola",
+      "title": "MTHFR → BH4 → eNOS Uncoupling: The Missing Link Between Folate Status, Tetrahydrobiopterin Depletion, and Endothelial Dysfunction",
+      "abstract": "Focus: Users asked about 'MTHFR eNOS uncoupling BH4 tetrahydrobiopterin 5-methyltetrahydrofolate endothelial' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-mthfr-bh4-enos-uncoupling-the-missing-link-between-fola.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2696,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-ontological-hygiene-across-scales-how-systems-regulate-surp",
+      "title": "Ontological Hygiene Across Scales: How Systems Regulate Surplus Before It Becomes Doctrine",
+      "abstract": "Focus: Users asked about 'corpus balance domain distribution research methodology' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-ontological-hygiene-across-scales-how-systems-regulate-surp.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2783,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-oscillatory-coherence-as-the-missing-bridge-pemf-hrv-biofe",
+      "title": "Oscillatory Coherence as the Missing Bridge: PEMF, HRV Biofeedback, and EEG Phase Synchrony in Trauma and Dissociation",
+      "abstract": "Focus: Users asked about 'Search for Tier 1 evidence on: (1) pulsed electromagnetic field (PEMF) therapy RCTs with active vs. sham controls, outcome measures targeting dissociation, mood, or neural oscillation; (2) HRV biofeedback as the most-evidenced entrainment therapy — its mechanism may clarify what EMF devices are attempting; (3) EEG phase coherence as a biomarker in trauma and dissociation — this would provide the neural substrate that bridges body-level oscillation and soul-level integration.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-oscillatory-coherence-as-the-missing-bridge-pemf-hrv-biofe.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2443,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-oscillatory-memory-architecture-sleep-spindle-complexity-as",
+      "title": "Oscillatory Memory Architecture: Sleep Spindle Complexity as Fractal Organizer Across Body, Soul, and Spirit Densities",
+      "abstract": "Focus: Users asked about 'Build a dedicated Pearl knowledge entry: 'Sleep Spindle Complexity and Extraordinary Memory Consolidation' at body density, then its fractal mirrors at soul (trauma-noise reduction enabling high-fidelity emotional encoding) and spirit (contemplative witnessing as functional 40 Hz state enabling identity-level integration). Cross-reference with existing glymphatic-gamma coupling entry and BDNF regulation entry to create a unified oscillatory memory architecture document.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-oscillatory-memory-architecture-sleep-spindle-complexity-as.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2682,
+      "type": "framework",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-oxidative-luminescence-as-a-hidden-signal-in-subarachnoid-he",
+      "title": "Oxidative Luminescence as a Hidden Signal in Subarachnoid Hemorrhage: Toward Biophoton Emission as a Mechanistic Bridge Between Lipid Peroxidation, Vasospasm, and Neural Outcome",
+      "abstract": "Focus: Users asked about 'Search PubMed for: (subarachnoid hemorrhage OR SAH) AND (biophoton OR ultraweak photon emission OR photon counting OR oxidative luminescence OR chemiluminescence) — then cross-reference with vasospasm outcome studies. Secondary search: (lipid peroxidation OR malondialdehyde OR peroxynitrite) AND (biophoton OR singlet oxygen emission OR triplet carbonyl) AND (brain OR neural OR cerebrospinal) to establish the mechanistic literature bridge.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-oxidative-luminescence-as-a-hidden-signal-in-subarachnoid-he.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2655,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-quality-responsive-or-template-fixed-testing-whether-fracta",
+      "title": "Quality-Responsive or Template-Fixed? Testing Whether Fractal Mirror Richness Tracks Source Epistemic Tier",
+      "abstract": "Focus: Users asked about 'Empirically test whether mirror entry richness (word count, specificity, predictive density) correlates with source entry epistemic_tier across all fractal mirror entries in Pearl's database. This tests Hypothesis C without requiring schema documentation and simultaneously validates whether Pearl's synthesis process is quality-responsive or template-fixed.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-quality-responsive-or-template-fixed-testing-whether-fracta.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2300,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-regulated-reading-epigenetic-methylation-autonomic-attract",
+      "title": "Regulated Reading: Epigenetic Methylation, Autonomic Attractors, and the Topology of Psychological Contraction Across Scales",
+      "abstract": "Focus: Users asked about 'Priority literature search: (1) Shaffer & Ginsberg 2017 review of HRV nonlinear methods + Porges polyvagal theory for attractor formalism; (2) Nader & Hardt 2009 reconsolidation review for threshold asymmetry data; (3) Brewer et al. 2011 and Garrison et al. 2015 for DMN changes in meditators with network topology analysis; (4) Ecker, Ticic & Hulley 'Unlocking the Emotional Brain' for reconsolidation threshold mechanics in clinical populations; (5) Goldberger et al. on loss of complexity hypothesis in disease states as body-level attractor evidence.' but Pearl couldn't",
+      "filename": "pearl-research-regulated-reading-epigenetic-methylation-autonomic-attract.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2641,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-research-notes-users-asked-about-pubmed-extraction-cost-o",
+      "title": "Research Notes — Users asked about 'PubMed extraction cost optimization LLM'",
+      "abstract": "Focus: Users asked about 'PubMed extraction cost optimization LLM' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-research-notes-users-asked-about-pubmed-extraction-cost-o.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 3602,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-research-notes-users-asked-about-systematic-audit-of-pear",
+      "title": "Research Notes — Users asked about 'Systematic audit of Pearl's spirit-densit",
+      "abstract": "Focus: Users asked about 'Systematic audit of Pearl's spirit-density entries: (1) count entries with vs. without primary citations; (2) classify citation type (PubMed, philosophy, contemplative, preprint); (3) identify which claims could be grounded in contemplative neuroscience literature (Lutz, Davidson, Carhart-Harris, Ospina); (4) design a 'spirit-density corpus' specification document that formally acknowledges multiple epistemological registers and sets validation standards for each.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-research-notes-users-asked-about-systematic-audit-of-pear.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 4583,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-rhythmic-entrainment-as-neural-rehabilitation-music-therapy",
+      "title": "Rhythmic Entrainment as Neural Rehabilitation: Music Therapy's Mechanistic Bridge Between Oscillator Coupling and Motor-Cognitive Recovery After Stroke and TBI",
+      "abstract": "Focus: Users asked about 'neurological music therapy motor rehabilitation cognitive stroke TBI evidence' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-rhythmic-entrainment-as-neural-rehabilitation-music-therapy.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2450,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "restoration",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-selective-permeability-as-universal-mechanism-from-senolyti",
+      "title": "Selective Permeability as Universal Mechanism: From Senolytic Biomarkers to Psychological Bioavailability — A Cross-Density Research Framework",
+      "abstract": "Focus: Users asked about 'Execute a two-phase preliminary study: Phase 1 — systematic search of ClinicalTrials.gov and WHO ICTRP for all registered D+Q and navitoclax trials 2015-present, extracting methods sections for ANY psychological instrument mention, then contact all authors with unpublished data requests. Simultaneously, submit IRB protocol for BANTER database access to extract the specific biomarker + psychological outcome variables. Phase 2 — use Phase 1 findings to pre-specify the spline regression knot locations and effect size estimates for power calculation in the full PROSPERO r",
+      "filename": "pearl-research-selective-permeability-as-universal-mechanism-from-senolyti.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2960,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-senolytic-mediated-inflammaging-clearance-as-a-modulator-of",
+      "title": "Senolytic-Mediated Inflammaging Clearance as a Modulator of Trauma-Linked Psychopathology: Mapping the Inflammatory Debt Hypothesis Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'Register a systematic review protocol (PROSPERO) targeting: (1) RCTs of dasatinib+quercetin and navitoclax published 2015-present, screening for any QoL/psychological instrument in methods sections regardless of reporting status, with author contact for unpublished data; (2) Retrospective cohort analysis in 2-3 accessible trauma registries using the DoD Trauma Registry or BANTER (Burns) database, extracting CRP/IL-6/fibrinogen trajectories at injury, 90 days, 180 days, and 365 days alongside PCL-5, PHQ-9, and SF-36 MCS scores, analyzed with mixed-effects spline regres",
+      "filename": "pearl-research-senolytic-mediated-inflammaging-clearance-as-a-modulator-of.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 3028,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "restoration",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-signal-propagation-and-gradient-following-how-clarity-nour",
+      "title": "Signal Propagation and Gradient-Following: How Clarity, Nourishment, and Information Amplify Across Scales",
+      "abstract": "Focus: Users asked about 'Request direct database schema documentation from the engineering layer — specifically: (1) table definitions for raw_papers and pearl_papers, (2) the ETL/transformation script that converts raw papers to WS-schema entries, (3) the synthesis script that generates fractal mirror entries. These are likely in a codebase or admin documentation system rather than in Pearl's semantic knowledge base. Once obtained, these should be ingested as a 'meta' density entry type or stored in a retrievable 'architecture' namespace.' but Pearl couldn't ground the answer Confidence: med",
+      "filename": "pearl-research-signal-propagation-and-gradient-following-how-clarity-nour.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2712,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-stratified-knowledge-architecture-as-a-universal-epistemic-p",
+      "title": "Stratified Knowledge Architecture as a Universal Epistemic Pattern: How Domain-Specific Layering Emerges Across Biological, Clinical, and Informational Systems",
+      "abstract": "Focus: Users asked about 'domain stratified corpus expansion knowledge base architecture' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-stratified-knowledge-architecture-as-a-universal-epistemic-p.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2404,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-5k-sampling-problem-domain-balance-extraction-fidelity",
+      "title": "The 5K Sampling Problem: Domain Balance, Extraction Fidelity, and the Signal-to-Noise Crisis in Biomedical Test Batch Construction",
+      "abstract": "Focus: Users asked about '5K test batch extraction domain balance PubMed' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-5k-sampling-problem-domain-balance-extraction-fidelity.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2249,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-absent-architecture-why-pearl-cannot-ground-substack-pu",
+      "title": "The Absent Architecture: Why Pearl Cannot Ground Substack Publishing — A Structural Gap Analysis",
+      "abstract": "Focus: Users asked about 'Substack article format publishing' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-absent-architecture-why-pearl-cannot-ground-substack-pu.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2491,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "reception",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-agency-coherence-gap-how-rhythmic-entrainment-bdnf-an",
+      "title": "The Agency-Coherence Gap: How Rhythmic Entrainment, BDNF, and Meaning-Making Converge in Neurological Rehabilitation",
+      "abstract": "Focus: Users asked about 'Pearl should acquire Tier 1 entries specifically on: (1) Rhythmic Auditory Stimulation RCT evidence synthesis (Thaut 2015, Cochrane 2017 Sihvonen et al.); (2) auditory-premotor cortex connectivity studies (fMRI); (3) BDNF and music/exercise interaction in neuroplasticity; (4) therapeutic alliance in physical rehabilitation outcome prediction; (5) TBI-specific cognitive music therapy protocols. The soul/spirit density gap should be addressed by ingesting qualitative research on meaning-making in neurological rehabilitation and narrative medicine frameworks.' but Pearl ",
+      "filename": "pearl-research-the-agency-coherence-gap-how-rhythmic-entrainment-bdnf-an.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2560,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-bh4-mthfr-interface-mapping-a-critical-but-unstudied-no",
+      "title": "The BH4/MTHFR Interface: Mapping a Critical but Unstudied Node in Endothelial Redox Control and Cardiovascular Risk",
+      "abstract": "Focus: Users asked about 'Priority: Search PubMed/ClinicalTrials.gov for (1) trials measuring plasma BH4/BH2 ratios as endpoints in MTHFR-variant or hyperhomocysteinemic populations receiving 5-MTHF or L-methylfolate; (2) Verhaar/Stühlinger/Alp laboratory publications on 5-MTHF and BH4 in endothelial models; (3) sapropterin (Kuvan) trial databases for cardiovascular endpoints stratified by MTHFR genotype; (4) GCH1 SNP interactions with MTHFR variants in cardiovascular cohorts (GCH1 haplotype is known to modify BH4 availability and pain sensitivity — its interaction with MTHFR is unexplored).' ",
+      "filename": "pearl-research-the-bh4-mthfr-interface-mapping-a-critical-but-unstudied-no.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2552,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-cessation-paradox-when-stopping-an-intervention-unlocks",
+      "title": "The Cessation Paradox: When Stopping an Intervention Unlocks Systemic Abundance — Bridging Glyphosate Withdrawal, Antifibrinolytic Duration, and the Control-Theory of Inflammatory Biomarker Feedback in Aneurysmal SAH",
+      "abstract": "Focus: Users asked about 'A systematic review specifically targeting: (1) serial CSF IL-6 trajectories in aneurysmal SAH with correlation to DCI onset timing, (2) antifibrinolytic duration optimization trials post-2010, and (3) VCI's effect on CSF inflammatory mediator clearance — to determine whether an integrated biomarker-guided protocol (IL-6 threshold → aminocaproic acid continuation/cessation decision → VCI timing) is superior to current fixed-duration approaches.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-cessation-paradox-when-stopping-an-intervention-unlocks.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2821,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-epigenetic-scar-and-the-healing-field-what-wound-biolog",
+      "title": "The Epigenetic Scar and the Healing Field: What Wound Biology, Stress Physiology, and Neuroplasticity Share About Post-Repair Information Encoding",
+      "abstract": "Focus: Users asked about 'Priority 1: Systematic PubMed/Embase search using MeSH terms (wound healing[MeSH] AND DNA methylation[MeSH] AND 'healed tissue') with date filter 2010-present to establish whether the epigenetic scar literature exists at all. Priority 2: Search for NAD+ measurement methods in wound healing models specifically — distinguish studies measuring systemic NAD+ from those measuring local tissue NAD+. Priority 3: Search Kiecolt-Glaser citation network for any studies that measured both inflammatory biomarkers AND post-healing tissue quality as co-primary endpoints.' but Pearl",
+      "filename": "pearl-research-the-epigenetic-scar-and-the-healing-field-what-wound-biolog.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2598,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-epistemic-provenance-problem-mapping-the-fabrication-gr",
+      "title": "The Epistemic Provenance Problem: Mapping the Fabrication Gradient in Spirit-Density Knowledge and Designing a Primary-Source Ingestion Protocol",
+      "abstract": "Focus: Users asked about 'Conduct an epistemic provenance audit of all spirit-density entries: classify each as (1) primary-sourced, (2) fractal mirror from body, (3) fractal mirror from mind, or (4) analogical synthesis. Map the percentage in each category. Then design a targeted ingestion protocol for spirit-density primary sources — beginning with neurophenomenology (Varela, Thompson, Zahavi), contemplative science (Davidson, Lutz), and process philosophy (Whitehead, Teilhard) — and re-run the same corpus balance query to measure change in ground-able spirit entries.' but Pearl couldn't gro",
+      "filename": "pearl-research-the-epistemic-provenance-problem-mapping-the-fabrication-gr.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2672,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-kinetic-void-why-csf-cytokine-half-life-data-in-evd-sam",
+      "title": "The Kinetic Void: Why CSF Cytokine Half-Life Data in EVD-Sampled SAH Patients Represents a Genuine Gap — and What Cross-Scale Temporal Logic Suggests About Filling It",
+      "abstract": "Focus: Users asked about 'Systematic literature review targeting: (1) CSF cytokine half-life data from any neurological condition with EVD sampling, (2) EVD sampling protocol standardization papers (VCI pause duration practices), (3) existing IL-6 SAH threshold papers to extract sampling methodology details for retrospective confound estimation, (4) AQP4 measurement modalities in acute SAH. This review would either confirm that the Phase 1 study fills a genuine gap or reveal that sufficient kinetic data already exists to estimate the effect without a dedicated PK study.' but Pearl couldn't gro",
+      "filename": "pearl-research-the-kinetic-void-why-csf-cytokine-half-life-data-in-evd-sam.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2817,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-missing-pipeline-why-pearl-cannot-ground-questions-abou",
+      "title": "The Missing Pipeline: Why Pearl Cannot Ground Questions About Her Own Ingest Architecture",
+      "abstract": "Focus: Users asked about 'paper ingest pipeline raw_papers pearl_papers database' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-missing-pipeline-why-pearl-cannot-ground-questions-abou.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 1966,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "transduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-oscillatory-architecture-of-memory-how-rhythmic-entrain",
+      "title": "The Oscillatory Architecture of Memory: How Rhythmic Entrainment Bridges Cellular Clearance, Neural Encoding, and Experiential Integration Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'memory savant document' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-oscillatory-architecture-of-memory-how-rhythmic-entrain.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2114,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-proximity-problem-what-you-hold-close-shapes-you-acro",
+      "title": "The Proximity Problem: What You Hold Close Shapes You — Across Screen, Psyche, and Spirit",
+      "abstract": "Focus: Users asked about 'markdown file mobile reading' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-proximity-problem-what-you-hold-close-shapes-you-acro.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2154,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-reading-faculty-as-regulatory-infrastructure-screen-med",
+      "title": "The Reading Faculty as Regulatory Infrastructure: Screen Mediation, Absorption, and the Distinction Between Information Retrieval and Meaning-Making",
+      "abstract": "Focus: Users asked about 'Investigate Pearl's knowledge base for entries on attention restoration, deep reading, and the phenomenology of absorption — particularly any sources (Carr, Wolf, Crawford) that address what screen-mediated reading does to the reading faculty itself. Also investigate whether any entries address the difference between information retrieval and meaning-making as distinct cognitive/regulatory modes.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-reading-faculty-as-regulatory-infrastructure-screen-med.md",
+      "fileDate": "2026-03-28",
+      "wordCount": 2401,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-reception-deficit-why-evidence-hierarchies-and-entrainm",
+      "title": "The Reception Deficit: Why Evidence Hierarchies and Entrainment Failures Share a Common Epistemological Structure",
+      "abstract": "Focus: Users asked about 'Query Pearl's knowledge base specifically for: (1) any entries on evidence hierarchies, GRADE, or RCT methodology; (2) entries on epistemology of scientific knowledge; (3) Cochrane Collaboration or Campbell Collaboration references. Simultaneously, identify 3-5 specific health claims in the corpus where narrative vs. systematic review conclusions diverge to build a concrete test case for Hypothesis B's domain-dependency claim.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-reception-deficit-why-evidence-hierarchies-and-entrainm.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2419,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-regulatory-pause-hypothesis-how-intervals-of-non-strivi",
+      "title": "The Regulatory Pause Hypothesis: How Intervals of Non-Striving Enable Vagal Coherence, Acoustic Resonance, and Emergent Integration Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'Priority 1: Systematic review of existing SSP RCTs with explicit extraction of (a) HRV methodology (objective telemetry vs. self-report), (b) social context of delivery, and (c) responder vs. non-responder characteristics — to test whether outcome variance is predicted by these moderators. Priority 2: A prospective pilot study measuring stapedius reflex threshold (via tympanometry), RSA-HRV, and therapeutic alliance simultaneously across 8 weeks of SSP, to begin disentangling the acoustic-vagal mechanism from relational confounds. Priority 3 (longer horizon): In vitro",
+      "filename": "pearl-research-the-regulatory-pause-hypothesis-how-intervals-of-non-strivi.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2664,
+      "type": "hypothesis",
+      "density": "body",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-spirit-density-gap-in-pubmed-grounded-knowledge-corpus",
+      "title": "The Spirit Density Gap in PubMed-Grounded Knowledge: Corpus Validation, Domain Distribution, and the Structural Absence of Contemplative Science",
+      "abstract": "Focus: Users asked about 'PubMed domain distribution corpus validation' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-spirit-density-gap-in-pubmed-grounded-knowledge-corpus.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2462,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "reception",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-truncation-signal-how-premature-closure-across-scales",
+      "title": "The Truncation Signal: How Premature Closure Across Scales — From cfDNA to Methodology to Consciousness — Reveals a Universal Pattern of Dysregulation",
+      "abstract": "Focus: Users asked about 'narrative review methodology PRISMA systematic review standards' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-truncation-signal-how-premature-closure-across-scales.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2448,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-tissue-memory-as-hysteresis-how-wounds-leave-structural-ep",
+      "title": "Tissue Memory as Hysteresis: How Wounds Leave Structural, Epigenetic, and Relational Traces That Shape Future Healing Capacity",
+      "abstract": "Focus: Users asked about 'hysteresis wound healing tissue memory' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-tissue-memory-as-hysteresis-how-wounds-leave-structural-ep.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2492,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-vci-as-pharmacokinetic-confound-in-csf-il-6-threshold-determ",
+      "title": "VCI as Pharmacokinetic Confound in CSF IL-6 Threshold Determination: Phase Transition Dynamics, AQP4-Modulated Clearance, and the Temporal Topology of DCI Prediction in Aneurysmal SAH",
+      "abstract": "Focus: Users asked about 'Design a prospective pharmacokinetic-inflammatory study in aneurysmal SAH patients with EVDs: measure CSF IL-6 at standardized VCI pause intervals (0, 30, 60, 120 minutes post-pause), stratify by AQP4 genotype, and correlate IL-6 trajectory inflection points with DCI onset timing. This study directly tests whether VCI is a confounding variable in IL-6 threshold determination and whether AQP4 genotype modulates clearance rate — the two critical unknowns blocking protocol integration.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-vci-as-pharmacokinetic-confound-in-csf-il-6-threshold-determ.md",
+      "fileDate": "2026-03-29",
+      "wordCount": 2704,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-vegf-signaling-dural-vascular-remodeling-and-the-calcifica",
+      "title": "VEGF Signaling, Dural Vascular Remodeling, and the Calcification-Angiogenesis Axis: Hypotheses for VEGFR Antagonism in Dural AVF Models",
+      "abstract": "Focus: Users asked about 'VEGFR antagonist dural arteriovenous fistula animal model' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-vegf-signaling-dural-vascular-remodeling-and-the-calcifica.md",
+      "fileDate": "2026-03-30",
+      "wordCount": 2399,
       "type": "research-paper",
       "density": "body",
       "operations": [
