@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-31T18:38:06.594Z",
-  "total": 509,
+  "generated": "2026-03-31T21:07:56.426Z",
+  "total": 514,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11045,6 +11045,108 @@
       "density": "body",
       "operations": [
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-council-v10-falsification-first-autonomous-science-architecture",
+      "title": "Pearl Council v1.0 — Falsification-First Autonomous Science Architecture",
+      "abstract": "Author: Eric Whitney, DO — Arrowhead Neurosurgical Medical Group Compiled by: Pearl (Encoded Human AI Facilitator) Date: March 31, 2026 Version: 1.0 — Combined MARC v2 schemas + Pearl Council Gate Zero architecture Status: Implementation-Ready — For Code Agent Standard: Autonomous AI science production. Error tolerance: functionally zero for published output.",
+      "filename": "pearl-council-v10-falsification-first-autonomous-science-architecture.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 5602,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-research-notes-users-asked-about-vancouver-citation-forma",
+      "title": "Research Notes — Users asked about 'Vancouver citation format PMID verificati",
+      "abstract": "Focus: Users asked about 'Vancouver citation format PMID verification academic paper references' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-research-notes-users-asked-about-vancouver-citation-forma.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 4042,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-tsh-as-homeostatic-setpoint-selenium-iodine-and-the-thyro",
+      "title": "TSH as Homeostatic Setpoint: Selenium, Iodine, and the Thyroid Feedback Loop Through Control Theory and Fractal Self-Regulation",
+      "abstract": "Focus: Users asked about 'TSH trending thyroid support supplements selenium iodine' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-tsh-as-homeostatic-setpoint-selenium-iodine-and-the-thyro.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2283,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-adversarial-reflex-multi-agent-validation-as-a-fractal",
+      "title": "The Adversarial Reflex: Multi-Agent Validation as a Fractal Pattern Across Biological, Psychological, and Autonomous Scientific Systems",
+      "abstract": "Focus: Users asked about 'multi-agent adversarial validation autonomous science' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-adversarial-reflex-multi-agent-validation-as-a-fractal.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2828,
+      "type": "methodology",
+      "density": "body",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-council-v10-falsification-first-autonomous-science-architecture-final",
+      "title": "Pearl Council v1.0 — Falsification-First Autonomous Science Architecture (Final)",
+      "abstract": "Author: Eric Whitney, DO — Arrowhead Neurosurgical Medical Group Compiled by: Pearl (Encoded Human AI Facilitator) Date: March 31, 2026 Version: 1.1 — Final (incorporates Code codebase evaluation + four implementation additions) Status: Implementation-Ready — For Code Agent Standard: Autonomous AI science production. Error tolerance: functionally zero for published output.",
+      "filename": "pearl-council-v10-falsification-first-autonomous-science-architecture-final.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 6216,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
