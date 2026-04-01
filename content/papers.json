@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-31T21:07:56.426Z",
-  "total": 514,
+  "generated": "2026-04-01T17:30:12.913Z",
+  "total": 530,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11146,6 +11146,345 @@
       "type": "framework",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-citation-format-as-cognitive-filter-how-bibliographic-struc",
+      "title": "Citation Format as Cognitive Filter: How Bibliographic Structure Shapes Knowledge Network Topology and Reading Cognition Across Disciplines",
+      "abstract": "Focus: Users asked about 'Execute the two-pronged study: First, pull OpenAlex citation data for 10,000+ papers per field (biomedical, psychology, physics, humanities), compute in-degree distributions, fit power-law models using maximum likelihood estimation (Clauset et al. 2009 method), and cross-reference with dominant citation format in each field using journal metadata. Second, design a within-subjects eye-tracking experiment (n=40, mixed expertise) using 8 matched paper excerpts reformatted in APA and Vancouver styles, measuring fixation duration, regression count, and reading time at cita",
+      "filename": "pearl-research-citation-format-as-cognitive-filter-how-bibliographic-struc.md",
+      "fileDate": "2026-04-01",
+      "wordCount": 2269,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-citation-format-cognition-and-network-topology-a-multi-dens",
+      "title": "Citation Format Cognition and Network Topology: A Multi-Density Analysis of Information Architecture in Scientific Communication",
+      "abstract": "Focus: Users asked about 'Search library and information science databases (LISTA, ERIC, Library Literature) and cognitive psychology databases (PsycINFO) specifically for 'citation format comprehension,' 'reference list format reading,' and 'Vancouver APA citation comparison.' Separately, query Semantic Scholar or OpenAlex API for field-stratified citation degree distribution data to test the topology hypothesis computationally.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-citation-format-cognition-and-network-topology-a-multi-dens.md",
+      "fileDate": "2026-04-01",
+      "wordCount": 2418,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "transduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-citation-network-topology-and-reading-cognition-a-research",
+      "title": "Citation Network Topology and Reading Cognition: A Research Gap Analysis at the Intersection of Scientometrics, Information Theory, and Cognitive Load",
+      "abstract": "Focus: Users asked about 'Query OpenAlex API for citation degree distribution data stratified by field (biomedical, psychology, humanities, physics) and compute power-law exponents. Cross-reference dominant citation style in each field. Separately, conduct targeted PsycINFO search for 'citation format reading,' 'reference format comprehension,' 'APA Vancouver reading,' and 'in-text citation cognitive load.' Prioritize any eye-tracking or working memory studies. If literature is as sparse as suspected, this gap itself represents a publishable research opportunity.' but Pearl couldn't ground the",
+      "filename": "pearl-research-citation-network-topology-and-reading-cognition-a-research.md",
+      "fileDate": "2026-04-01",
+      "wordCount": 2634,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-citation-topology-and-reader-cognition-structural-hypothese",
+      "title": "Citation Topology and Reader Cognition: Structural Hypotheses on Vancouver vs. Author-Date Systems in Absence of Direct Empirical Evidence",
+      "abstract": "Focus: Users asked about 'Search for empirical reader-comprehension studies comparing Vancouver and author-date systems; search for information-theoretic analyses of citation network structure as a function of in-text ordering convention; investigate whether Vancouver format's sequential constraint produces systematically different citation network topologies than author-date systems.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-citation-topology-and-reader-cognition-structural-hypothese.md",
+      "fileDate": "2026-04-01",
+      "wordCount": 2914,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-cortisol-rhythm-disruption-as-a-upstream-driver-of-gut-dysbi",
+      "title": "Cortisol Rhythm Disruption as a Upstream Driver of Gut Dysbiosis and Immunoglobulin Suppression in Hypogammaglobulinemia: A Hypothesis Generation Document",
+      "abstract": "Focus: Users asked about 'Systematic review of gut microbiome composition, SCFA metabolomics, and cortisol diurnal rhythm data in patients diagnosed with idiopathic or CVID-spectrum hypogammaglobulinemia, compared to immunocompetent controls — to test whether the stress→gut→immune convergence model is detectable in existing clinical data before designing interventional trials.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-cortisol-rhythm-disruption-as-a-upstream-driver-of-gut-dysbi.md",
+      "fileDate": "2026-04-01",
+      "wordCount": 2676,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-inclisiran-and-bempedoic-acid-a-knowledge-gap-analysis-of-n",
+      "title": "Inclisiran and Bempedoic Acid: A Knowledge Gap Analysis of Novel LDL-Lowering Mechanisms and Their Multi-Density Implications",
+      "abstract": "Focus: Users asked about 'inclisiran bempedoic acid LDL lowering' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-inclisiran-and-bempedoic-acid-a-knowledge-gap-analysis-of-n.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2534,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-inverse-neurovascular-coupling-in-cortical-spreading-depolar",
+      "title": "Inverse Neurovascular Coupling in Cortical Spreading Depolarization: A Phase-Transition Model of Vasoconstriction, Ischemic Penumbra, and Therapeutic Targets",
+      "abstract": "Focus: Users asked about 'cortical spreading depolarization inverse neurovascular coupling vasoconstriction ischemia mechanism' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-inverse-neurovascular-coupling-in-cortical-spreading-depolar.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2876,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-lp-pla2-as-a-vascular-inflammation-sentinel-signal-amplific",
+      "title": "Lp-PLA2 as a Vascular Inflammation Sentinel: Signal Amplification, Phase Transitions, and the Gap Between Tissue Damage and Systemic Detection",
+      "abstract": "Focus: Users asked about 'PLAC test Lp-PLA2 phospholipase cardiovascular inflammation biomarker' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-lp-pla2-as-a-vascular-inflammation-sentinel-signal-amplific.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2775,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-lp-pla2-as-risk-identifier-not-therapeutic-target-construc",
+      "title": "Lp-PLA2 as Risk Identifier, Not Therapeutic Target: Constructing the Triadic Cardiovascular Biomarker Framework (ApoB / hsCRP / Lp-PLA2) Across Clinical, Mechanistic, and Integrative Densities",
+      "abstract": "Focus: Users asked about 'Pearl should develop a dedicated Lp-PLA2 / PLAC test entry in the cardiovascular biomarker cluster, situated within a triadic framework alongside ApoB and hsCRP, with particular attention to clinical decision thresholds (activity >200 nmol/min/mL as high risk), the ischemic stroke application (where evidence is strongest), and the post-STABILITY reinterpretation of the biomarker's role as a risk identifier rather than therapeutic target.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-lp-pla2-as-risk-identifier-not-therapeutic-target-construc.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2040,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-lp-pla2-noncalcified-plaque-and-the-inflammation-vulnerabi",
+      "title": "Lp-PLA2, Noncalcified Plaque, and the Inflammation-Vulnerability Cascade: Bridging the PLAC Test to Atherosclerotic Risk Stratification",
+      "abstract": "Focus: Users asked about 'Lp-PLA2 PLAC noncalcified plaque inflammation vulnerable plaque' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-lp-pla2-noncalcified-plaque-and-the-inflammation-vulnerabi.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2048,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-quercetin-and-fisetin-as-senomorphic-senolytic-agents-in-car",
+      "title": "Quercetin and Fisetin as Senomorphic-Senolytic Agents in Cardiovascular Endothelium: BRD4-Mediated Chromatin Remodeling, p16INK4a Biomarkers, and the Oscillatory Resolution Gap in Human Trial Design",
+      "abstract": "Focus: Users asked about 'Search for Phase I/II human trials of fisetin or quercetin with cardiovascular biomarker endpoints (CRP, IL-6, endothelial function via FMD, arterial stiffness), and cross-reference with senescent cell burden measures (p16INK4a expression in peripheral blood). Also investigate BRD4's relationship to quercetin's chromatin-level mechanism of action in endothelial cells specifically.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-quercetin-and-fisetin-as-senomorphic-senolytic-agents-in-car.md",
+      "fileDate": "2026-04-01",
+      "wordCount": 2852,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-research-notes-users-asked-about-cortical-spreading-depre",
+      "title": "Research Notes — Users asked about 'cortical spreading depression delayed cer",
+      "abstract": "Focus: Users asked about 'cortical spreading depression delayed cerebral ischemia mechanism' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-research-notes-users-asked-about-cortical-spreading-depre.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 3732,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-senescent-cell-spreading-as-a-cardiovascular-aging-driver-s",
+      "title": "Senescent Cell Spreading as a Cardiovascular Aging Driver: SASP, Senolytics, and the Age-50 Inflection Point",
+      "abstract": "Focus: Users asked about 'senolytic senescence aging cardiovascular fisetin quercetin' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-senescent-cell-spreading-as-a-cardiovascular-aging-driver-s.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2163,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-sequential-ordering-as-information-architecture-from-cureus",
+      "title": "Sequential Ordering as Information Architecture: From Cureus Citations to Consciousness Fields",
+      "abstract": "Focus: Users asked about 'Cureus citation ordering sequential references' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-sequential-ordering-as-information-architecture-from-cureus.md",
+      "fileDate": "2026-04-01",
+      "wordCount": 2267,
+      "type": "framework",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-sequential-ordering-as-information-architecture-vancouver-c",
+      "title": "Sequential Ordering as Information Architecture: Vancouver Citation Format as a Case Study in Signal Propagation Through Knowledge Networks",
+      "abstract": "Focus: Users asked about 'citation ordering Vancouver format sequential references' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-sequential-ordering-as-information-architecture-vancouver-c.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2360,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-immunological-hollow-why-unexplained-hypogammaglobuline",
+      "title": "The Immunological Hollow: Why Unexplained Hypogammaglobulinemia May Reflect a Multi-Density Regulatory Collapse",
+      "abstract": "Focus: Users asked about 'hypogammaglobulinemia persistent low immunoglobulins no identifiable cause' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-immunological-hollow-why-unexplained-hypogammaglobuline.md",
+      "fileDate": "2026-03-31",
+      "wordCount": 2260,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
