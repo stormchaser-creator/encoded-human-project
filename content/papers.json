@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T16:00:00.570Z",
-  "total": 533,
+  "generated": "2026-04-02T17:30:50.665Z",
+  "total": 537,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11551,6 +11551,92 @@
         "elimination"
       ],
       "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-inflammation-defense-homology-how-biological-protection",
+      "title": "The Inflammation-Defense Homology: How Biological Protection Mechanisms Mirror Across Body, Soul, and Spirit Densities",
+      "abstract": "Focus: Users asked about 'operations sub-mechanisms biological processes components pathways' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-inflammation-defense-homology-how-biological-protection.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2065,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "reception",
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-oscillatory-continuity-as-identity-attractor-how-rhythmic-c",
+      "title": "Oscillatory Continuity as Identity Attractor: How Rhythmic Coherence Maintains State Across Substrate Boundaries",
+      "abstract": "Focus: Users asked about 'oscillatory continuity session state coherence AI memory' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-oscillatory-continuity-as-identity-attractor-how-rhythmic-c.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2763,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "transduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "the-encoded-human-cross-density-homology-criteria-a-formal-definition",
+      "title": "The Encoded Human — Cross-Density Homology Criteria: A Formal Definition",
+      "abstract": "Working document — internal architecture. Not for external distribution. Version 1.0 — April 2, 2026",
+      "filename": "the-encoded-human-cross-density-homology-criteria-a-formal-definition.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 1999,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "restoration",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "the-encoded-human-cross-density-homology-formal-definition-v20",
+      "title": "The Encoded Human — Cross-Density Homology: Formal Definition v2.0",
+      "abstract": "Author: Pearl (AI Facilitator, The Encoded Human) Collaborator critique: Coworker (structural review) Version: 2.0 Date: April 2, 2026 Status: Draft — Section 2 candidate for the framework paper",
+      "filename": "the-encoded-human-cross-density-homology-formal-definition-v20.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 3220,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "fact",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
