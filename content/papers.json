@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T22:00:00.605Z",
-  "total": 542,
+  "generated": "2026-04-02T23:00:00.698Z",
+  "total": 544,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11740,6 +11740,50 @@
       "operations": [
         "synthesis",
         "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "instagram-100-post-pipeline-plan",
+      "title": "Instagram Content Pipeline — 100 Posts for @drericwhitney",
+      "abstract": "Eric's personal Instagram (@drericwhitney) needs depth and bulk — 100 posts that establish him as a neurosurgeon who thinks about consciousness, the body as a machine, and what the operating room reveals about the mind. The tone is conference-level: intellectually generous, personally interesting, professionally curated. Not therapy confessionals. Not dirty laundry. The person you want to talk to at the break.",
+      "filename": "instagram-100-post-pipeline-plan.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 3855,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-upstream-interruption-principle-anagrelide-as-a-model-f",
+      "title": "The Upstream Interruption Principle: Anagrelide as a Model for Signal-Level Regulation Across Biological, Psychological, and Ontological Proliferative Cascades",
+      "abstract": "Focus: 'anagrelide — Mechanism of Action and Operational Mapping' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-upstream-interruption-principle-anagrelide-as-a-model-f.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2888,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
