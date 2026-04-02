@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T14:00:00.553Z",
-  "total": 531,
+  "generated": "2026-04-02T15:00:00.633Z",
+  "total": 532,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11508,6 +11508,27 @@
         "restoration"
       ],
       "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "the-encoded-human-a-unified-operational-architecture-of-the",
+      "title": "The Encoded Human: A Unified Operational Architecture of the Human System",
+      "abstract": "Modern medicine possesses an extraordinary inventory of parts. It can sequence a genome in hours, resolve protein folding with angstrom-level precision, and image hemodynamic changes in the living brain with millisecond temporal resolution. What it lacks — and has lacked since the inception of the biomedical sciences — is a unified operational map: a single, coherent account of what the human system does as a whole, stated at a level of abstraction precise enough to generate testable predictions and practical enough to organize clinical reasoning.",
+      "filename": "the-encoded-human-a-unified-operational-architecture-of-the.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 9598,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "interpretation",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
