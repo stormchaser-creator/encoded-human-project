@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T20:00:00.615Z",
-  "total": 540,
+  "generated": "2026-04-02T21:00:00.607Z",
+  "total": 541,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11698,6 +11698,26 @@
       "density": "body",
       "operations": [
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-unmapped-interior-why-quantitative-qpcr-stool-microbiom",
+      "title": "The Unmapped Interior: Why Quantitative qPCR Stool Microbiome Reference Ranges Remain Clinically Elusive — and What the Soil Depletion Fractal Reveals About the Problem",
+      "abstract": "Focus: Users asked about 'qPCR stool microbiome quantitative species reference range' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-unmapped-interior-why-quantitative-qpcr-stool-microbiom.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2411,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
