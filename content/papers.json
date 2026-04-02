@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T19:00:00.703Z",
-  "total": 539,
+  "generated": "2026-04-02T20:00:00.615Z",
+  "total": 540,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11678,6 +11678,27 @@
       "operations": [
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-gut-brain-gaba-axis-lactobacillus-rhamnosus-as-a-microb",
+      "title": "The Gut-Brain GABA Axis: Lactobacillus rhamnosus as a Microbial Neuromodulator of Anxiety Through GABAergic Signaling",
+      "abstract": "Focus: Users asked about 'Lactobacillus rhamnosus GABA anxiety gut-brain regulation' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-gut-brain-gaba-axis-lactobacillus-rhamnosus-as-a-microb.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2436,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
