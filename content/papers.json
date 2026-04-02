@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T17:30:50.665Z",
-  "total": 537,
+  "generated": "2026-04-02T18:00:00.722Z",
+  "total": 538,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11637,6 +11637,28 @@
         "synthesis"
       ],
       "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "the-encoded-human-cross-density-homology-synthesis-and-defense-workings",
+      "title": "The Encoded Human — Cross-Density Homology: Synthesis and Defense Workings",
+      "abstract": "Version: 1.0 Date: April 2, 2026 Status: Working document — Section 2 supplement to Formal Definition v2.0",
+      "filename": "the-encoded-human-cross-density-homology-synthesis-and-defense-workings.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2802,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
