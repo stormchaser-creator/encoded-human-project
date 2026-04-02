@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T15:00:00.633Z",
-  "total": 532,
+  "generated": "2026-04-02T16:00:00.570Z",
+  "total": 533,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11529,6 +11529,28 @@
         "defense"
       ],
       "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-dissipative-structures-as-soul-prigogines-thermodynamics-r",
+      "title": "Dissipative Structures as Soul: Prigogine's Thermodynamics Reread Across Body, Psyche, and Being",
+      "abstract": "Focus: Users asked about 'dissipative structures Prigogine thermodynamics open systems biology' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-dissipative-structures-as-soul-prigogines-thermodynamics-r.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2795,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
