@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T18:00:00.722Z",
-  "total": 538,
+  "generated": "2026-04-02T19:00:00.703Z",
+  "total": 539,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11657,6 +11657,27 @@
         "reception",
         "conduction",
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-neural-brake-as-fractal-principle-vagal-anti-inflammato",
+      "title": "The Neural Brake as Fractal Principle: Vagal Anti-Inflammatory Capacity as a Unified Control Variable Across Biological, Psychological, and Relational Scales",
+      "abstract": "Focus: 'Antibiotics, possible explant if unresponsive' has 10 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-neural-brake-as-fractal-principle-vagal-anti-inflammato.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2302,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
