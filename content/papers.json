@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T21:00:00.607Z",
-  "total": 541,
+  "generated": "2026-04-02T22:00:00.605Z",
+  "total": 542,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11719,6 +11719,27 @@
       "density": "body",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-p-tau181-as-a-phase-transition-marker-longitudinal-trajecto",
+      "title": "P-tau181 as a Phase Transition Marker: Longitudinal Trajectory of Tau Phosphorylation in the Molecular Pseudotime of Alzheimer's Disease",
+      "abstract": "Focus: Users asked about 'p-tau181 longitudinal trajectory progression Alzheimer's biomarker change over time' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-p-tau181-as-a-phase-transition-marker-longitudinal-trajecto.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2063,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
