@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T04:00:00.800Z",
-  "total": 550,
+  "generated": "2026-04-03T05:00:00.581Z",
+  "total": 551,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11910,6 +11910,26 @@
       "operations": [
         "synthesis",
         "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-nfl-and-gfap-as-diagnostic-biomarkers-in-alzheimers-disease",
+      "title": "NfL and GFAP as Diagnostic Biomarkers in Alzheimer's Disease: Evidence Gap Analysis and Cross-Density Hypotheses",
+      "abstract": "Focus: Users asked about 'NfL neurofilament light chain GFAP accuracy diagnostic Alzheimer's' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-nfl-and-gfap-as-diagnostic-biomarkers-in-alzheimers-disease.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2202,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
