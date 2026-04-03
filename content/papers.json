@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T17:00:00.851Z",
-  "total": 562,
+  "generated": "2026-04-03T18:00:00.789Z",
+  "total": 563,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12157,6 +12157,27 @@
       "operations": [
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-resolution-problem-how-knowledge-ingestion-pipelines-mi",
+      "title": "The Resolution Problem: How Knowledge Ingestion Pipelines Mirror Biological Learning Architecture Across Scales",
+      "abstract": "Focus: Users asked about 'knowledge ingestion pipeline learning architecture' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-resolution-problem-how-knowledge-ingestion-pipelines-mi.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2169,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
