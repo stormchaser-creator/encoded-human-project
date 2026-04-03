@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T01:00:00.708Z",
-  "total": 547,
+  "generated": "2026-04-03T02:00:01.389Z",
+  "total": 548,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11846,6 +11846,28 @@
       "density": "body",
       "operations": [
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-oxytocin-as-neuroprotective-signal-modulator-in-alzheimers",
+      "title": "Oxytocin as Neuroprotective Signal-Modulator in Alzheimer's: Bridging Neuroinflammation, Glymphatic Clearance, and the Social Brain",
+      "abstract": "Focus: Users asked about 'oxytocin nasal spray cognitive function Alzheimer's neuroprotection' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-oxytocin-as-neuroprotective-signal-modulator-in-alzheimers.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2024,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
