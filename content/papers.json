@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T16:00:00.695Z",
-  "total": 561,
+  "generated": "2026-04-03T17:00:00.851Z",
+  "total": 562,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12135,6 +12135,27 @@
       "density": "body",
       "operations": [
         "transduction",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-gating-problem-how-living-systems-filter-signal-from-no",
+      "title": "The Gating Problem: How Living Systems Filter Signal from Noise Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'epistemic gating knowledge ingestion contradiction detection' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-gating-problem-how-living-systems-filter-signal-from-no.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2489,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
         "defense"
       ],
       "epistemicCeiling": "hypothesis",
