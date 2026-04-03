@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T00:00:00.911Z",
-  "total": 546,
+  "generated": "2026-04-03T01:00:00.708Z",
+  "total": 547,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11826,6 +11826,26 @@
         "regulation",
         "synthesis",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-plasma-phospho-tau-as-a-signal-in-noise-biomarker-accuracy",
+      "title": "Plasma Phospho-Tau as a Signal in Noise: Biomarker Accuracy, Tau Hyperphosphorylation Mechanisms, and the Multi-Marker Problem in Alzheimer's Detection",
+      "abstract": "Focus: Users asked about 'plasma p-tau181 Alzheimer's biomarker accuracy sensitivity specificity false positive' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-plasma-phospho-tau-as-a-signal-in-noise-biomarker-accuracy.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2420,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
