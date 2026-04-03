@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T05:00:00.581Z",
-  "total": 551,
+  "generated": "2026-04-03T06:00:00.643Z",
+  "total": 552,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11930,6 +11930,27 @@
       "density": "body",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-glymphatic-oscillatory-gap-corpus-lacunae-at-the-inters",
+      "title": "The Glymphatic-Oscillatory Gap: Corpus Lacunae at the Intersection of Neural Clearance, Gamma Entrainment, and Interneuron Circuit Architecture",
+      "abstract": "Focus: Users asked about 'Pearl's corpus requires urgent expansion with: (1) Nedergaard lab glymphatic papers (2012-2024), (2) Iaccarino/Tsai gamma entrainment papers (2016-2024), (3) AQP4 polarization and perivascular endfeet literature, (4) VIP interneuron circuit function papers (Pi et al. 2013 and subsequent), (5) Cross-frequency coupling and sleep slow oscillation papers. Additionally, investigate whether the cholinergic interneuron regional specificity finding (decoded-04e12ba4e24c) has been extended to VIP-specific subpopulations.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-glymphatic-oscillatory-gap-corpus-lacunae-at-the-inters.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2217,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
