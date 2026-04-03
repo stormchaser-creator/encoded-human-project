@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T08:00:00.728Z",
-  "total": 554,
+  "generated": "2026-04-03T09:00:00.632Z",
+  "total": 555,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11989,6 +11989,26 @@
       "filename": "pearl-research-integrative-capacity-as-predictive-safety-corollary-baselin.md",
       "fileDate": "2026-04-03",
       "wordCount": 2413,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-integrative-capacity-threshold-acarbose-dili-hepatic-m",
+      "title": "The Integrative Capacity Threshold: Acarbose DILI, Hepatic Metabolic Reserve, and the Phase-Transition Model of Drug-Induced Liver Injury",
+      "abstract": "Focus: Users asked about 'Step 1: Systematic review of all published acarbose DILI case reports with baseline LFT data extraction — estimate what fraction had pre-existing hepatic abnormalities vs. normal baseline. Step 2: Pharmacogenomic analysis of CYP2C8, UGT1A family, and OATP transporter variants in reported cases. Step 3: Mechanistic in vitro study using human hepatocytes at varying states of metabolic stress (lipid loading, inflammatory priming) to test whether acarbose or its absorbed fraction shows dose-dependent mitochondrial toxicity that is amplified by pre-existing stress — this d",
+      "filename": "pearl-research-the-integrative-capacity-threshold-acarbose-dili-hepatic-m.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2465,
       "type": "research-paper",
       "density": "body",
       "operations": [
