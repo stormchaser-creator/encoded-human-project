@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T19:00:01.352Z",
-  "total": 564,
+  "generated": "2026-04-03T20:00:00.777Z",
+  "total": 565,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12199,6 +12199,28 @@
       "operations": [
         "regulation",
         "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-norepinephrine-glymphatic-flow-and-therapeutic-state-trans",
+      "title": "Norepinephrine, Glymphatic Flow, and Therapeutic State Transitions: Mapping the Gap Between Known Mechanisms and Unmeasured Outcomes",
+      "abstract": "Focus: Users asked about 'A targeted literature search on: (1) studies measuring glymphatic clearance in populations with documented anxiety disorders or PTSD — specifically looking for amyloid-beta or tau clearance data, not just sleep architecture data; (2) any research on norepinephrine alpha-1 blockade (prazosin is used in PTSD) and glymphatic function — prazosin's known efficacy in PTSD nightmares may partly operate through restoration of glymphatic clearance capacity; (3) complexity measures of therapeutic state transitions (HRV fractal dynamics during therapy sessions as a proxy) correl",
+      "filename": "pearl-research-norepinephrine-glymphatic-flow-and-therapeutic-state-trans.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2817,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
         "restoration"
       ],
       "epistemicCeiling": "hypothesis",
