@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T09:00:00.632Z",
-  "total": 555,
+  "generated": "2026-04-03T10:00:00.679Z",
+  "total": 556,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12012,6 +12012,27 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-mitochondrial-stress-response-in-lipid-loaded-inflamed-huma",
+      "title": "Mitochondrial Stress Response in Lipid-Loaded, Inflamed Human Hepatocytes: A Factorial Design Framework for Testing Acarbose Metabolite Effects on Energy Transduction and Adaptive Capacity",
+      "abstract": "Focus: Users asked about 'Priority: Step 3 mechanistic in vitro study using human hepatocytes (PHH, not just cell lines) with a 2x2x2 factorial design: (lipid-loaded vs. naive) x (inflammatory priming with LPS/TNF-α vs. none) x (acarbose metabolite concentration: low/mid/high). Primary endpoint: mitochondrial membrane potential, ROS production, and ATP synthesis efficiency. Secondary endpoint: DDIT4/mTOR pathway activation and mtDNA copy number as markers of mitochondrial stress response capacity. This design directly tests the convergence hypothesis without requiring large clinical cohorts an",
+      "filename": "pearl-research-mitochondrial-stress-response-in-lipid-loaded-inflamed-huma.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2723,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
