@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T18:00:00.789Z",
-  "total": 563,
+  "generated": "2026-04-03T19:00:01.352Z",
+  "total": 564,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12178,6 +12178,28 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-contraction-clearance-principle-how-state-dependent-geo",
+      "title": "The Contraction-Clearance Principle: How State-Dependent Geometric Expansion Enables Waste Removal Across Biological, Psychological, and Contemplative Scales",
+      "abstract": "Focus: 'REST glymphatic clearance P1' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-contraction-clearance-principle-how-state-dependent-geo.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2644,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
