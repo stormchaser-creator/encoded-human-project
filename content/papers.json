@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T21:00:00.912Z",
-  "total": 566,
+  "generated": "2026-04-03T22:00:01.925Z",
+  "total": 567,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12246,6 +12246,27 @@
         "regulation"
       ],
       "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-substrate-consumption-and-wave-coherence-mapping-koes-co",
+      "title": "Substrate, Consumption, and Wave Coherence: Mapping Koe's Conceptual Vocabulary onto Thalamocortical Oscillations, Attentional Depletion, and Friston's Free Energy Principle",
+      "abstract": "Focus: Users asked about 'Acquire direct Dan Koe sources (essays, books, podcasts) and extract his specific usage of 'substrate,' 'consumption,' and 'wave coherence.' Then map these to: (1) thalamocortical oscillatory coherence literature for the wave coherence component, (2) attentional resource depletion / ego depletion literature for the consumption component, and (3) Friston's free energy principle for a unified substrate-consumption-coherence framework that bridges biology and cognition at multiple scales.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-substrate-consumption-and-wave-coherence-mapping-koes-co.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2698,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
