@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T15:00:00.705Z",
-  "total": 560,
+  "generated": "2026-04-03T16:00:00.695Z",
+  "total": 561,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12115,6 +12115,27 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-defense-as-frequency-toward-a-cross-scale-model-of-threat-r",
+      "title": "Defense as Frequency: Toward a Cross-Scale Model of Threat-Recognition, Boundary-Enactment, and Signal Emission in Contemplative Neuroscience",
+      "abstract": "Focus: Users asked about 'Priority 1: Systematic search of existing contemplative neuroscience datasets (ReSource Project, Shamatha Project, Trier Social Stress paradigms in meditators) for any available CAR x EEG correlations and microstate test-retest data. Priority 2: Consult epigenomics literature for buccal-brain GR methylation concordance studies. Priority 3: Develop the temporal distribution questionnaire through expert elicitation with retreat teachers and daily-practice teachers to ensure face validity before piloting.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-defense-as-frequency-toward-a-cross-scale-model-of-threat-r.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2480,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
