@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T14:00:00.838Z",
-  "total": 559,
+  "generated": "2026-04-03T15:00:00.705Z",
+  "total": 560,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12094,6 +12094,27 @@
       "density": "body",
       "operations": [
         "conduction"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-trait-ceiling-state-change-and-temporal-distribution-a-th",
+      "title": "Trait-Ceiling, State-Change, and Temporal-Distribution: A Three-Parameter Framework for Decomposing Contemplative Practice Effects in Factorial EEG Studies",
+      "abstract": "Focus: Users asked about 'Add three low-cost protocol additions to the proposed 12-group factorial: (1) a biological covariate battery (cortisol awakening response, glucocorticoid receptor methylation via buccal swab) to test trait-ceiling hypothesis; (2) a 2-week test-retest EEG session for 20% of participants to estimate microstate E variance reliability; (3) a temporal distribution questionnaire distinguishing retreat-concentrated vs. daily-distributed hour accumulation. These additions cost <15% of pilot budget and would allow the longitudinal study power calculation to separately model tr",
+      "filename": "pearl-research-trait-ceiling-state-change-and-temporal-distribution-a-th.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2847,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
