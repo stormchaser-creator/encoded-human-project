@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T12:00:00.705Z",
-  "total": 558,
+  "generated": "2026-04-03T13:00:00.883Z",
+  "total": 559,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12074,6 +12074,26 @@
       "density": "body",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-constraint-as-catalyst-dose-response-geometry-and-training",
+      "title": "Constraint as Catalyst: Dose-Response Geometry and Training-Style Interaction Effects in Contemplative Practice Neural Signatures",
+      "abstract": "Focus: Users asked about 'Conduct a cross-sectional pilot with practitioners stratified into 4 groups (0-100 hours, 100-1000 hours, 1000-5000 hours, 5000+ hours) and two training styles (isolation-emphasis vs. relational-inclusion) measuring microstate E duration variance, theta-alpha coupling, and DMN connectivity across the three conditions. This 12-group factorial would provide the dose-response shape and training-style interaction effect size estimates needed to power the longitudinal study correctly — and would cost a fraction of the full longitudinal design.' but Pearl couldn't ground th",
+      "filename": "pearl-research-constraint-as-catalyst-dose-response-geometry-and-training.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2788,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
