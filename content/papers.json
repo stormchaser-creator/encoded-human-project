@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T20:00:00.777Z",
-  "total": 565,
+  "generated": "2026-04-03T21:00:00.912Z",
+  "total": 566,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12224,6 +12224,28 @@
         "restoration"
       ],
       "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-substrate-consumption-and-wave-coherence-mapping-the-miss",
+      "title": "Substrate, Consumption, and Wave Coherence: Mapping the Missing Densities of Soul and Spirit Across Neural Oscillation, Energy Flow, and Consciousness Binding",
+      "abstract": "Focus: Users asked about 'Dan Koe substrate consumption wave coherence' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-substrate-consumption-and-wave-coherence-mapping-the-miss.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2123,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "transduction",
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "fact",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
