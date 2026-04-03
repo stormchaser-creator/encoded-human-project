@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T22:00:01.925Z",
-  "total": 567,
+  "generated": "2026-04-03T23:00:01.698Z",
+  "total": 568,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12264,6 +12264,27 @@
       "density": "body",
       "operations": [
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-gating-problem-alcaftadine-as-a-model-for-reception-thr",
+      "title": "The Gating Problem: Alcaftadine as a Model for Reception Threshold Dynamics Across Biological, Psychological, and Contemplative Scales",
+      "abstract": "Focus: 'alcaftadine — Mechanism of Action and Operational Mapping' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-gating-problem-alcaftadine-as-a-model-for-reception-thr.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2618,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
