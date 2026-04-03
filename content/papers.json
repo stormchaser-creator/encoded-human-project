@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T06:00:00.643Z",
-  "total": 552,
+  "generated": "2026-04-03T07:00:00.922Z",
+  "total": 553,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11949,6 +11949,28 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-membrane-principle-acarbose-as-a-model-for-threshold-re",
+      "title": "The Membrane Principle: Acarbose as a Model for Threshold-Regulated Metabolic and Cognitive Integration",
+      "abstract": "Focus: 'acarbose — Diagnostic Flags, Monitoring, and Drug-Induced Symptom Patterns' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-membrane-principle-acarbose-as-a-model-for-threshold-re.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2151,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
         "synthesis",
         "elimination"
       ],
