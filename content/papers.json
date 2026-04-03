@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T11:00:00.621Z",
-  "total": 557,
+  "generated": "2026-04-03T12:00:00.705Z",
+  "total": 558,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12050,6 +12050,26 @@
       "filename": "pearl-research-the-figure-ground-inversion-threshold-how-advanced-contempl.md",
       "fileDate": "2026-04-03",
       "wordCount": 2358,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-figure-ground-reversal-threshold-eeg-coherence-markers",
+      "title": "The Figure-Ground Reversal Threshold: EEG Coherence Markers as Quantitative Indicators of Social Context Becoming a Meditation Deepener Rather Than Disruptor",
+      "abstract": "Focus: Users asked about 'Design a longitudinal EEG study tracking a cohort of meditators from novice through advanced stages, measuring neural coherence markers (gamma synchrony, theta-alpha coupling, DMN suppression) during three conditions: (1) formal seated meditation in isolation, (2) standardized social interaction task, (3) complex naturalistic social environment. Track whether the ratio of condition-2-to-condition-1 depth changes sign over practice years — i.e., whether there is a measurable crossover point where social conditions begin producing equal or greater depth than isolation c",
+      "filename": "pearl-research-the-figure-ground-reversal-threshold-eeg-coherence-markers.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2594,
       "type": "research-paper",
       "density": "body",
       "operations": [
