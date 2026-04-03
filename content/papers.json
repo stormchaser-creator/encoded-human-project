@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T03:00:00.753Z",
-  "total": 549,
+  "generated": "2026-04-03T04:00:00.800Z",
+  "total": 550,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11889,6 +11889,27 @@
       "operations": [
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-40-hz-gamma-entrainment-as-a-glymphatic-pump-vip-interneuro",
+      "title": "40 Hz Gamma Entrainment as a Glymphatic Pump: VIP Interneurons, AQP4 Polarization, and Amyloid Clearance at the Oscillatory-Hydraulic Interface",
+      "abstract": "Focus: Users asked about '40 Hz gamma stimulation glymphatic clearance amyloid AQP4 VIP interneuron' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-40-hz-gamma-entrainment-as-a-glymphatic-pump-vip-interneuro.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2740,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
