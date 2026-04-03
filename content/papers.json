@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T02:00:01.389Z",
-  "total": 548,
+  "generated": "2026-04-03T03:00:00.753Z",
+  "total": 549,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -11868,6 +11868,27 @@
         "synthesis",
         "defense",
         "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-plasma-biomarkers-as-blood-brain-barrier-translators-from-p",
+      "title": "Plasma Biomarkers as Blood-Brain Barrier Translators: From Phosphorylated Tau to Extracellular Vesicles in Alzheimer's Diagnostics",
+      "abstract": "Focus: Users asked about 'plasma p-tau181 diagnostic accuracy CSF amyloid PET Alzheimer's biomarker' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-plasma-biomarkers-as-blood-brain-barrier-translators-from-p.md",
+      "fileDate": "2026-04-02",
+      "wordCount": 2336,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
