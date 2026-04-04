@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T19:00:00.910Z",
-  "total": 588,
+  "generated": "2026-04-04T20:00:00.731Z",
+  "total": 589,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12715,6 +12715,27 @@
         "reception",
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-temporal-sequencing-of-three-oscillators-during-mediterranea",
+      "title": "Temporal Sequencing of Three Oscillators During Mediterranean Diet Transition: A Coupled Systems Hypothesis for Microbiome, Omega Ratio, and Hepatic Phase II Recovery Kinetics",
+      "abstract": "Focus: Users asked about 'Map the temporal kinetics of each of the three oscillators during Mediterranean diet transition — specifically: which normalizes first (microbiome diversity at 6-12 weeks? Omega ratio at 8-16 weeks? Liver Phase II capacity?), and whether there is a critical sequence of recovery that determines overall outcome. This would test the coupled oscillator model directly and identify whether a SEQUENCED intervention (gut first, then omega ratio, then liver) outperforms simultaneous transition.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-temporal-sequencing-of-three-oscillators-during-mediterranea.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2339,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "restoration",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
