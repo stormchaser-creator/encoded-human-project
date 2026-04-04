@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T05:00:00.776Z",
-  "total": 575,
+  "generated": "2026-04-04T06:00:00.696Z",
+  "total": 576,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12435,6 +12435,27 @@
         "transduction",
         "conduction",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-asymmetric-gradient-fields-in-biofilm-electrophysiology-k",
+      "title": "Asymmetric Gradient Fields in Biofilm Electrophysiology: K⁺/NH₄⁺ Wave Amplitude, Antibiotic Tolerance Zones, and the Sphingolipid-Electrical Coupling Hypothesis",
+      "abstract": "Focus: Users asked about 'Search for experimental evidence linking biofilm K⁺/NH₄⁺ wave amplitude to spatial gradients in antibiotic tolerance and resistance mutation rates across the biofilm cross-section — this would directly test the 'protective field asymmetry' hypothesis and could be cross-referenced with lipid membrane composition studies to explore the sphingolipid-electrical coupling angle.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-asymmetric-gradient-fields-in-biofilm-electrophysiology-k.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2743,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
