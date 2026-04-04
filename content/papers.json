@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T18:00:00.677Z",
-  "total": 587,
+  "generated": "2026-04-04T19:00:00.910Z",
+  "total": 588,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12691,6 +12691,28 @@
       "density": "body",
       "operations": [
         "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-eicosanoid-bottleneck-how-omega-ratio-dysregulation-bec",
+      "title": "The Eicosanoid Bottleneck: How Omega Ratio Dysregulation Becomes the Master Lever of Chronic Systemic Inflammation Across Body, Barrier, and Microbiome",
+      "abstract": "Focus: 'Anti-Inflammatory Diet Protocol (Mediterranean-Style Whole Food Transition)' has 14 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-eicosanoid-bottleneck-how-omega-ratio-dysregulation-bec.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2543,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
         "regulation",
         "synthesis"
       ],
