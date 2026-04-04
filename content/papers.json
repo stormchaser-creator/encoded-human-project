@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T00:00:00.892Z",
-  "total": 569,
+  "generated": "2026-04-04T01:00:01.254Z",
+  "total": 570,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12310,6 +12310,27 @@
         "restoration"
       ],
       "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-epistemic-gating-as-transduction-how-knowledge-systems-filt",
+      "title": "Epistemic Gating as Transduction: How Knowledge Systems Filter Signal Across Density Layers",
+      "abstract": "Focus: Users asked about 'Reach learning system KB ingestion epistemic gating' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-epistemic-gating-as-transduction-how-knowledge-systems-filt.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2161,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
