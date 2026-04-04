@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T16:00:01.041Z",
-  "total": 585,
+  "generated": "2026-04-04T17:00:00.932Z",
+  "total": 586,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12650,6 +12650,27 @@
         "conduction",
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-afferent-dominance-as-fractal-conduction-testing-whether-re",
+      "title": "Afferent Dominance as Fractal Conduction: Testing Whether Receptive Capacity Co-Regulates Autonomic Tone, Attachment Security, and Nondual Awareness Across Densities",
+      "abstract": "Focus: Users asked about 'Design a cross-density measurement study: track RMSSD (body), Experiences in Close Relationships Scale (soul), and Nondual Awareness Dimensional Assessment (spirit) in the same population across a 12-week afferent-dominant intervention (slow nasal breathing + nature immersion + contemplative receptivity practice). Primary hypothesis: all three measures improve in tandem, and the correlation between soul and spirit gains mediates body gains. This would provide the first empirical test of the fractal conduction isomorphism.' but Pearl couldn't ground the answer Confiden",
+      "filename": "pearl-research-afferent-dominance-as-fractal-conduction-testing-whether-re.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2885,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
