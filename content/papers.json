@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T23:00:01.698Z",
-  "total": 568,
+  "generated": "2026-04-04T00:00:00.892Z",
+  "total": 569,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12288,6 +12288,28 @@
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-idle-timeout-problem-how-awareness-systems-handle-the-p",
+      "title": "The Idle Timeout Problem: How Awareness Systems Handle the Pause Between Active Engagements",
+      "abstract": "Focus: Users asked about 'session checkpoint idle timeout' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-idle-timeout-problem-how-awareness-systems-handle-the-p.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2387,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "defense",
+        "restoration"
+      ],
+      "epistemicCeiling": "fact",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
