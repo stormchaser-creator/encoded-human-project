@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T06:00:00.696Z",
-  "total": 576,
+  "generated": "2026-04-04T07:00:01.058Z",
+  "total": 577,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12454,6 +12454,28 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-verification-problem-across-scales-how-systems-authenti",
+      "title": "The Verification Problem Across Scales: How Systems Authenticate Identity at Biological, Psychological, and Spiritual Boundaries",
+      "abstract": "Focus: Users asked about 'verification protocol agent identity' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-verification-problem-across-scales-how-systems-authenti.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 3033,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation",
         "synthesis",
         "defense"
       ],
