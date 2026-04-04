@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T07:00:01.058Z",
-  "total": 577,
+  "generated": "2026-04-04T08:00:00.827Z",
+  "total": 578,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12478,6 +12478,28 @@
         "regulation",
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-voice-as-a-multi-scale-signal-from-middle-ear-tuning-to-rel",
+      "title": "Voice as a Multi-Scale Signal: From Middle Ear Tuning to Relational Memory — How Prosody Encodes Safety Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'Whit Instagram voice Ray Kroc Paris Arrowhead Regional Medical Center' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-voice-as-a-multi-scale-signal-from-middle-ear-tuning-to-rel.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2575,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "reception",
+        "transduction",
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
