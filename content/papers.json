@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T17:00:00.932Z",
-  "total": 586,
+  "generated": "2026-04-04T18:00:00.677Z",
+  "total": 587,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12671,6 +12671,28 @@
       "operations": [
         "conduction",
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-fractal-conduction-isomorphism-a-multi-density-framework-fo",
+      "title": "Fractal Conduction Isomorphism: A Multi-Density Framework for Testing Whether Autonomic Coherence, Attachment Regulation, and Open Awareness Share a Common Oscillatory Substrate",
+      "abstract": "Focus: Users asked about 'Design a 3-arm RCT: (1) full afferent-dominant intervention (breathing + nature + contemplation), (2) breathing-only control, (3) waitlist. Measure RMSSD, ECR-S avoidance subscale, and NADA open-awareness subscale at baseline, weeks 4, 8, and 12. Primary analyses: (a) within-arm trajectories for all three measures, (b) cross-lagged panel models to determine temporal ordering, (c) residual covariance structure to test whether soul-spirit correlation mediates RMSSD gains after controlling for shared intervention exposure. This design can simultaneously test Hypotheses A",
+      "filename": "pearl-research-fractal-conduction-isomorphism-a-multi-density-framework-fo.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2411,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
