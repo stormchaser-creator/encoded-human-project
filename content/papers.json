@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T04:00:00.949Z",
-  "total": 573,
+  "generated": "2026-04-04T05:00:00.776Z",
+  "total": 575,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12392,6 +12392,48 @@
       "type": "research-paper",
       "density": "soul",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "instagram-rewrite-task-for-pearl",
+      "title": "Instagram Rewrite Task — For Pearl",
+      "abstract": "The @drericwhitney Instagram pipeline has 100 posts. The captions are bad — they sound like a content template, not like Whit. Some have fabricated OR stories that never happened. All of them need to be rewritten in Whit's actual voice using his real experiences, real research, and real way of thinking.",
+      "filename": "instagram-rewrite-task-for-pearl.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 646,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-biofilm-as-collective-electrome-ion-waves-field-effects-a",
+      "title": "Biofilm as Collective Electrome: Ion Waves, Field Effects, and the Fractal Logic of Distributed Signaling Across Biological Scales",
+      "abstract": "Focus: Users asked about 'bacterial biofilm electrical signaling field effects' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-biofilm-as-collective-electrome-ion-waves-field-effects-a.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2790,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "conduction",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
