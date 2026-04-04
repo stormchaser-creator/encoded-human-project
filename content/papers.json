@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T03:00:00.701Z",
-  "total": 572,
+  "generated": "2026-04-04T04:00:00.949Z",
+  "total": 573,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12373,6 +12373,26 @@
         "regulation",
         "synthesis",
         "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-zonal-identity-dissolution-in-nafld-methylation-entropy-at",
+      "title": "Zonal Identity Dissolution in NAFLD: Methylation Entropy, Attractor Lock-In, and the Spatial Transcriptomics Framework for Causal Sequencing",
+      "abstract": "Focus: Users asked about 'Design a spatial transcriptomics study of human liver biopsies across NAFLD severity stages (healthy → simple steatosis → NASH → fibrosis) measuring: (1) periportal/pericentral zone boundary sharpness as proxy for zonal identity maintenance, (2) SULT1A1/SULT2B1 expression gradient, (3) SAMe-dependent methylation marks (5-methylcytosine density at zonal marker gene promoters), (4) Phase I/II enzyme ratio by zone. Cross-reference with serum SAMe/SAH ratio, HOMA-IR, and liver stiffness by elastography. This would directly test whether methylation-dependent zonal identity",
+      "filename": "pearl-research-zonal-identity-dissolution-in-nafld-methylation-entropy-at.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2781,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
