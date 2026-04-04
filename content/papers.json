@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T01:00:01.254Z",
-  "total": 570,
+  "generated": "2026-04-04T02:00:00.691Z",
+  "total": 571,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12329,6 +12329,28 @@
       "operations": [
         "transduction",
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-density-matching-as-semantic-filter-how-pearls-retrieval-a",
+      "title": "Density-Matching as Semantic Filter: How Pearl's Retrieval Architecture May Suppress Cross-Density Knowledge and How Fractal Mirror Entries Resolve It",
+      "abstract": "Focus: Users asked about 'Investigate whether Pearl's retrieval system applies density-matching logic to incoming queries (i.e., does a body-language query only retrieve body-density entries?), and whether creating explicit cross-density bridge entries — entries that translate engineering concepts into soul/spirit language and vice versa — would resolve the missing density problem on architectural queries.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-density-matching-as-semantic-filter-how-pearls-retrieval-a.md",
+      "fileDate": "2026-04-03",
+      "wordCount": 2760,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "synthesis",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
