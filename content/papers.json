@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T20:00:00.731Z",
-  "total": 589,
+  "generated": "2026-04-04T21:00:00.818Z",
+  "total": 591,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12736,6 +12736,46 @@
       "operations": [
         "restoration",
         "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "eric-whitney-instagram-100-rewritten-captions",
+      "title": "Eric Whitney Instagram — 100 Rewritten Captions",
+      "abstract": "Rewritten April 2026 — all biographical facts verified against CV",
+      "filename": "eric-whitney-instagram-100-rewritten-captions.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 5474,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-sequenced-vs-simultaneous-dietary-oscillator-entrainment-a",
+      "title": "Sequenced vs. Simultaneous Dietary Oscillator Entrainment: A Hypothesis Framework for the 24-Week Gut-Liver-Lipid Phase-Synchronization Study",
+      "abstract": "Focus: Users asked about 'Design a 24-week prospective study with weekly sampling of: (1) microbiome 16S diversity indices, (2) erythrocyte AND platelet omega-6/omega-3 ratios, (3) urinary Phase II conjugates (glucuronides, mercapturic acids) as Phase II activity proxies, (4) plasma bile acid diversity. Compare three arms: simultaneous Mediterranean diet adoption, gut-first sequenced (fermented foods + fiber weeks 1-6, then add fish/olive oil protocol weeks 7+), and liver-first sequenced (high polyphenol loading weeks 1-6, then microbiome optimization). Primary endpoint: which arm achieves all",
+      "filename": "pearl-research-sequenced-vs-simultaneous-dietary-oscillator-entrainment-a.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2871,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
