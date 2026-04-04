@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T11:00:00.750Z",
-  "total": 581,
+  "generated": "2026-04-04T12:00:00.777Z",
+  "total": 582,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12564,6 +12564,28 @@
         "reception",
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-orexin-as-chronobiological-gatekeeper-trf-mediated-metaboli",
+      "title": "Orexin as Chronobiological Gatekeeper: TRF-Mediated Metabolic Signals, Sleep Architecture, and the Impulse-Attention Axis",
+      "abstract": "Focus: Users asked about 'Investigate the orexin/hypocretin system as a biological bridge between metabolic gating (TRF mechanism) and attentional/emotional regulation — specifically whether TRF compliance correlates with measurable changes in orexin activity, sleep architecture, and impulse control metrics in the same subjects.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-orexin-as-chronobiological-gatekeeper-trf-mediated-metaboli.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2206,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
