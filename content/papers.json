@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T13:00:00.845Z",
-  "total": 582,
+  "generated": "2026-04-04T14:00:00.712Z",
+  "total": 583,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12586,6 +12586,26 @@
         "regulation",
         "synthesis",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-chrono-metabolic-entrainment-and-impulse-regulation-orexin",
+      "title": "Chrono-Metabolic Entrainment and Impulse Regulation: Orexin-Proxy, Cortisol, and Cognitive Control in TRF — A Hypothesis Framework for a Crossover Study Design",
+      "abstract": "Focus: Users asked about 'Design a within-subject crossover study: 8 weeks TRF (8-hour window, light-aligned) vs. 8 weeks ad libitum in healthy adults with metabolic syndrome symptoms. Measure: (1) actigraphy sleep architecture nightly, (2) pupillometry-based arousal tracking as orexin proxy, (3) go/no-go and delay-discounting tasks weekly, (4) continuous glucose monitoring for TRF compliance verification, (5) salivary cortisol awakening response. This would be the first dataset linking TRF compliance to orexin-proxy measures and impulse control in the same subjects.' but Pearl couldn't ground",
+      "filename": "pearl-research-chrono-metabolic-entrainment-and-impulse-regulation-orexin.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2177,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
