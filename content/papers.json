@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T21:00:00.818Z",
-  "total": 591,
+  "generated": "2026-04-04T22:00:00.888Z",
+  "total": 592,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12775,6 +12775,28 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-authenticity-signal-problem-why-genuine-voice-on-instag",
+      "title": "The Authenticity Signal Problem: Why Genuine Voice on Instagram Requires Inner Stillness, Not Copywriting Technique",
+      "abstract": "Focus: Users asked about 'Instagram caption writing voice authentic personal brand' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-authenticity-signal-problem-why-genuine-voice-on-instag.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2401,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
