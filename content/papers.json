@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T15:00:00.751Z",
-  "total": 584,
+  "generated": "2026-04-04T16:00:01.041Z",
+  "total": 585,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12628,6 +12628,28 @@
         "reception",
         "regulation",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-80-20-conduction-asymmetry-vagal-afferent-dominance-as",
+      "title": "The 80/20 Conduction Asymmetry: Vagal Afferent Dominance as a Unifying Principle Across Body, Soul, and Spirit Densities",
+      "abstract": "Focus: 'Vagus Nerve (Cranial Nerve X) — Primary Parasympathetic Conductor' has 6 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-80-20-conduction-asymmetry-vagal-afferent-dominance-as.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2354,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
