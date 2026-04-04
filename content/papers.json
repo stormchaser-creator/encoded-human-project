@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T10:00:01.013Z",
-  "total": 579,
+  "generated": "2026-04-04T11:00:00.750Z",
+  "total": 581,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12521,6 +12521,49 @@
       "operations": [
         "transduction",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-retrograde-regulation-as-universal-content-architecture-wha",
+      "title": "Retrograde Regulation as Universal Content Architecture: What the Endocannabinoid System Reveals About Conscious Creation Across Scales",
+      "abstract": "Focus: Users asked about 'instagram calendar 100 posts encoded human content strategy' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-retrograde-regulation-as-universal-content-architecture-wha.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2126,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-fasting-window-as-universal-metabolic-gate-from-cellula",
+      "title": "The Fasting Window as Universal Metabolic Gate: From Cellular Autophagy to Contemplative Apophasis",
+      "abstract": "Focus: 'Time-Restricted Feeding (16:8)' has 7 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-fasting-window-as-universal-metabolic-gate-from-cellula.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2476,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
