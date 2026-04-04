@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T08:00:00.827Z",
-  "total": 578,
+  "generated": "2026-04-04T10:00:01.013Z",
+  "total": 579,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12500,6 +12500,27 @@
         "reception",
         "transduction",
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hrv-as-autonomic-readout-in-trt-using-fathers-rmssd-suppres",
+      "title": "HRV as Autonomic Readout in TRT-Using Fathers: RMSSD Suppression, Testosterone's Oscillatory Effects, and the Multi-Domain Recovery Challenge",
+      "abstract": "Focus: Users asked about 'session observation Whit HRV 16 18 RMSSD testosterone TRT four kids' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-hrv-as-autonomic-readout-in-trt-using-fathers-rmssd-suppres.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2477,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
