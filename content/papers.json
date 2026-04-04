@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T14:00:00.712Z",
-  "total": 583,
+  "generated": "2026-04-04T15:00:00.751Z",
+  "total": 584,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12606,6 +12606,28 @@
       "density": "body",
       "operations": [
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-orexin-proxy-chain-in-metabolic-syndrome-pupillometry-a",
+      "title": "The Orexin-Proxy Chain in Metabolic Syndrome: Pupillometry as a CAR Validator and the Bifurcation Hypothesis in HPA-Axis Responsiveness",
+      "abstract": "Focus: Users asked about 'Before running the full crossover, a 2-week pilot (n=12) should validate the pupillometry-CAR correlation within a metabolic syndrome sample, establishing whether the orexin-proxy chain holds in this specific population before committing to the full 8-week design. Simultaneously, pre-registration on OSF with the bifurcation hypothesis operationalized as a median CAR split would protect the most novel scientific contribution of the study.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-orexin-proxy-chain-in-metabolic-syndrome-pupillometry-a.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2737,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "regulation",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
