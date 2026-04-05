@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T11:00:00.894Z",
-  "total": 604,
+  "generated": "2026-04-05T12:00:00.764Z",
+  "total": 605,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13048,6 +13048,26 @@
         "regulation",
         "synthesis",
         "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-frailty-sex-ratio-paradox-biological-floor-social-ceil",
+      "title": "The Frailty Sex Ratio Paradox: Biological Floor, Social Ceiling — Can Gender Equality Indices Discriminate Between Pure Biological and Coupled Multi-Level Hypotheses?",
+      "abstract": "Focus: Users asked about 'A systematic review of cross-cultural frailty sex ratios combined with analysis of gender role index data, to test whether societies with greater gender equality show attenuated female frailty excess — this would provide the strongest discriminating evidence between pure biological and multi-level coupled hypotheses.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-frailty-sex-ratio-paradox-biological-floor-social-ceil.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2744,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
