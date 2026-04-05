@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T15:00:00.912Z",
-  "total": 608,
+  "generated": "2026-04-05T16:00:00.924Z",
+  "total": 609,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13131,6 +13131,26 @@
       "operations": [
         "transduction",
         "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-transgenerational-epigenetic-inheritance-how-maternal-micro",
+      "title": "Transgenerational Epigenetic Inheritance: How Maternal Microbiome, Paternal Sperm Epigenetics, and Mitochondrial Lineage Converge as Multi-Channel Inheritance Systems",
+      "abstract": "Focus: Users asked about 'maternal microbiome transgenerational inheritance paternal sperm epigenetic' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-transgenerational-epigenetic-inheritance-how-maternal-micro.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2977,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
