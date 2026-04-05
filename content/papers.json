@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T10:00:00.922Z",
-  "total": 603,
+  "generated": "2026-04-05T11:00:00.894Z",
+  "total": 604,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13026,6 +13026,28 @@
       "operations": [
         "synthesis",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-receptive-field-hypothesis-how-hormonal-behavioral-an",
+      "title": "The Receptive Field Hypothesis: How Hormonal, Behavioral, and Phenomenological Narrowing Converges to Produce Sex-Differentiated Frailty",
+      "abstract": "Focus: 'Women are twice as likely as men to develop frailty syndrome.' has 7 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-receptive-field-hypothesis-how-hormonal-behavioral-an.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2593,
+      "type": "hypothesis",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
