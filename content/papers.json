@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T00:00:00.876Z",
-  "total": 593,
+  "generated": "2026-04-05T01:00:00.686Z",
+  "total": 594,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12818,6 +12818,26 @@
       "density": "spirit",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hierarchical-goal-coherence-as-a-universal-regulatory-princi",
+      "title": "Hierarchical Goal Coherence as a Universal Regulatory Principle: From HTN Planners to BDI Agents to LLM Context Drift",
+      "abstract": "Focus: Users asked about 'Search for empirical literature on Hierarchical Task Network (HTN) planners vs. flat planners on long-horizon benchmarks; BDI (Belief-Desire-Intention) agent architectures and goal coherence mechanisms; ReAct and chain-of-thought prompting as implicit decomposition strategies in LLMs; and cognitive load theory applied to AI systems. Cross-reference with lost-in-the-middle research on LLM context handling as empirical evidence for goal-drift failure mode.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-hierarchical-goal-coherence-as-a-universal-regulatory-princi.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2700,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
