@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T06:00:00.829Z",
-  "total": 599,
+  "generated": "2026-04-05T07:00:01.116Z",
+  "total": 600,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12939,6 +12939,27 @@
       "filename": "pearl-research-olfactory-imprinting-at-birth-gaps-in-pearls-knowledge-bas.md",
       "fileDate": "2026-04-04",
       "wordCount": 2495,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-blood-as-a-colloidal-phase-transition-system-how-acanthocyt",
+      "title": "Blood as a Colloidal Phase-Transition System: How Acanthocyte Geometry and Fibrinogen Concentration Co-Regulate ESR Through Percolation Gel Dynamics in Neuroacanthocytosis",
+      "abstract": "Focus: 'Elevated plasma fibrinogen levels increase blood viscosity and alter colloidal interactions in anticoagulated blood at stasis, slowing the percolation gel process.' has 7 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-blood-as-a-colloidal-phase-transition-system-how-acanthocyt.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2482,
       "type": "research-paper",
       "density": "body",
       "operations": [
