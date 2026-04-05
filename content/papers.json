@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T09:00:00.826Z",
-  "total": 602,
+  "generated": "2026-04-05T10:00:00.922Z",
+  "total": 603,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13005,6 +13005,27 @@
       "density": "body",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-microbiome-as-civilizational-endgame-when-ecosystem-res",
+      "title": "The Microbiome as Civilizational Endgame: When Ecosystem Restoration Meets the Limits of Technology",
+      "abstract": "Focus: Users asked about 'microbiome technology endgame question' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-microbiome-as-civilizational-endgame-when-ecosystem-res.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2569,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
