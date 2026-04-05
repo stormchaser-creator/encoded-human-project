@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T05:00:00.855Z",
-  "total": 598,
+  "generated": "2026-04-05T06:00:00.829Z",
+  "total": 599,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12922,6 +12922,27 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-olfactory-imprinting-at-birth-gaps-in-pearls-knowledge-bas",
+      "title": "Olfactory Imprinting at Birth: Gaps in Pearl's Knowledge Base and a Theoretical Framework for Perinatal Chemosensory Bonding Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'Search for: (1) Schaal, Porter, Winberg olfactory imprinting newborn literature; (2) Almgren et al. epigenetic methylation cesarean delivery studies; (3) oxytocin-olfactory axis perinatal neurobiology; (4) skin-to-skin compensation studies post-cesarean measuring olfactory-specific bonding behaviors; (5) olfactory bulb development and mode of delivery neuroimaging literature.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-olfactory-imprinting-at-birth-gaps-in-pearls-knowledge-bas.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2495,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
