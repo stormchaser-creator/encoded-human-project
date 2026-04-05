@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T03:00:00.738Z",
-  "total": 596,
+  "generated": "2026-04-05T04:00:00.660Z",
+  "total": 597,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12882,6 +12882,27 @@
         "regulation",
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-transience-safety-principle-under-biological-scrutiny-t",
+      "title": "The Transience-Safety Principle Under Biological Scrutiny: tPA Half-Life, Fibrin-Specificity, and Hemorrhagic Risk as a Phase-Transition Test Case",
+      "abstract": "Focus: Users asked about 'Map the relationship between alteplase half-life, fibrin-specificity, and hemorrhagic risk across the tPA class (alteplase, tenecteplase, reteplase) to test whether the transience-safety principle holds quantitatively. This would either confirm or refute Hypothesis C's phase-transition model at the biological level before extending the claim cross-scale.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-transience-safety-principle-under-biological-scrutiny-t.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2389,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
