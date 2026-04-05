@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T14:00:00.723Z",
-  "total": 606,
+  "generated": "2026-04-05T15:00:00.912Z",
+  "total": 608,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13088,6 +13088,49 @@
       "density": "body",
       "operations": [
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "two-vectors-one-inheritance-integrating-maternal-microbiome",
+      "title": "Two Vectors, One Inheritance: Integrating Maternal Microbiome Ecology and Paternal Sperm Epigenetics in Transgenerational Inheritance Models",
+      "abstract": "Inheritance has long been framed as a unidirectional genomic event — a fixed sequence passed from parent to offspring at conception. That framing is no longer sufficient. Two parallel bodies of evidence have emerged over the past two decades suggesting that heritable biological information travels through at least two non-genomic vectors: regulatory instructions encoded in paternal sperm epigenetics, and ecologically structured microbial communities transmitted through the maternal lineage. Considered separately, each vector represents a meaningful revision to classical inheritance models. Con",
+      "filename": "two-vectors-one-inheritance-integrating-maternal-microbiome.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 4276,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "defense"
+      ],
+      "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-inflammation-gender-inequality-and-biological-transduction",
+      "title": "Inflammation, Gender Inequality, and Biological Transduction: A Multi-Scale Framework for Sex-Stratified hsCRP/IL-6 Research Across Sociopolitical Gradients",
+      "abstract": "Focus: Users asked about 'Pre-register the DAG and confounder/mediator classification schema on PROSPERO before conducting Stage 1 searches. Simultaneously, audit UK Biobank, HUNT Norway, and CHARLS (China) for hsCRP/IL-6 sex-stratified data linkable to national WEF Gender Gap Index scores — these three alone span Gender Gap Index 0.58 (China) to 0.85 (Norway) and provide the range needed for a meaningful correlation test in Stage 2.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-inflammation-gender-inequality-and-biological-transduction.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2633,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "conduction",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
