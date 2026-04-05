@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T18:00:00.785Z",
-  "total": 611,
+  "generated": "2026-04-05T19:00:01.977Z",
+  "total": 612,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13191,6 +13191,28 @@
       "wordCount": 2361,
       "type": "research-paper",
       "density": "soul",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-anticipatory-immunity-how-controlled-encounter-with-threat",
+      "title": "Anticipatory Immunity: How Controlled Encounter with Threat-Signatures Produces Resilience Across Biological, Psychological, and Contemplative Scales",
+      "abstract": "Focus: 'anthrax vaccine — Mechanism of Action and Operational Mapping' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-anticipatory-immunity-how-controlled-encounter-with-threat.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2480,
+      "type": "research-paper",
+      "density": "body",
       "operations": [
         "regulation",
         "synthesis",
