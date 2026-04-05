@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T19:00:01.977Z",
-  "total": 612,
+  "generated": "2026-04-05T20:00:00.838Z",
+  "total": 613,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13217,6 +13217,28 @@
         "regulation",
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-research-notes-users-asked-about-map-the-anaphylaxis-retr",
+      "title": "Research Notes — Users asked about 'Map the anaphylaxis/retraumatization fail",
+      "abstract": "Focus: Users asked about 'Map the anaphylaxis/retraumatization failure mode more precisely: identify the biological predictors of anaphylaxis to anthrax vaccine (prior sensitization, IgE-mediated mechanisms) and determine whether analogous psychological predictors (dissociative threshold, window of tolerance measures) follow the same logic — if so, pre-screening protocols for both domains may share a common design principle.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-research-notes-users-asked-about-map-the-anaphylaxis-retr.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 566,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
