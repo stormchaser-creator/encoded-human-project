@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T13:00:00.850Z",
-  "total": 605,
+  "generated": "2026-04-05T14:00:00.723Z",
+  "total": 606,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13067,6 +13067,27 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-structural-coherence-under-load-frailty-gender-inequality",
+      "title": "Structural Coherence Under Load: Frailty, Gender Inequality, and the Inflammatory Axis as a Multi-Scale Regulatory Problem",
+      "abstract": "Focus: Users asked about 'Design a two-stage research protocol: (1) Systematic review and meta-regression of existing cross-national frailty prevalence studies (2000-2025) against World Economic Forum Gender Gap Index and UNDP Gender Inequality Index scores, using Fried frailty phenotype as primary outcome for measurement consistency, with pre-specified confound adjustment for GDP-PPP, healthcare access index, mean population age, and study design quality; (2) Mechanistic sub-analysis examining whether inflammatory biomarker sex ratios (hsCRP, IL-6, TNF-α) in existing biobank data correlate wi",
+      "filename": "pearl-research-structural-coherence-under-load-frailty-gender-inequality.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2782,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
