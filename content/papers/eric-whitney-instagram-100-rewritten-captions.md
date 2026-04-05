@@ -4,8 +4,8 @@
 
 ---
 
-# Eric Whitney — Instagram Captions (100 Posts)
-*Rewritten April 2026 — all biographical facts verified against CV*
+# Eric Whitney Instagram — 100 Rewritten Captions
+*Rewritten April 4, 2026. Voice: precise, systems-curious, carries weight without performing it. Verified against CV.*
 
 ---
 
@@ -915,10 +915,9 @@ I'm still asking it. That's not a problem. That's the work.
 
 ---
 
-*Changes from original draft:*
-- Post 25: Replaced kids reference with On the Long Game
-- Post 74: Replaced TRT reference with On What the Data Actually Shows
-- Post 81: Removed kids reference from list
-- All biographical facts verified against CV (April 2026)
-- No skull base fellow mentions
-- No kids mentions anywhere in document
+*Changes from original:*
+- *Post 25: kids reference removed → On the Long Game*
+- *Post 74: TRT post removed → On What the Data Actually Shows*
+- *Post 81: kids line removed from list*
+- *All posts: skull base fellow references removed*
+- *All posts: verified against CV (April 4, 2026)*

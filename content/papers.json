@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T23:00:00.688Z",
-  "total": 592,
+  "generated": "2026-04-05T00:00:00.876Z",
+  "total": 593,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12748,10 +12748,10 @@
     {
       "slug": "eric-whitney-instagram-100-rewritten-captions",
       "title": "Eric Whitney Instagram — 100 Rewritten Captions",
-      "abstract": "Rewritten April 2026 — all biographical facts verified against CV",
+      "abstract": "Rewritten April 4, 2026. Voice: precise, systems-curious, carries weight without performing it. Verified against CV.",
       "filename": "eric-whitney-instagram-100-rewritten-captions.md",
       "fileDate": "2026-04-04",
-      "wordCount": 5474,
+      "wordCount": 5473,
       "type": "research-paper",
       "density": "body",
       "operations": [
@@ -12797,6 +12797,26 @@
       "operations": [
         "conduction",
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-decomposition-as-universal-architecture-how-chunking-comple",
+      "title": "Decomposition as Universal Architecture: How Chunking Complex Wholes Into Granular Parts Operates Across Agent Systems, Cognition, and Consciousness",
+      "abstract": "Focus: Users asked about 'agent architecture chunking decomposition task planning' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-decomposition-as-universal-architecture-how-chunking-comple.md",
+      "fileDate": "2026-04-04",
+      "wordCount": 2773,
+      "type": "framework",
+      "density": "spirit",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
