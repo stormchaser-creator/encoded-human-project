@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T07:00:01.116Z",
-  "total": 600,
+  "generated": "2026-04-05T08:00:00.812Z",
+  "total": 601,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12964,6 +12964,26 @@
       "density": "body",
       "operations": [
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-percolation-thresholds-in-blood-how-acanthocyte-morphology",
+      "title": "Percolation Thresholds in Blood: How Acanthocyte Morphology and Fibrinogen Concentration Interact to Produce Nonlinear ESR Elevation — A Phase-Transition Framework",
+      "abstract": "Focus: Users asked about 'Design an in vitro ESR experiment using healthy donor blood spiked with: (a) isolated acanthocytes at varying concentrations, (b) fibrinogen at varying concentrations, and (c) both combined — measuring full sedimentation curves (not just 1-hour endpoint) and fitting to both Stokes' law and percolation gel models. Include diffusing wave spectroscopy or microrheology to directly measure gel network properties. This would discriminate between linear viscosity effects and nonlinear percolation-threshold behavior, and determine whether the interaction term is significant.'",
+      "filename": "pearl-research-percolation-thresholds-in-blood-how-acanthocyte-morphology.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2835,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
