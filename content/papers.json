@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T17:00:00.922Z",
-  "total": 610,
+  "generated": "2026-04-05T18:00:00.785Z",
+  "total": 611,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13173,6 +13173,28 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-paradox-of-preservation-how-inhibitory-pathways-that-pr",
+      "title": "The Paradox of Preservation: How Inhibitory Pathways That Protect Systems Also Suppress Their Generative Renewal",
+      "abstract": "Focus: Users asked about 'knowledge graph pathway network interconnected mechanism discovery' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-paradox-of-preservation-how-inhibitory-pathways-that-pr.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2361,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
