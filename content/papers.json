@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T16:00:00.924Z",
-  "total": 609,
+  "generated": "2026-04-05T17:00:00.922Z",
+  "total": 610,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13151,6 +13151,27 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-navigation-problem-how-systems-orient-phase-and-find",
+      "title": "The Navigation Problem: How Systems Orient, Phase, and Find Their Way Across Densities",
+      "abstract": "Focus: Users asked about 'journey coordinates map route navigation KB architecture' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-navigation-problem-how-systems-orient-phase-and-find.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2880,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
