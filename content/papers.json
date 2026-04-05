@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T08:00:00.812Z",
-  "total": 601,
+  "generated": "2026-04-05T09:00:00.826Z",
+  "total": 602,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -12981,6 +12981,26 @@
       "filename": "pearl-research-percolation-thresholds-in-blood-how-acanthocyte-morphology.md",
       "fileDate": "2026-04-05",
       "wordCount": 2835,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-acanthocyte-morphology-membrane-phosphatidylserine-exposure",
+      "title": "Acanthocyte Morphology, Membrane Phosphatidylserine Exposure, and Fibrinogen-Mediated Rouleaux Formation: Competing Mechanistic Hypotheses for Anomalous Erythrocyte Sedimentation in Neuroacanthocytosis",
+      "abstract": "Focus: Users asked about 'Pilot experiment: Prepare acanthocyte-enriched fraction from McLeod syndrome or neuroacanthocytosis patient blood (or generate echinocytes chemically as a controlled proxy). Spike healthy donor blood at 0, 5, 10, 20, 40% acanthocyte substitution, crossed with fibrinogen supplementation at 0, 200, 400, 600 mg/dL (3×4 factorial, n=6 replicates). Measure: (1) full sedimentation curves at 5-min intervals for 2 hours; (2) DWS mean-squared displacement and α-exponent as function of lag time; (3) microrheology G'/G'' crossover frequency. Primary analysis: test interaction te",
+      "filename": "pearl-research-acanthocyte-morphology-membrane-phosphatidylserine-exposure.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2742,
       "type": "research-paper",
       "density": "body",
       "operations": [
