@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T19:00:00.967Z",
-  "total": 631,
+  "generated": "2026-04-06T20:06:08.297Z",
+  "total": 633,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13618,6 +13618,46 @@
         "regulation",
         "synthesis",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "one-signal-four-languages-cross-disciplinary-evidence-for-a",
+      "title": "One Signal, Four Languages: Cross-Disciplinary Evidence for a Unified Substrate of Conscious Experience",
+      "abstract": "Consciousness research has accumulated a substantial empirical record across four largely non-communicating disciplines. Neuroscience maps correlated neural dynamics. Thermodynamic biology tracks entropy production and metabolic self-organization. Phenomenology catalogs the structural features of lived experience. Contemplative science documents repeated, cross-cultural observations of experiential states under controlled introspective conditions. Each tradition has developed rigorous internal methods. None has resolved the central problem. INTERPRETATION: The persistence of that failure acros",
+      "filename": "one-signal-four-languages-cross-disciplinary-evidence-for-a.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 3152,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-diagnostic-noise-floor-how-triage-bp-measurement-error",
+      "title": "The Diagnostic Noise Floor: How Triage BP Measurement Error in Pediatric Obesity Creates a Cascade of Clinical Misclassification",
+      "abstract": "Focus: 'Triage systolic BP had a mean difference of 8.7 mmHg (95% limits of agreement: −16.66, 34.07) compared to standardized measurements, with overall agreement in identifying hypertensive BP of only 57...' has 6 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-diagnostic-noise-floor-how-triage-bp-measurement-error.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2816,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
