@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T16:00:00.724Z",
-  "total": 626,
+  "generated": "2026-04-06T17:10:39.613Z",
+  "total": 628,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13517,6 +13517,47 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-dying-brain-as-phase-transition-consciousness-informat",
+      "title": "The Dying Brain as Phase Transition: Consciousness, Information Density, and the Neuroscience of Near-Death Experience",
+      "abstract": "Focus: Users asked about 'Systematic review of the Aware II study (Sam Parnia, Southampton) data on cardiac arrest NDE reports with simultaneous EEG monitoring; cross-reference with Borjigin et al. terminal gamma surge data; review terminal lucidity case literature (Nahm et al. 2012, Fenwick et al.) for neuropathological correlation; evaluate Integrated Information Theory predictions for dying brain states' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-dying-brain-as-phase-transition-consciousness-informat.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2725,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "one-signal-four-languages-section-3-the-core-empirical-synth",
+      "title": "One Signal, Four Languages — Section 3: The Core Empirical Synthesis",
+      "abstract": "Classical psychedelics — psilocybin, LSD, DMT — produce a measurable increase in the repertoire of brain connectivity states while simultaneously generating experiences reported as maximally meaningful, coherent, and unified. This inversion of the conventional relationship between neural order and experiential coherence is not a curiosity; it is a structural datum that any adequate theory of consciousness must confront.",
+      "filename": "one-signal-four-languages-section-3-the-core-empirical-synth.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 1630,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
