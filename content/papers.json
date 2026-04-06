@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T13:00:00.863Z",
-  "total": 623,
+  "generated": "2026-04-06T14:00:00.821Z",
+  "total": 624,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13450,6 +13450,28 @@
       "density": "body",
       "operations": [
         "transduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-thymosin-beta-4-as-a-multiscale-repair-signal-from-myocardi",
+      "title": "Thymosin Beta-4 as a Multiscale Repair Signal: From Myocardial Ischemia to CNS Regeneration — A Knowledge Gap Analysis with Cross-Density Hypotheses",
+      "abstract": "Focus: Users asked about 'thymosin beta-4 cardiac myocardial ischemia neuroprotection CNS repair' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-thymosin-beta-4-as-a-multiscale-repair-signal-from-myocardi.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2306,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
         "regulation",
         "synthesis"
       ],
