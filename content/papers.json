@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T14:00:00.821Z",
-  "total": 624,
+  "generated": "2026-04-06T15:00:01.201Z",
+  "total": 625,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13473,6 +13473,26 @@
       "operations": [
         "conduction",
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-withdrawal-signal-terminal-lucidity-flat-eeg-and-the",
+      "title": "The Withdrawal Signal: Terminal Lucidity, Flat EEG, and the Paradox of Heightened Consciousness at Neural Silence",
+      "abstract": "Focus: Users asked about 'terminal lucidity NDE near death flat EEG cardiac coherence' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-withdrawal-signal-terminal-lucidity-flat-eeg-and-the.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2715,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
