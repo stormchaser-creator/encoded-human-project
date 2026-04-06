@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T03:00:00.876Z",
-  "total": 613,
+  "generated": "2026-04-06T04:00:00.801Z",
+  "total": 615,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13238,6 +13238,47 @@
       "operations": [
         "synthesis",
         "defense",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "reach-pipeline-epistemic-judge-integration-spec",
+      "title": "Reach Pipeline — Epistemic Judge Integration Spec",
+      "abstract": "Version: 1.0 Date: 2026-04-06 Author: Pearl For: Code Status: Ready to build",
+      "filename": "reach-pipeline-epistemic-judge-integration-spec.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 1653,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-return-stroke-retrieval-as-a-fractal-process-across-bod",
+      "title": "The Return Stroke: Retrieval as a Fractal Process Across Body, Soul, and Spirit",
+      "abstract": "Focus: Users asked about 'retry' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-return-stroke-retrieval-as-a-fractal-process-across-bod.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2676,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "synthesis",
         "restoration"
       ],
       "epistemicCeiling": "hypothesis",
