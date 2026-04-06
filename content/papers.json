@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T17:10:39.613Z",
-  "total": 628,
+  "generated": "2026-04-06T18:00:00.844Z",
+  "total": 629,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13550,7 +13550,7 @@
       "abstract": "Classical psychedelics — psilocybin, LSD, DMT — produce a measurable increase in the repertoire of brain connectivity states while simultaneously generating experiences reported as maximally meaningful, coherent, and unified. This inversion of the conventional relationship between neural order and experiential coherence is not a curiosity; it is a structural datum that any adequate theory of consciousness must confront.",
       "filename": "one-signal-four-languages-section-3-the-core-empirical-synth.md",
       "fileDate": "2026-04-06",
-      "wordCount": 1630,
+      "wordCount": 2209,
       "type": "research-paper",
       "density": "body",
       "operations": [
@@ -13558,6 +13558,26 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-representation-trap-why-the-brain-consciousness-identit",
+      "title": "The Representation Trap: Why the Brain-Consciousness Identity Problem May Be a Left-Hemisphere Artifact",
+      "abstract": "Focus: Users asked about 'strict identity theory mind brain consciousness explanatory gap' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-representation-trap-why-the-brain-consciousness-identit.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2287,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
