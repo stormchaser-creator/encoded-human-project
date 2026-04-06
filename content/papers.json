@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T12:00:00.780Z",
-  "total": 622,
+  "generated": "2026-04-06T13:00:00.863Z",
+  "total": 623,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13430,6 +13430,28 @@
         "reception",
         "conduction",
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-hrv-as-order-parameter-across-densities-testing-whether-vag",
+      "title": "HRV as Order Parameter Across Densities: Testing Whether Vagal Tone Reorganizes Sensory Sensitivity, Stress Dysregulation, Relational Safety, and Contemplative Presence Simultaneously",
+      "abstract": "Focus: Users asked about 'Design a cross-density measurement protocol: administer HSPS, PSS-10, ACE score, and HRV baseline simultaneously to a sample of adults reporting both sensory sensitivity and stress dysregulation. Run a 6-week vagal toning intervention (including SSP if available, plus daily humming/slow exhalation/cold exposure protocols) and re-measure all four parameters. Test whether change in HRV predicts change in HSPS and PSS-10 (order parameter hypothesis) or whether changes are independent (parallel pathways hypothesis). Include qualitative relational safety and contemplative ",
+      "filename": "pearl-research-hrv-as-order-parameter-across-densities-testing-whether-vag.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2995,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
