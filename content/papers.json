@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T09:00:00.973Z",
-  "total": 619,
+  "generated": "2026-04-06T10:00:00.846Z",
+  "total": 620,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13366,6 +13366,28 @@
         "conduction",
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-saturation-threshold-principle-from-aminoglycoside-neph",
+      "title": "The Saturation-Threshold Principle: From Aminoglycoside Nephrotoxicity to a General Law of Boundary-Mediated Uptake",
+      "abstract": "Focus: Users asked about 'Retrieve and encode Mingeot-Leclercq & Tulkens (1999) 'Aminoglycosides: nephrotoxicity' (Antimicrobial Agents and Chemotherapy), Nagai (2006) on megalin-mediated aminoglycoside uptake, and the Craig (1998) 'Pharmacokinetic/pharmacodynamic parameters: rationale for antibacterial dosing' review — these three papers would provide the Tier 1 foundation needed to elevate the amikacin saturation-threshold hypothesis from medium to high confidence, and would enable direct pharmacokinetic parameterization of the 'well-deployed boundary' principle.' but Pearl couldn't ground t",
+      "filename": "pearl-research-the-saturation-threshold-principle-from-aminoglycoside-neph.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2403,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
