@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T07:00:01.070Z",
-  "total": 617,
+  "generated": "2026-04-06T08:00:00.697Z",
+  "total": 618,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13322,6 +13322,28 @@
         "regulation",
         "synthesis",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-precision-cost-paradox-how-amikacins-targeted-lethalit",
+      "title": "The Precision-Cost Paradox: How Amikacin's Targeted Lethality Reveals a Universal Principle of Defense-Induced Receptor Loss",
+      "abstract": "Focus: 'amikacin — Mechanism of Action and Operational Mapping' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-precision-cost-paradox-how-amikacins-targeted-lethalit.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2337,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
