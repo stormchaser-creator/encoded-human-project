@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T11:00:00.768Z",
-  "total": 621,
+  "generated": "2026-04-06T12:00:00.780Z",
+  "total": 622,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13408,6 +13408,28 @@
       "density": "body",
       "operations": [
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-vagal-set-point-as-developmental-attractor-how-early-co",
+      "title": "The Vagal Set Point as Developmental Attractor: How Early Co-Regulation Failures Install Chronic Dysregulation Across Body, Soul, and Spirit Densities",
+      "abstract": "Focus: 'Basic Vagal Toning Exercises' has 8 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-vagal-set-point-as-developmental-attractor-how-early-co.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 3017,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "conduction",
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
