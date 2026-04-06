@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T21:00:00.719Z",
-  "total": 634,
+  "generated": "2026-04-06T22:00:00.576Z",
+  "total": 635,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13680,6 +13680,28 @@
         "transduction",
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-consciousness-as-primary-organizer-biological-structure-as",
+      "title": "Consciousness as Primary Organizer: Biological Structure as Downstream Expression of Awareness",
+      "abstract": "Focus: Users asked about 'consciousness primacy biological organization primary not derivative' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-consciousness-as-primary-organizer-biological-structure-as.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2558,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation",
+        "defense",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
