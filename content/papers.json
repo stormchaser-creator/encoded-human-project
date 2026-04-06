@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T22:00:00.576Z",
-  "total": 635,
+  "generated": "2026-04-06T23:00:00.558Z",
+  "total": 636,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13702,6 +13702,28 @@
         "regulation",
         "defense",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-fgf-23-amplification-loop-how-ckd-converts-a-phosphate",
+      "title": "The FGF-23 Amplification Loop: How CKD Converts a Phosphate Sensor into a Cardiovascular Toxin",
+      "abstract": "Focus: 'FGF-23 Overexpression in CKD Secondary Hyperparathyroidism' has 9 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-fgf-23-amplification-loop-how-ckd-converts-a-phosphate.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2651,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
