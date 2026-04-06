@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T04:00:00.801Z",
-  "total": 615,
+  "generated": "2026-04-06T05:00:00.771Z",
+  "total": 616,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13280,6 +13280,26 @@
       "operations": [
         "synthesis",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-gh-igf-1-testosterone-triad-synergistic-anabolism-bifu",
+      "title": "The GH-IGF-1-Testosterone Triad: Synergistic Anabolism, Bifurcation Points, and the Dual-Edge of Growth Signaling Across the Lifespan",
+      "abstract": "Focus: Users asked about 'GH axis IGF-1 testosterone synergy anabolic interaction' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-gh-igf-1-testosterone-triad-synergistic-anabolism-bifu.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2595,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
