@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T08:00:00.697Z",
-  "total": 618,
+  "generated": "2026-04-06T09:00:00.973Z",
+  "total": 619,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13344,6 +13344,28 @@
         "reception",
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-saturation-threshold-as-architectural-key-once-daily-am",
+      "title": "The Saturation Threshold as Architectural Key: Once-Daily Aminoglycoside Dosing as a Pharmacokinetic Model for the Well-Deployed Boundary Principle",
+      "abstract": "Focus: Users asked about 'Investigate whether once-daily dosing regimens for amikacin (which show reduced nephrotoxicity and potentially reduced ototoxicity compared to multiple daily doses) provide a pharmacokinetic model for the 'well-deployed boundary' principle — and whether the mechanism of protection is specifically the prevention of tissue accumulation beyond saturation threshold. This would provide Tier 1 support for the claim that duration/peak management is the architectural key, and could ground the cross-scale pattern in a testable pharmacological framework.' but Pearl couldn't gro",
+      "filename": "pearl-research-the-saturation-threshold-as-architectural-key-once-daily-am.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2664,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
