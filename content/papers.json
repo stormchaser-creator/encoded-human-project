@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T06:00:00.725Z",
-  "total": 616,
+  "generated": "2026-04-06T07:00:01.070Z",
+  "total": 617,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13300,6 +13300,28 @@
       "density": "body",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-cycling-sensitivity-and-the-recovery-window-a-cross-densi",
+      "title": "Cycling, Sensitivity, and the Recovery Window: A Cross-Density Model of Periodic Protocol Architecture",
+      "abstract": "Focus: Users asked about 'peptide protocol guide stacking annual cycling 8 weeks on off' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-cycling-sensitivity-and-the-recovery-window-a-cross-densi.md",
+      "fileDate": "2026-04-05",
+      "wordCount": 2790,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
