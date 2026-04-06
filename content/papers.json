@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T20:06:08.297Z",
-  "total": 633,
+  "generated": "2026-04-06T21:00:00.719Z",
+  "total": 634,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13657,6 +13657,28 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-biophotonic-emission-as-dissipative-structure-substrate-neu",
+      "title": "Biophotonic Emission as Dissipative Structure Substrate: Neural Correlates and the Transduction Hypothesis",
+      "abstract": "Focus: Users asked about 'biophotonic emission neural correlates dissipative structure' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-biophotonic-emission-as-dissipative-structure-substrate-neu.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2446,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
