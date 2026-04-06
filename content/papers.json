@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T10:00:00.846Z",
-  "total": 620,
+  "generated": "2026-04-06T11:00:00.768Z",
+  "total": 621,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13387,6 +13387,26 @@
       "operations": [
         "regulation",
         "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-undiagnosed-interior-structural-blindspots-as-a-cross-s",
+      "title": "The Undiagnosed Interior: Structural Blindspots as a Cross-Scale Organizing Principle from Megalin Kinetics to Cognitive Architecture",
+      "abstract": "Focus: Users asked about 'Direct retrieval and encoding of the three missing papers is the single highest-priority action. Secondary: search for studies measuring megalin expression dynamics following aminoglycoside exposure to test active vs. passive saturation. Tertiary: formalize the cross-scale threshold model mathematically to test whether cortical wiring efficiency data and HPA predictability data share transfer function parameters with published megalin kinetic data.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-the-undiagnosed-interior-structural-blindspots-as-a-cross-s.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2758,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "restoration"
       ],
       "epistemicCeiling": "hypothesis",
