@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T19:00:01.077Z",
-  "total": 671,
+  "generated": "2026-04-07T20:00:00.703Z",
+  "total": 672,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14448,6 +14448,26 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-temporal-signal-architecture-in-rrms-designing-a-longitudin",
+      "title": "Temporal Signal Architecture in RRMS: Designing a Longitudinal MSDA Study as a Phase-Space Mapping Problem",
+      "abstract": "Focus: Users asked about 'Design a longitudinal sampling study in relapsing-remitting MS patients collecting serum at fixed time-of-day intervals (weekly or biweekly) across a 12-month period, analyzing MSDA scores for temporal autocorrelation structure, pathway-specific leading/lagging indicators of clinical relapse, and minimum detectable signal change relative to within-patient biological noise floor. Include a home collection arm with dried blood spots to test real-world pre-analytical robustness.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-temporal-signal-architecture-in-rrms-designing-a-longitudin.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2784,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
