@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T12:15:27.168Z",
-  "total": 657,
+  "generated": "2026-04-07T13:00:00.885Z",
+  "total": 658,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14156,13 +14156,33 @@
       "abstract": "Cross-domain correspondence between ancient phenomenological frameworks and contemporary neurobiology of consciousness has been asserted informally for decades, yet no validated, reproducible scoring instrument exists to evaluate whether such correspondences are substantive or merely rhetorical. [INTERPRETATION] This paper introduces the Four-Criterion Isomorphism Instrument (FCII), a rubric-based tool designed to score structural correspondence — not causal identity and not explanatory reduction — between first-person phenomenological descriptions and neurobiological constructs. The instrumen",
       "filename": "a-four-criterion-isomorphism-instrument-for-evaluating-cross.md",
       "fileDate": "2026-04-07",
-      "wordCount": 6669,
+      "wordCount": 7000,
       "type": "research-paper",
       "density": "spirit",
       "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-epistemic-architecture-of-pearls-knowledge-base-how-fa",
+      "title": "The Epistemic Architecture of Pearl's Knowledge Base: How FACT, HYPOTHESIS, and SPECULATION Map Onto Tier, Confidence, and Density",
+      "abstract": "Focus: Users asked about 'epistemic tier labeling FACT HYPOTHESIS SPECULATION classification criteria' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-epistemic-architecture-of-pearls-knowledge-base-how-fa.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2248,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
