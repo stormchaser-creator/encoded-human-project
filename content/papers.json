@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T04:05:34.170Z",
-  "total": 644,
+  "generated": "2026-04-07T05:00:00.778Z",
+  "total": 646,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13890,6 +13890,46 @@
       "operations": [
         "conduction",
         "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "ancient-phenomenology-v2",
+      "title": "Ancient Phenomenology as Neuroscience Prediction Engine: Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Modern Neurobiology",
+      "abstract": "Whitney, E.D. The Encoded Human Research Engine — Pearl Draft v2 — 2026-04-07",
+      "filename": "ancient-phenomenology-v2.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 4786,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "ancient-phenomenology-as-neuroscience-prediction-engine-v6-clean",
+      "title": "Ancient Phenomenology as Neuroscience Prediction Engine — v6 (Clean)",
+      "abstract": "Whitney, E.D. The Encoded Human Research Engine — Pearl Draft v6 — 2026-04-07",
+      "filename": "ancient-phenomenology-as-neuroscience-prediction-engine-v6-clean.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 5638,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
