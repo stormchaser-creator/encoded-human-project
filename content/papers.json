@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T07:00:01.018Z",
-  "total": 648,
+  "generated": "2026-04-07T08:00:00.764Z",
+  "total": 649,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13973,6 +13973,28 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-th2-tc-immune-axis-as-a-control-system-attractor-in-mpm",
+      "title": "The TH2/TC Immune Axis as a Control System Attractor in MPM: Why Cellular Balance Outperforms Molecular Biomarkers",
+      "abstract": "Focus: 'TH2 and TC cell abundance are clinically relevant immune fractions associated with overall survival in MPM patients' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-th2-tc-immune-axis-as-a-control-system-attractor-in-mpm.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2201,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
