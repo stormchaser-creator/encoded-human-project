@@ -1,7 +1,8 @@
 # Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation
 
 *Eric Whitney, DO*
-*The Encoded Human Research Engine — Pearl*
+*Independent Researcher, The Encoded Human Project*
+*Correspondence: stormchaser@elryx.com*
 *April 2026*
 
 ---
@@ -287,6 +288,24 @@ The methodological contribution is the directional procedure itself, the demonst
 
 ---
 
+## Competing Interests
+
+The author declares no competing financial interests. The Encoded Human Research Engine (Pearl) is a research tool developed as part of this project.
+
+## Data Availability
+
+Scored corpus files (JSON), raw Phase 1 extraction notes, and the biological reference corpus abstracts are available from the corresponding author upon reasonable request.
+
+## Author Contributions
+
+E.W. conceived and designed the four-criterion isomorphism instrument, conducted Phase 1 text analysis (neutral cognitive vocabulary extraction), performed Phase 2 biological literature review, scored all five corpora, conducted statistical analyses, and wrote the manuscript.
+
+## Acknowledgments
+
+The Encoded Human Research Engine (Pearl), a large language model-based research platform, assisted with literature review and corpus analysis. Sanskrit text analysis benefited from scholarly translations by Bryant (2009) and Hartranft (2003). Pāli text analysis drew on Bodhi (2012) and Karunadasa (2010).
+
+---
+
 ## References
 
 1. Lazar SW, Kerr CE, Wasserman RH, et al. Meditation experience is associated with increased cortical thickness. *Neuroreport*. 2005;16(17):1893-1897. doi:10.1097/01.wnr.0000186598.66243.19
@@ -320,4 +339,6 @@ The methodological contribution is the directional procedure itself, the demonst
 15. Dentico D, Ferrarelli F, Riedner BA, et al. Short meditation trainings enhance non-REM sleep low-frequency oscillations. *PLoS One*. 2016;11(2):e0148961. doi:10.1371/journal.pone.0148961
 
 16. Bodhi B. *A Comprehensive Manual of Abhidhamma: The Abhidhammattha Sangaha*. Kandy: Buddhist Publication Society; 2012.
+
+17. Karunadasa Y. *The Theravada Abhidhamma: Its Inquiry into the Nature of Conditioned Reality*. Hong Kong: Center of Buddhist Studies, University of Hong Kong; 2010.
 

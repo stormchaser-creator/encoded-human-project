@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T17:00:00.837Z",
-  "total": 668,
+  "generated": "2026-04-07T18:00:00.830Z",
+  "total": 670,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14295,10 +14295,10 @@
     {
       "slug": "ancient-phenomenology-v9-submission",
       "title": "Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation",
-      "abstract": "Eric Whitney, DO The Encoded Human Research Engine — Pearl April 2026",
+      "abstract": "Eric Whitney, DO Independent Researcher, The Encoded Human Project Correspondence: stormchaser@elryx.com April 2026",
       "filename": "ancient-phenomenology-v9-submission.md",
       "fileDate": "2026-04-07",
-      "wordCount": 6819,
+      "wordCount": 6980,
       "type": "research-paper",
       "density": "body",
       "operations": [
@@ -14383,6 +14383,46 @@
       "filename": "pearl-research-temporal-gating-of-2-adrenergic-receptor-modulation-of-nlrp.md",
       "fileDate": "2026-04-07",
       "wordCount": 3033,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "biorxiv-submission-guide",
+      "title": "bioRxiv Submission Guide",
+      "abstract": "- Title: Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation - Author: Eric Whitney, DO - Affiliation: Independent Researcher, The Encoded Human Project - Correspondence: stormchaser@elryx.com - PDF location: outputs/papers/isomorphism-pilot/ancient-phenomenology-v9-submission.pdf",
+      "filename": "biorxiv-submission-guide.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 210,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-timing-as-filter-how-temporal-windows-determine-whether-bio",
+      "title": "Timing as Filter: How Temporal Windows Determine Whether Biological and Psychological Interventions Produce Cascade Effects or Ceiling Effects",
+      "abstract": "Focus: Users asked about 'Before the full factorial, run a dose-response and timing validation pilot: treat LPS-primed astrocytes with a single α2-AR agonist concentration at each timepoint (0h, 2h, 4h) and measure all four readouts simultaneously to establish which timing window produces the largest effect size — this will power the factorial appropriately and reveal whether the mechanism is fundamentally timing-dependent (supporting the cascade-architecture hypothesis) or timing-insensitive (suggesting a single dominant mechanism).' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-timing-as-filter-how-temporal-windows-determine-whether-bio.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2456,
       "type": "research-paper",
       "density": "body",
       "operations": [
