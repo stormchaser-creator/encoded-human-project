@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T00:00:00.666Z",
-  "total": 637,
+  "generated": "2026-04-07T01:00:00.779Z",
+  "total": 638,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13745,6 +13745,26 @@
       "operations": [
         "transduction",
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-cohens-kappa-as-a-signal-processing-metric-inter-rater-rel",
+      "title": "Cohen's Kappa as a Signal-Processing Metric: Inter-Rater Reliability in Qualitative Text Coding of Ancient Texts",
+      "abstract": "Focus: Users asked about 'Cohen's kappa inter-rater reliability qualitative text coding ancient texts' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-cohens-kappa-as-a-signal-processing-metric-inter-rater-rel.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2467,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
