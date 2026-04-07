@@ -81,7 +81,7 @@ Here's the setup: Chapters I–V of this text describe mental factors, cognitive
 - **Consciousness chapters (I–V): 33.3% Tier A** (5 out of 15 units)
 - **Matter chapters (VI): 0% Tier A** (zero out of 12 units)
 
-The convergence is stunning. Two completely independent contemplative traditions—separated by geography, language, epoch, and religious framework—produce nearly identical survival rates (30.3% and 33.3%) when their consciousness-specific claims are tested against modern neurobiology.
+The convergence is striking. Two completely independent contemplative traditions—separated by geography, language, epoch, and religious framework—produce nearly identical survival rates (30.3% and 33.3%, pending replication across additional traditions) when their consciousness-specific claims are tested against modern neurobiology.
 
 And they both drop to zero when you test claims from the same text that address matter instead of consciousness.
 
@@ -149,9 +149,9 @@ Modern neuroscience doesn't have an established paradigm for this. It's the fron
 
 ---
 
-## Ten Specific Claims That Crossed the Threshold
+## Six Claims That Generated the Most Interest
 
-From Patanjali and the Abhidhamma combined, here are the Tier A claims that generated the most interest:
+Fifteen units across both traditions scored Tier A — all four criteria met. Here are six that generated the most interest:
 
 1. **Dissociable neural pathways to absorption** (A-007): Devotion and breath control might activate different neural routes but converge on the same absorptive state. Testable.
 
@@ -184,6 +184,16 @@ What this DOES suggest:
 - These categories constitute a legitimate source of hypothesis generation
 - The instrument we've developed can discriminate between genuine correspondence and post-hoc pattern-matching
 - Two completely independent traditions producing nearly identical results (30.3% and 33.3% Tier A) suggests a real signal, not coincidence
+
+### What We Don't Know Yet
+
+This is preliminary work, and we're being rigorous about the gaps:
+
+- **Single-rater scoring:** Our isomorphism instrument used automated (single-rater) scoring. This needs validation against independent human raters before claiming full robustness.
+- **Reference corpus bias:** The corpus was drawn from a curated knowledge base, not a systematic literature review. Selection bias is possible.
+- **Small sample sizes:** Our Abhidhamma corpus was n=15 for consciousness chapters and n=12 for matter chapters. Replication with larger corpora is essential.
+- **Convergence needs testing:** The striking convergence (30.3% and 33.3% Tier A) is suggestive, but needs replication across additional contemplative traditions (Sufi, Christian contemplative, etc.) before we can claim it's a universal signal rather than a quirk of these two.
+- **All predictions remain untested:** The instrument generates hypotheses, not confirmations. Every single proposed experiment in our research program is still in the design phase.
 
 ---
 

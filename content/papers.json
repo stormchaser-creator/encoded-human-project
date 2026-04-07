@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T16:00:00.714Z",
-  "total": 667,
+  "generated": "2026-04-07T17:00:00.837Z",
+  "total": 668,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14341,7 +14341,7 @@
       "abstract": "Here's a strange historical accident: In the fourth century CE, a contemplative named Patanjali sat down and systematically described the different states of mind that arise during deep meditation. He didn't have an MRI. He didn't have an EEG. He had 2,000 years of introspective practice encoded in his tradition, his own direct experience, and a gift for categorical precision.",
       "filename": "ancient-phenomenology-substack.md",
       "fileDate": "2026-04-07",
-      "wordCount": 3158,
+      "wordCount": 3315,
       "type": "research-paper",
       "density": "spirit",
       "operations": [
@@ -14367,6 +14367,26 @@
       "operations": [
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-temporal-gating-of-2-adrenergic-receptor-modulation-of-nlrp",
+      "title": "Temporal Gating of α2-Adrenergic Receptor Modulation of NLRP3 Inflammasome Assembly in LPS-Primed Murine Astrocytes: A Factorial Architecture for Mapping Nucleation vs. Disassembly",
+      "abstract": "Focus: Users asked about 'Design a 3×3 factorial experiment in LPS-primed primary murine astrocytes: (rows) α2-AR agonist added at 0h (pre-LPS), 2h (post-LPS, pre-ATP), or 4h (post-ATP/post-assembly); (columns) vehicle, H-89, LY294002, or BAY11-7082. Readouts: IL-1β secretion (ELISA), ASC speck number and area (confocal imaging with ASC-mCherry), caspase-1 activity (FAM-YVAD-FMK), and NLRP3/ASC proximity ligation assay. The interaction between timing and inhibitor sensitivity will definitively map cascade architecture and identify the nucleation vs. disassembly question.' but Pearl couldn't gr",
+      "filename": "pearl-research-temporal-gating-of-2-adrenergic-receptor-modulation-of-nlrp.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 3033,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
