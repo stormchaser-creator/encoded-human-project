@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T20:00:00.703Z",
-  "total": 672,
+  "generated": "2026-04-07T21:00:00.634Z",
+  "total": 673,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14468,6 +14468,27 @@
       "density": "body",
       "operations": [
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-temporal-stability-architecture-in-ms-biomarker-signals-aut",
+      "title": "Temporal Stability Architecture in MS Biomarker Signals: Autocorrelation, DBS-Serum Concordance, and the Sampling Frequency Problem in RRMS Remission Monitoring",
+      "abstract": "Focus: Users asked about 'Pilot study: 10 stable RRMS patients, weekly serum + simultaneous DBS for 12 weeks during confirmed remission, analyzing MSDA pathway scores for (1) within-patient coefficient of variation by pathway, (2) lag-1 to lag-6 autocorrelation structure, (3) DBS-serum concordance coefficients. This calibration-only pilot would generate the empirical parameters necessary to power the full 12-month relapse-prediction study and determine whether weekly or biweekly sampling is sufficient given the observed autocorrelation decay rates.' but Pearl couldn't ground the answer Confide",
+      "filename": "pearl-research-temporal-stability-architecture-in-ms-biomarker-signals-aut.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2833,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
