@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T10:00:00.717Z",
-  "total": 651,
+  "generated": "2026-04-07T11:00:00.768Z",
+  "total": 652,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14037,6 +14037,28 @@
       "operations": [
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-calibrated-aperture-how-selective-transparency-regulate",
+      "title": "The Calibrated Aperture: How Selective Transparency Regulates Relational Coherence Across Scales",
+      "abstract": "Focus: 'Fostering Therapeutic/Medical Rapport through Limited Personal Transparency' has 7 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-calibrated-aperture-how-selective-transparency-regulate.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2746,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
