@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T08:00:00.764Z",
-  "total": 649,
+  "generated": "2026-04-07T09:00:00.723Z",
+  "total": 650,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13998,6 +13998,27 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-attractor-state-immunology-in-mpm-why-the-evidence-gap-itse",
+      "title": "Attractor-State Immunology in MPM: Why the Evidence Gap Itself Is Structurally Informative — A Cross-Density Research Synthesis",
+      "abstract": "Focus: Users asked about 'Systematic review and meta-analysis integrating all available MPM immune profiling datasets to validate the three-cluster architecture across independent cohorts, followed by functional experiments testing whether IL-4/IL-13 pathway blockade in MPM models shifts TH2/TC balance and potentiates ICB response — this would directly test the attractor-escape therapeutic hypothesis.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-attractor-state-immunology-in-mpm-why-the-evidence-gap-itse.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2359,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
