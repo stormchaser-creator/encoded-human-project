@@ -2,7 +2,7 @@
 
 *Whitney, E.D.*
 *The Encoded Human Research Engine — Pearl*
-*Draft v8 — 2026-04-07*
+*April 2026*
 
 ---
 
@@ -10,7 +10,7 @@
 
 Classical phenomenological systems developed through sustained introspective practice may encode regularities about mental state-space that retain correspondence with independently derived neurobiological constructs. We develop and apply a four-criterion isomorphism instrument — Functional Isomorphism (C1), Independent Derivation (C2), Non-Trivial Predictive Constraint (C3), and Asymmetric Disconfirmation (C4) — to evaluate whether such correspondence is systematic rather than incidental. The instrument enforces directionality by requiring neutral cognitive descriptions to be extracted from phenomenological texts prior to any consultation of the neurobiological reference corpus.
 
-In a preliminary three-corpus pilot study, 33 claim units extracted from Patanjali's Yoga Sutras (I.17–I.51) were scored alongside two negative control corpora: Charaka Samhita (n=33) and Hero of Alexandria's Pneumatica (n=30). Tier A classification (all four criteria met) was achieved by 30.3% of Patanjali units versus 0% for both controls (Fisher's exact, p<0.001). A second within-tradition pilot applied the same instrument to the Theravāda Abhidhammattha-Saṅgaha: 15 consciousness-specific units from Chapters I–V achieved 33.3% Tier A, while 12 matter-analysis units from Chapter VI (Rūpa) achieved 0%. Two independent consciousness taxonomies thus converge at approximately 30–33% Tier A, while all domain-mismatched controls — whether cross-tradition or within-tradition — produce 0%.
+In a preliminary three-corpus pilot study, 33 claim units extracted from Patanjali's Yoga Sutras (I.17–I.51) were scored alongside two negative control corpora: Charaka Samhita (n=33) and Hero of Alexandria's Pneumatica (n=33). Tier A classification (all four criteria met) was achieved by 30.3% of Patanjali units versus 0% for both controls (Fisher's exact, p<0.001). A second within-tradition pilot applied the same instrument to the Theravāda Abhidhammattha-Saṅgaha: 15 consciousness-specific units from Chapters I–V achieved 33.3% Tier A, while 12 matter-analysis units from Chapter VI (Rūpa) achieved 0%. Two independent consciousness taxonomies thus converge at approximately 30–33% Tier A, while all domain-mismatched controls — whether cross-tradition or within-tradition — produce 0%.
 
 The primary selectivity mechanism operates at Criterion 1 — domain boundary with consciousness-specific neurobiology — rather than at Criterion 2 (Independent Derivation), demonstrating that the instrument discriminates between consciousness-directed phenomenological systems and biologically coherent but domain-mismatched alternatives. Five mapping domains are presented with retrospective isomorphisms distinguished from prospective predictions: attentional hierarchy, default mode dynamics, interoceptive processing, state-dependent memory, and cognitive effort. Specific experimental designs are proposed for the highest-priority Tier A pairs. The pratyahara domain is identified as a candidate where phenomenological description outpaces available neuroscientific measurement tools.
 
@@ -78,7 +78,7 @@ Mappings meeting all four criteria are classified as **Tier A**. Mappings meetin
 
 To empirically validate the instrument, two pilot studies were conducted.
 
-**Pilot 1 — Cross-Tradition Comparison.** 33 discrete functional claim units were extracted from Yoga Sutras I.17–I.51 (Corpus A). Two negative control corpora were constructed: Charaka Samhita (Corpus B, n=33 units from the Ayurvedic medical tradition) and Hero of Alexandria's Pneumatica (Corpus C, n=30 units from classical Greco-Roman engineering). The biological reference corpus contained entries on neural mechanisms of consciousness drawn from the project knowledge base. Each claim unit in all three corpora was scored on all four criteria by an automated scoring agent (Claude Sonnet 4.6).
+**Pilot 1 — Cross-Tradition Comparison.** 33 discrete functional claim units were extracted from Yoga Sutras I.17–I.51 (Corpus A). Two negative control corpora were constructed: Charaka Samhita (Corpus B, n=33 units from the Ayurvedic medical tradition) and Hero of Alexandria's Pneumatica (Corpus C, n=33 units from classical Greco-Roman engineering). The biological reference corpus contained entries on neural mechanisms of consciousness drawn from the project knowledge base. Each claim unit in all three corpora was scored on all four criteria by an automated scoring agent (Claude Sonnet 4.6).
 
 **Pilot 2 — Within-Tradition Comparison.** To test whether the instrument discriminates by domain content rather than by tradition of origin, a second pilot applied the identical procedure to the Theravāda Abhidhammattha-Saṅgaha [16]. Corpus D consisted of 15 consciousness-specific claim units extracted from Chapters I–V (Citta, Cetasika, Pakiṇṇaka, Vīthi, and Vīthimutta — covering mental factors, cognitive sequences, and absorptive states). Corpus E consisted of 12 matter-analysis units extracted from Chapter VI (Rūpa — covering material form, derived materiality, and physical bases). Both corpora were extracted using the same directionality safeguard as Pilot 1: neutral cognitive vocabulary, no neurobiological terms, prior to any reference corpus consultation. An independent validation of Corpus D confirmed zero directionality contamination across all 15 units.
 
@@ -140,7 +140,7 @@ Across five domains, two mappings (attentional hierarchy and self-referential pr
 
 **Corpus B (Traditional Medicine — Charaka):** 33 claim units from the Charaka Samhita, the foundational Ayurvedic medical text (circa 100–200 CE). Claims included tridosha regulatory theory, disease etiologies, and treatment rationales.
 
-**Corpus C (Classical Engineering — Hero):** 30 claim units from Hero of Alexandria's Pneumatica (circa 50 CE), covering pneumatic mechanisms, hydraulic principles, and mechanical devices.
+**Corpus C (Classical Engineering — Hero):** 33 claim units from Hero of Alexandria's Pneumatica (circa 50 CE), covering pneumatic mechanisms, hydraulic principles, and mechanical devices.
 
 The biological reference corpus contained entries on neural mechanisms of consciousness, attention, self-referential processing, oscillatory binding, interoception, and altered states.
 
@@ -150,7 +150,7 @@ Tier A classification (all four criteria met) was achieved by:
 
 - Corpus A (Patanjali): 10/33 units — **30.3%**
 - Corpus B (Charaka): 0/33 units — **0.0%**
-- Corpus C (Hero): 0/30 units — **0.0%**
+- Corpus C (Hero): 0/33 units — **0.0%**
 
 Fisher's exact test: A vs. B, p < 0.001; A vs. C, p < 0.001; B vs. C, p = 1.000.
 
@@ -203,7 +203,7 @@ The Theravāda Abhidhammattha-Saṅgaha [16] provides an ideal test case. Chapte
 Corpus D (Abhidhamma consciousness, Chapters I–V): 5/15 units — **33.3%** Tier A
 Corpus E (Abhidhamma matter, Chapter VI): 0/12 units — **0.0%** Tier A
 
-Fisher's exact test: D vs. E, p = 0.028.
+Fisher's exact test: D vs. E, p = 0.047.
 
 #### 4.4.3 Five Tier A Abhidhamma Units
 
@@ -279,7 +279,7 @@ This analysis does not demonstrate that Patanjali's framework is neurobiological
 
 This paper developed and applied a four-criterion isomorphism instrument (C1: Functional Isomorphism, C2: Independent Derivation, C3: Non-Trivial Predictive Constraint, C4: Asymmetric Disconfirmation) to evaluate cross-domain correspondence between classical phenomenology and contemporary neurobiology. Qualitative mapping produced two strong retrospective correspondences, one moderate prospective correspondence, and two weak-to-speculative mappings across five domains of Patanjali's Yoga Sutras.
 
-Two pilot studies provided quantitative validation. In Pilot 1, 30.3% of Patanjali units achieved Tier A (all four criteria met) versus 0% for both negative controls (p<0.001), with the selectivity mechanism operating at the domain boundary (Criterion 1) rather than at independent derivation (Criterion 2). In Pilot 2, consciousness-specific chapters of the Theravāda Abhidhammattha-Saṅgaha achieved 33.3% Tier A while matter-analysis chapters of the same text achieved 0% (p=0.028), demonstrating that the instrument discriminates by domain content rather than by tradition of origin.
+Two pilot studies provided quantitative validation. In Pilot 1, 30.3% of Patanjali units achieved Tier A (all four criteria met) versus 0% for both negative controls (p<0.001), with the selectivity mechanism operating at the domain boundary (Criterion 1) rather than at independent derivation (Criterion 2). In Pilot 2, consciousness-specific chapters of the Theravāda Abhidhammattha-Saṅgaha achieved 33.3% Tier A while matter-analysis chapters of the same text achieved 0% (p=0.047), demonstrating that the instrument discriminates by domain content rather than by tradition of origin.
 
 The convergence of two independent consciousness traditions at approximately 30–33% Tier A, against 0% for all controls, suggests a natural range for the proportion of structured phenomenological claims that survive formal cross-domain evaluation against consciousness neurobiology. The strongest surviving pairs — from Patanjali, the cortical-integration/memory-consolidation dissociation (A-002), samapatti transparency predicting domain-general gamma mirroring (A-023), and dominant trace suppression predicting heterosynaptic STDP effects (A-032, moderate-to-speculative); from the Abhidhamma, the invariant jhāna factor-elimination sequence (ADH-003) and the content-substrate tranquillity dissociation (ADH-013) — generate specific, falsifiable predictions testable with existing neuroscientific methods.
 
@@ -321,6 +321,3 @@ The methodological contribution is the directional procedure itself, the demonst
 
 16. Bodhi B. *A Comprehensive Manual of Abhidhamma: The Abhidhammattha Sangaha*. Kandy: Buddhist Publication Society; 2012.
 
----
-
-*Version note: v8 adds quantitative prospective predictions to the two strongest Abhidhamma Tier A units (ADH-003 and ADH-013) to match the standard set by Patanjali units. All other content is unchanged from v7, which integrated the Abhidhamma within-tradition pilot (Sections 4.4, 5.2) into the validated v6 base. The Patanjali pilot data, five qualitative domain mappings, and 15 PubMed-verified references are unchanged from v6. Abhidhamma extraction was performed by Pearl using the same directionality protocol; an independent validation confirmed zero directionality contamination. The 15-unit Abhidhamma consciousness corpus is reported as validated; expansion to 33 units is planned for the replication study.*

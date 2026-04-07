@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T14:00:00.696Z",
-  "total": 662,
+  "generated": "2026-04-07T15:00:01.005Z",
+  "total": 665,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14213,10 +14213,10 @@
     {
       "slug": "ancient-phenomenology-v7-integrated",
       "title": "Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation",
-      "abstract": "Whitney, E.D. The Encoded Human Research Engine — Pearl Draft v7 — 2026-04-07",
+      "abstract": "Whitney, E.D. The Encoded Human Research Engine — Pearl Draft v8 — 2026-04-07",
       "filename": "ancient-phenomenology-v7-integrated.md",
       "fileDate": "2026-04-07",
-      "wordCount": 6781,
+      "wordCount": 6921,
       "type": "research-paper",
       "density": "body",
       "operations": [
@@ -14262,6 +14262,70 @@
       "density": "body",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "ancient-phenomenology-v8-final",
+      "title": "Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation",
+      "abstract": "Whitney, E.D. The Encoded Human Research Engine — Pearl Draft v8 — 2026-04-07",
+      "filename": "ancient-phenomenology-v8-final.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 6921,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "ancient-phenomenology-v9-submission",
+      "title": "Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation",
+      "abstract": "Whitney, E.D. The Encoded Human Research Engine — Pearl April 2026",
+      "filename": "ancient-phenomenology-v9-submission.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 6818,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-2-adrenoceptor-as-a-master-brake-on-astrocyte-pyroptosi",
+      "title": "The α2-Adrenoceptor as a Master Brake on Astrocyte Pyroptosis: From Receptor Confirmation to DAMP Cascade Control",
+      "abstract": "Focus: 'α2-adrenoceptor antagonist atipamezole abolishes the neuroprotective effects of dexmedetomidine, confirming α2-adrenoceptor-mediated protection.' has 6 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-2-adrenoceptor-as-a-master-brake-on-astrocyte-pyroptosi.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2388,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "reception",
+        "transduction",
+        "conduction"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
