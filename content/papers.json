@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T21:00:00.634Z",
-  "total": 673,
+  "generated": "2026-04-07T22:00:00.684Z",
+  "total": 674,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14488,6 +14488,26 @@
       "density": "body",
       "operations": [
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-prior-distributions-for-dbs-concordance-inferring-analyte-c",
+      "title": "Prior Distributions for DBS Concordance: Inferring Analyte-Class Compatibility from Structural Analogy When Direct Evidence Is Absent",
+      "abstract": "Focus: Users asked about 'Systematic review of existing DBS concordance studies for the specific analyte classes included in MSDA panels (complement, cytokines, chemokines, neurofilaments, lipid metabolites) to build an informed prior distribution for concordance coefficients before the pilot launches — this would allow Bayesian power calculations rather than purely frequentist ones, and could identify which pathways are already known to be DBS-incompatible (saving analytic resources in the pilot).' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-prior-distributions-for-dbs-concordance-inferring-analyte-c.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2379,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
