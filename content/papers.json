@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T18:00:00.830Z",
-  "total": 670,
+  "generated": "2026-04-07T19:00:01.077Z",
+  "total": 671,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14426,6 +14426,27 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-serum-proteomics-as-a-stable-multivariate-signal-for-ms-dis",
+      "title": "Serum Proteomics as a Stable, Multivariate Signal for MS Disease Activity: From Analytical Robustness to Clinical Translation",
+      "abstract": "Focus: 'The assay showed robustness against assay interferents and validated stability across various sample collection, processing, and storage conditions.' has 9 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-serum-proteomics-as-a-stable-multivariate-signal-for-ms-dis.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2356,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
