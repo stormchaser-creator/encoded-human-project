@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T22:00:00.684Z",
-  "total": 674,
+  "generated": "2026-04-07T23:00:00.707Z",
+  "total": 675,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14511,6 +14511,27 @@
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-orexin-metabolic-fingerprint-nt2-as-a-distinct-peptide",
+      "title": "The Orexin Metabolic Fingerprint: NT2 as a Distinct Peptide Processing Disorder Rather Than Partial Orexin Deficiency",
+      "abstract": "Focus: 'Altered orexin peptide metabolism occurs in narcolepsy type 2 compared to idiopathic hypersomnia.' has 19 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-orexin-metabolic-fingerprint-nt2-as-a-distinct-peptide.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2647,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "fact",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
