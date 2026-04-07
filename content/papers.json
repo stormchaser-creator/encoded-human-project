@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T03:00:00.783Z",
-  "total": 643,
+  "generated": "2026-04-07T04:05:34.170Z",
+  "total": 644,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13251,10 +13251,10 @@
     {
       "slug": "reach-pipeline-epistemic-judge-integration-spec",
       "title": "Reach Pipeline — Epistemic Judge Integration Spec",
-      "abstract": "Version: 1.0 Date: 2026-04-06 Author: Pearl For: Code Status: Ready to build",
+      "abstract": "Date: 2026-04-06 Author: Pearl Status: Filed for Code implementation Priority: High",
       "filename": "reach-pipeline-epistemic-judge-integration-spec.md",
-      "fileDate": "2026-04-06",
-      "wordCount": 1653,
+      "fileDate": "2026-04-07",
+      "wordCount": 1305,
       "type": "research-paper",
       "density": "body",
       "operations": [
@@ -13872,6 +13872,27 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-predictive-architectures-across-scales-how-ancient-phenomen",
+      "title": "Predictive Architectures Across Scales: How Ancient Phenomenological Maps (Yoga Sutras) Anticipate Modern Neuroscience's Predictive Processing Framework",
+      "abstract": "Focus: Users asked about 'ancient phenomenology neuroscience prediction Yoga Sutras isomorphism' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-predictive-architectures-across-scales-how-ancient-phenomen.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2542,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
