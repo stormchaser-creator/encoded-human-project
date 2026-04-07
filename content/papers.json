@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T09:00:00.723Z",
-  "total": 650,
+  "generated": "2026-04-07T10:00:00.717Z",
+  "total": 651,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14019,6 +14019,27 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-cross-domain-signal-harmonization-what-mpm-immune-profiling",
+      "title": "Cross-Domain Signal Harmonization: What MPM Immune Profiling Gaps Reveal About Computational Re-Analysis Methodology Across Heterogeneous Biomedical Datasets",
+      "abstract": "Focus: Users asked about 'Systematic computational re-analysis: download all available MPM immune profiling raw data from public repositories (GEO, ArrayExpress, TCGA immune deconvolution outputs), apply a single harmonized pipeline (Seurat/Harmony or scVI for scRNA-seq; CIBERSORT for bulk), and test cluster reproducibility with adjusted Rand index across cohorts. This directly tests Hypothesis B and either validates or invalidates the substrate for Hypothesis A's experimental predictions.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-cross-domain-signal-harmonization-what-mpm-immune-profiling.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2530,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
