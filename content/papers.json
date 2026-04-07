@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T13:00:00.885Z",
-  "total": 658,
+  "generated": "2026-04-07T14:00:00.696Z",
+  "total": 662,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14156,7 +14156,7 @@
       "abstract": "Cross-domain correspondence between ancient phenomenological frameworks and contemporary neurobiology of consciousness has been asserted informally for decades, yet no validated, reproducible scoring instrument exists to evaluate whether such correspondences are substantive or merely rhetorical. [INTERPRETATION] This paper introduces the Four-Criterion Isomorphism Instrument (FCII), a rubric-based tool designed to score structural correspondence — not causal identity and not explanatory reduction — between first-person phenomenological descriptions and neurobiological constructs. The instrumen",
       "filename": "a-four-criterion-isomorphism-instrument-for-evaluating-cross.md",
       "fileDate": "2026-04-07",
-      "wordCount": 7000,
+      "wordCount": 7002,
       "type": "research-paper",
       "density": "spirit",
       "operations": [
@@ -14178,6 +14178,87 @@
       "fileDate": "2026-04-07",
       "wordCount": 2248,
       "type": "framework",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "ancient-phenomenology-v7-fixed",
+      "title": "A Four-Criterion Isomorphism Instrument for Evaluating Cross-Domain Correspondence Between Ancient Phenomenology and Neurobiology of Consciousness: Pilot Application with Cross-Tradition and Within-Tradition Controls",
+      "abstract": "Cross-domain correspondence between ancient phenomenological frameworks and contemporary neurobiology of consciousness has been asserted informally for decades, yet no validated, reproducible scoring instrument exists to evaluate whether such correspondences are substantive or merely rhetorical. [INTERPRETATION] This paper introduces the Four-Criterion Isomorphism Instrument (FCII), a rubric-based tool designed to score structural correspondence — not causal identity and not explanatory reduction — between first-person phenomenological descriptions and neurobiological constructs. The instrumen",
+      "filename": "ancient-phenomenology-v7-fixed.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 7002,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "ancient-phenomenology-v7-integrated",
+      "title": "Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation",
+      "abstract": "Whitney, E.D. The Encoded Human Research Engine — Pearl Draft v7 — 2026-04-07",
+      "filename": "ancient-phenomenology-v7-integrated.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 6781,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "v7-for-review",
+      "title": "A Four-Criterion Isomorphism Instrument for Evaluating Cross-Domain Correspondence Between Ancient Phenomenology and Neurobiology of Consciousness: Pilot Application with Cross-Tradition and Within-Tradition Controls",
+      "abstract": "Cross-domain correspondence between ancient phenomenological frameworks and contemporary neurobiology of consciousness has been asserted informally for decades, yet no validated, reproducible scoring instrument exists to evaluate whether such correspondences are substantive or merely rhetorical. [INTERPRETATION] This paper introduces the Four-Criterion Isomorphism Instrument (FCII), a rubric-based tool designed to score structural correspondence — not causal identity and not explanatory reduction — between first-person phenomenological descriptions and neurobiological constructs. The instrumen",
+      "filename": "v7-for-review.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 7002,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-signal-without-ground-how-ai-detection-systems-fail-at-the",
+      "title": "Signal Without Ground: How AI Detection Systems Fail at the Soil Problem",
+      "abstract": "Focus: Users asked about 'AI detection patterns academic writing generated text detection risk' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-signal-without-ground-how-ai-detection-systems-fail-at-the.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2607,
+      "type": "research-paper",
       "density": "body",
       "operations": [
         "synthesis"
