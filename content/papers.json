@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T11:00:00.768Z",
-  "total": 652,
+  "generated": "2026-04-07T12:15:27.168Z",
+  "total": 657,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14061,6 +14061,108 @@
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "abhidhamma-expansion-validation",
+      "title": "Abhidhamma Expansion Validation Report (D-016 through D-033)",
+      "abstract": "Validator: Claude Code (independent review) Date: 2026-04-07 Corpus reviewed: `scored-corpus-D.json`, units D-016 through D-033 (18 new units) Baseline: Original 15 units (D-001 through D-015) previously validated — 5/15 = 33.3% Tier A",
+      "filename": "abhidhamma-expansion-validation.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2694,
+      "type": "methodology",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "abhidhamma-validation-report",
+      "title": "Abhidhamma Pilot Extraction — Validation Report",
+      "abstract": "Validator: Claude Code (independent review) Date: 2026-04-07 Document reviewed: `abhidhamma-pilot-extraction-four-criterion-isomorphism-instrument-applied-to-abhidhammattha-sangaha-2026-04-07.docx` Overall assessment: PASS WITH REVISIONS REQUIRED",
+      "filename": "abhidhamma-validation-report.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2702,
+      "type": "methodology",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis"
+      ],
+      "epistemicCeiling": "interpretation",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "title-abstract-options",
+      "title": "Title and Abstract Options for v7",
+      "abstract": "Grok's review flagged that \"Ancient Phenomenology as Neuroscience Prediction Engine\" oversells what the paper demonstrates. The body is careful about retrospective vs. prospective, but the title leads with the stronger claim. Here are three options ranked by modesty:",
+      "filename": "title-abstract-options.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 681,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-bidirectional-white-matter-entropy-axial-diffusivity-as-a-d",
+      "title": "Bidirectional White Matter Entropy: Axial Diffusivity as a Directional Biomarker of ME/CFS Subtype Pathophysiology and Symptom Domain Specificity",
+      "abstract": "Focus: 'Lower axial diffusivity values in GO-ME/CFS are significantly associated with lower mental health summary scores in commissural and projection fibres.' has 8 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-bidirectional-white-matter-entropy-axial-diffusivity-as-a-d.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2366,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "a-four-criterion-isomorphism-instrument-for-evaluating-cross",
+      "title": "A Four-Criterion Isomorphism Instrument for Evaluating Cross-Domain Correspondence Between Ancient Phenomenology and Neurobiology of Consciousness: Pilot Application with Cross-Tradition and Within-Tradition Controls",
+      "abstract": "Cross-domain correspondence between ancient phenomenological frameworks and contemporary neurobiology of consciousness has been asserted informally for decades, yet no validated, reproducible scoring instrument exists to evaluate whether such correspondences are substantive or merely rhetorical. [INTERPRETATION] This paper introduces the Four-Criterion Isomorphism Instrument (FCII), a rubric-based tool designed to score structural correspondence — not causal identity and not explanatory reduction — between first-person phenomenological descriptions and neurobiological constructs. The instrumen",
+      "filename": "a-four-criterion-isomorphism-instrument-for-evaluating-cross.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 6669,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "interpretation",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
