@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T06:00:00.665Z",
-  "total": 647,
+  "generated": "2026-04-07T07:00:01.018Z",
+  "total": 648,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13950,6 +13950,27 @@
       "density": "spirit",
       "operations": [
         "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-integrity-paradox-how-scientific-publishings-incentive",
+      "title": "The Integrity Paradox: How Scientific Publishing's Incentive Architecture Systematically Produces the Fraud It Claims to Prevent",
+      "abstract": "Focus: Users asked about 'research integrity fabricated data scientific publishing ethics' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-integrity-paradox-how-scientific-publishings-incentive.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 3279,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "regulation",
         "synthesis"
       ],
