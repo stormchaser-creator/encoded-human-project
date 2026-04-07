@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T02:10:51.059Z",
-  "total": 642,
+  "generated": "2026-04-07T03:00:00.783Z",
+  "total": 643,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -13850,6 +13850,28 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-hpa-muscle-axis-corticosterone-as-a-neuroendocrine-tran",
+      "title": "The HPA-Muscle Axis: Corticosterone as a Neuroendocrine Transducer of Environmental Toxicant Load into Accelerated Musculoskeletal Aging",
+      "abstract": "Focus: 'Serum ACTH and CORT levels exhibit significant negative correlation with limb grip strength and gastrocnemius muscle index.' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-hpa-muscle-axis-corticosterone-as-a-neuroendocrine-tran.md",
+      "fileDate": "2026-04-06",
+      "wordCount": 2657,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
