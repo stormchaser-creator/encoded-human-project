@@ -1,6 +1,6 @@
 # Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation
 
-*Whitney, E.D.*
+*Eric Whitney, DO*
 *The Encoded Human Research Engine — Pearl*
 *April 2026*
 

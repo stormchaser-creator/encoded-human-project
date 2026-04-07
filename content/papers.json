@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T15:00:01.005Z",
-  "total": 665,
+  "generated": "2026-04-07T16:00:00.714Z",
+  "total": 667,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14295,10 +14295,10 @@
     {
       "slug": "ancient-phenomenology-v9-submission",
       "title": "Cross-Domain Isomorphism Between Patanjali's Yoga Sutras and Contemporary Neurobiology: A Four-Criterion Instrument and Preliminary Pilot Validation",
-      "abstract": "Whitney, E.D. The Encoded Human Research Engine — Pearl April 2026",
+      "abstract": "Eric Whitney, DO The Encoded Human Research Engine — Pearl April 2026",
       "filename": "ancient-phenomenology-v9-submission.md",
       "fileDate": "2026-04-07",
-      "wordCount": 6818,
+      "wordCount": 6819,
       "type": "research-paper",
       "density": "body",
       "operations": [
@@ -14326,6 +14326,47 @@
         "reception",
         "transduction",
         "conduction"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "ancient-phenomenology-substack",
+      "title": "What Ancient Meditation Masters Knew About Your Brain (And How We Proved It)",
+      "abstract": "Here's a strange historical accident: In the fourth century CE, a contemplative named Patanjali sat down and systematically described the different states of mind that arise during deep meditation. He didn't have an MRI. He didn't have an EEG. He had 2,000 years of introspective practice encoded in his tradition, his own direct experience, and a gift for categorical precision.",
+      "filename": "ancient-phenomenology-substack.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 3158,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-2-ar-nlrp3-suppression-mapping-the-intracellular-cascade",
+      "title": "α2-AR → NLRP3 Suppression: Mapping the Intracellular Cascade from Receptor Activation to Inflammasome Disassembly in LPS-Primed Astrocytes",
+      "abstract": "Focus: Users asked about 'Identify the intracellular signaling cascade between α2-AR activation and NLRP3 inflammasome suppression using selective pathway inhibitors (PKA inhibitor H-89, PI3K inhibitor LY294002, NF-κB inhibitor BAY11-7082) in the LPS-treated astrocyte model, combined with NLRP3 assembly imaging to determine whether α2-AR signaling prevents inflammasome nucleation or disassembles existing complexes.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-2-ar-nlrp3-suppression-mapping-the-intracellular-cascade.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2414,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
