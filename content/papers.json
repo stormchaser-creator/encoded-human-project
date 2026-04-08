@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T01:00:00.706Z",
-  "total": 677,
+  "generated": "2026-04-08T02:00:00.750Z",
+  "total": 678,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14571,6 +14571,28 @@
       "density": "body",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-citta-vritti-nirodha-as-neurological-noise-reduction-patanj",
+      "title": "Citta-Vritti-Nirodha as Neurological Noise Reduction: Patanjali's Eight Limbs as a Hierarchical Control System for Consciousness",
+      "abstract": "Focus: Users asked about 'Patanjali eight limbs ashtanga yoga sutras citta vritti nirodha' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-citta-vritti-nirodha-as-neurological-noise-reduction-patanj.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2582,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis",
+        "restoration",
+        "elimination"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
