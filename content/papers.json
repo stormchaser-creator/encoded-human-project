@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T18:00:00.760Z",
-  "total": 692,
+  "generated": "2026-04-08T19:00:00.675Z",
+  "total": 693,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14898,6 +14898,27 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-lipid-dysregulation-as-a-spatiotemporal-cascade-in-alzheimer",
+      "title": "Lipid Dysregulation as a Spatiotemporal Cascade in Alzheimer's Disease: From Molecular Signatures to Regional Brain Steatosis",
+      "abstract": "Focus: 'Lipid profiles in the amygdala and frontal cortex could serve as potential biomarkers for Alzheimer's Disease progression and provide insight into neurodegenerative mechanisms.' has 10 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-lipid-dysregulation-as-a-spatiotemporal-cascade-in-alzheimer.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2316,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
