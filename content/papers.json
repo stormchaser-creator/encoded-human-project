@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T22:00:00.652Z",
-  "total": 696,
+  "generated": "2026-04-08T23:00:00.788Z",
+  "total": 697,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14982,6 +14982,27 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-rf-1-as-the-master-context-gatekeeper-how-competitive-exclu",
+      "title": "RF-1 as the Master Context Gatekeeper: How Competitive Exclusion Shapes the Genetic Code's Plasticity",
+      "abstract": "Focus: 'The RFzero-iy cell-free system eliminated codon context effects observed in wild-type E. coli, allowing efficient UAG reassignment regardless of neighboring codon sequences.' has 6 cross-references — high connectivity suggests unexplored synthesis Confidence: high",
+      "filename": "pearl-research-rf-1-as-the-master-context-gatekeeper-how-competitive-exclu.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2687,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
