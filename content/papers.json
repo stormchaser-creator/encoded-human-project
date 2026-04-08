@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T00:00:00.609Z",
-  "total": 676,
+  "generated": "2026-04-08T01:00:00.706Z",
+  "total": 677,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14551,6 +14551,26 @@
       "operations": [
         "regulation",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-orexin-fragment-detection-in-narcolepsy-type-2-and-idiopathi",
+      "title": "Orexin Fragment Detection in Narcolepsy Type 2 and Idiopathic Hypersomnia CSF: A Feasibility Framework for High-Sensitivity Mass Spectrometry and Ultradian Oscillation Investigation",
+      "abstract": "Focus: Users asked about 'Design a pilot feasibility study using existing NT2 and IH biobank CSF samples with high-sensitivity targeted mass spectrometry panels covering OX-A, OX-B, and at least 4 known processing fragments, co-measured with IL-10, melatonin, and adenosine markers. Establish the detection floor for minor species before committing to a longitudinal design. Simultaneously, run a systematic review of ultradian orexin oscillation evidence in animal models to determine whether the oscillatory hypothesis warrants a dedicated high-frequency sampling arm.' but Pearl couldn't ground th",
+      "filename": "pearl-research-orexin-fragment-detection-in-narcolepsy-type-2-and-idiopathi.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2685,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
