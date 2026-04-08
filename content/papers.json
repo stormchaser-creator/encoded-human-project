@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T13:00:00.667Z",
-  "total": 687,
+  "generated": "2026-04-08T14:00:00.669Z",
+  "total": 688,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14790,6 +14790,27 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-vitamin-d-metabolic-flux-vdr-genotype-and-glycemic-dysregu",
+      "title": "Vitamin D Metabolic Flux, VDR Genotype, and Glycemic Dysregulation in Cystic Fibrosis: A Three-Way Interaction Hypothesis for Explaining Missing Variance in CF-Related Diabetes",
+      "abstract": "Focus: Users asked about 'A prospective pharmacokinetic sub-study within an existing CF vitamin D trial cohort measuring: (1) 25(OH)D, 1,25(OH)2D, AND 24,25(OH)2D at baseline, 3 months, and 6 months to calculate the vitamin D metabolite ratio (VMR = 25(OH)D:24,25(OH)2D) as a proxy for CYP24A1 activity; (2) VDR genotyping for FokI, BsmI, TaqI; (3) continuous glucose monitoring data stratified by pulmonary exacerbation count; then testing whether the interaction term VMR × VDR_genotype × exacerbation_frequency predicts glycemic response, with the hypothesis that this three-way interaction explai",
+      "filename": "pearl-research-vitamin-d-metabolic-flux-vdr-genotype-and-glycemic-dysregu.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2313,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
