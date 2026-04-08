@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T20:00:00.686Z",
-  "total": 694,
+  "generated": "2026-04-08T21:00:00.625Z",
+  "total": 695,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14937,6 +14937,26 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-temporal-ordering-of-lipid-dysregulation-and-amyloid-accumul",
+      "title": "Temporal Ordering of Lipid Dysregulation and Amyloid Accumulation: Feasibility of Secondary Analysis in Existing Cohorts and 7T MRS Detectability Thresholds",
+      "abstract": "Focus: Users asked about 'Search for existing cohort studies (ADNI, PREVENT-AD, FINGER) that have stored blood samples with lipidomic data AND amyloid/tau PET AND gut microbiome data — even if not designed for this question, a secondary analysis testing temporal ordering of LPE 22:6 decline vs amyloid PET positivity would provide critical feasibility data before designing a de novo longitudinal study. Simultaneously, pilot 7T MRS in 20 APOE4 carriers vs 20 APOE3 homozygotes aged 45-55 to establish MRS detectability thresholds for amygdala phospholipid quantification.' but Pearl couldn't ground",
+      "filename": "pearl-research-temporal-ordering-of-lipid-dysregulation-and-amyloid-accumul.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2711,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
