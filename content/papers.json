@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T19:00:00.675Z",
-  "total": 693,
+  "generated": "2026-04-08T20:00:00.686Z",
+  "total": 694,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14911,6 +14911,27 @@
       "filename": "pearl-research-lipid-dysregulation-as-a-spatiotemporal-cascade-in-alzheimer.md",
       "fileDate": "2026-04-08",
       "wordCount": 2316,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-lipid-cascade-temporality-in-alzheimers-preclinical-states",
+      "title": "Lipid Cascade Temporality in Alzheimer's Preclinical States: A Multi-Modal Hypothesis Framework for MRS-Lipidomics-Microbiome Convergence",
+      "abstract": "Focus: Users asked about 'A longitudinal multi-modal study pairing serial MRS (amygdala/frontal cortex lipid quantification), blood lipidomics (targeting LPE 22:6 [sn-1] and DHA-phospholipid classes), gut microbiome profiling, and established AD biomarkers (amyloid/tau) in pre-clinical and MCI populations, stratified by sex — to establish temporal ordering and identify the earliest intervention window in the lipid dysregulation cascade.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-lipid-cascade-temporality-in-alzheimers-preclinical-states.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2836,
       "type": "research-paper",
       "density": "body",
       "operations": [
