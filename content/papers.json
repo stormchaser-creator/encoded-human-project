@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T17:00:00.690Z",
-  "total": 691,
+  "generated": "2026-04-08T18:00:00.760Z",
+  "total": 692,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14876,6 +14876,28 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-substrate-before-signal-why-shame-requires-somatic-preparat",
+      "title": "Substrate Before Signal: Why Shame Requires Somatic Preparation Before Trauma Processing Can Succeed",
+      "abstract": "Focus: Users asked about 'Direct retrieval from Levine's 'Waking the Tiger' and 'In an Unspoken Voice' for explicit shame references; Fisher's 'Healing the Fragmented Selves of Trauma Survivors' for sequencing logic; EMDR Institute Phase 1-2 protocol documentation; van der Kolk's 'Body Keeps the Score' Chapter 15+ for bottom-up/top-down explicit framework; and a PubMed search on 'shame AND complex PTSD AND treatment sequencing' and 'EMDR resource installation AND shame' for empirical outcome data.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-substrate-before-signal-why-shame-requires-somatic-preparat.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2634,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
