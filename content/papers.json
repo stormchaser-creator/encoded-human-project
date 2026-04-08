@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T15:00:00.744Z",
-  "total": 689,
+  "generated": "2026-04-08T16:00:00.679Z",
+  "total": 690,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14830,6 +14830,28 @@
         "transduction",
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-sequence-or-simultaneity-mapping-convergent-phase-logic-acr",
+      "title": "Sequence or Simultaneity? Mapping Convergent Phase Logic Across Somatic, Shame-Metabolizing, and Presence-Restoring Therapeutic Traditions",
+      "abstract": "Focus: Users asked about 'Investigate the sequencing question: does the evidence support a specific order of operations (somatic regulation → shame metabolism → presence restoration), or does the entry-point vary by individual? Cross-reference with EMDR phase models, IFS protocol structure, and somatic experiencing phase theory to see if a convergent sequence emerges across therapeutic traditions.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-sequence-or-simultaneity-mapping-convergent-phase-logic-acr.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 3257,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
