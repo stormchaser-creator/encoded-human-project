@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T21:00:00.625Z",
-  "total": 695,
+  "generated": "2026-04-08T22:00:00.652Z",
+  "total": 696,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14960,6 +14960,28 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-fidelity-problem-signal-corruption-across-biological-p",
+      "title": "The Fidelity Problem: Signal Corruption Across Biological, Psychological, and Epistemic Systems — A Cross-Density Pattern Analysis",
+      "abstract": "Focus: Users asked about 'Submit a data access request to the ADNI data portal (ida.loni.usc.edu) querying for: (a) targeted lipidomic datasets with LPE/LPC species annotation, (b) subjects with both amyloid PET and longitudinal plasma samples, (c) any gut microbiome 16S or metagenomic data. Simultaneously, conduct a PubMed search for '7T MRS amygdala phospholipid APOE' and '7T MRS medial temporal lobe lipid' to establish the current SNR benchmark in this anatomy. These two actions have near-zero cost and would provide the feasibility signal needed to decide whether to proceed with de novo stu",
+      "filename": "pearl-research-the-fidelity-problem-signal-corruption-across-biological-p.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2637,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
