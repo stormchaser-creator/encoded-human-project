@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T03:00:00.729Z",
-  "total": 678,
+  "generated": "2026-04-08T13:00:00.667Z",
+  "total": 687,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14596,6 +14596,200 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-broken-feedback-loop-how-conflict-zone-poverty-and-ptsd",
+      "title": "The Broken Feedback Loop: How Conflict-Zone Poverty and PTSD Conspire to Derail Glycemic Control",
+      "abstract": "Focus: 'Low socioeconomic status combined with PTSD increases the risk of hyperglycemia in Type 2 diabetes patients.' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-broken-feedback-loop-how-conflict-zone-poverty-and-ptsd.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2370,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-stress-topology-in-conflict-zones-how-material-deprivation",
+      "title": "Stress Topology in Conflict Zones: How Material Deprivation and Psychological Trauma Interact Through Autonomic Dysregulation to Produce Divergent Metabolic Outcomes Across SES Strata",
+      "abstract": "Focus: Users asked about 'A prospective cohort study in conflict-affected populations stratifying by SES tercile while controlling for PTSD severity, measuring diurnal cortisol curves, HbA1c, and medication adherence — with a natural experiment component comparing populations before and after humanitarian aid delivery targeting material needs vs. psychological support.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-stress-topology-in-conflict-zones-how-material-deprivation.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2953,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-relational-quality-as-a-physiological-regulator-hrv-as-the",
+      "title": "Relational Quality as a Physiological Regulator: HRV as the Mediating Bridge Between Humanitarian Aid Delivery and Metabolic-Stress Recovery in Displaced Populations",
+      "abstract": "Focus: Users asked about 'Design a three-arm natural experiment within a prospective cohort in a post-conflict or active-displacement setting: (1) material aid only, (2) psychological support only, (3) combined. Primary biomarkers: diurnal cortisol (4-point saliva collection), HbA1c, RMSSD as HRV proxy for vagal tone. Secondary: medication adherence (pill count + self-report), sleep actigraphy, food security score. Stratify by SES tercile and PTSD severity (PCL-5). Key analysis: mediation model testing whether HRV change at 3 months mediates both cortisol normalization and HbA1c improvement at",
+      "filename": "pearl-research-relational-quality-as-a-physiological-regulator-hrv-as-the.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 3193,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-relational-quality-as-physiological-signal-designing-a-pilo",
+      "title": "Relational Quality as Physiological Signal: Designing a Pilot Instrument-Validation Study for RMSSD Prediction in Humanitarian Delivery Contexts",
+      "abstract": "Focus: Users asked about 'Design a pilot measurement study within an existing humanitarian program to validate a relational quality of delivery instrument (adapted Observer-rated Alliance Scale or Perceived Humanitarian Respect Scale) against same-day RMSSD collected via wearable, before committing to the full three-arm natural experiment. This pilot can test whether relational quality scores predict within-person RMSSD variability across delivery contacts — establishing the measurement architecture needed for the natural experiment's Hypothesis C arm.' but Pearl couldn't ground the answer Con",
+      "filename": "pearl-research-relational-quality-as-physiological-signal-designing-a-pilo.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2651,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-perfectionism-tension-loop-how-psychological-stress-cre",
+      "title": "The Perfectionism-Tension Loop: How Psychological Stress Creates a Self-Reinforcing Pathway to Playing-Related Physical Problems in Drummers",
+      "abstract": "Focus: 'Psychological stress (metronome click stress, perfectionism) and performance pressure increase susceptibility to PRPP development, potentially through increased muscle tension and altered motor con...' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-perfectionism-tension-loop-how-psychological-stress-cre.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2606,
+      "type": "research-paper",
+      "density": "soul",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-metronome-stress-motor-variability-reduction-and-prpp-risk",
+      "title": "Metronome Stress, Motor Variability Reduction, and PRPP Risk in Drummers: A Mixed-Methods Prospective Study Framework",
+      "abstract": "Focus: Users asked about 'Design a prospective mixed-methods study tracking amateur and professional drummers through periods of technique alteration, measuring: (1) self-reported psychological stress and perfectionism scores, (2) kinematic motor variability during metronome and free-tempo practice, (3) HRV as a physiological stress marker, and (4) PRPP symptom onset and severity. This would allow direct testing of whether reduced motor variability under metronome-stress conditions mediates the PRPP risk pathway, and whether stress resilience training preserves protective motor variability.' b",
+      "filename": "pearl-research-metronome-stress-motor-variability-reduction-and-prpp-risk.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2570,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-imprinting-stack-how-genomic-developmental-and-psycho",
+      "title": "The Imprinting Stack: How Genomic, Developmental, and Psychological Encoding Operate as a Single Nested System",
+      "abstract": "Focus: 'Developmental Experience Imprinting' has 9 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-imprinting-stack-how-genomic-developmental-and-psycho.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2414,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-mechanistic-clinical-disconnect-in-vitamin-d-and-glycemi",
+      "title": "The Mechanistic-Clinical Disconnect in Vitamin D and Glycemic Control: Why Molecular Evidence and Trial Outcomes Diverge in Cystic Fibrosis and Beyond",
+      "abstract": "Focus: 'Vitamin D supplementation may not improve glycemic control despite possible effects on insulin resistance, consistent with prior large-scale trials.' has 7 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-mechanistic-clinical-disconnect-in-vitamin-d-and-glycemi.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2538,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-transductive-insufficiency-as-a-unifying-framework-why-cf-p",
+      "title": "Transductive Insufficiency as a Unifying Framework: Why CF Patients May Fail to Convert Vitamin D Exposure into Glycemic Signal — A Pharmacokinetic, Genomic, and Systems Hypothesis",
+      "abstract": "Focus: Users asked about 'A secondary analysis of the CF vitamin D trial stratifying participants by (1) degree of exocrine pancreatic insufficiency, (2) VDR genotype, and (3) frequency/severity of pulmonary exacerbations during the trial period — testing whether any subgroup shows glycemic benefit. Simultaneously, a pharmacokinetic sub-study measuring the ratio of 25(OH)D to its catabolites (24,25(OH)2D) to determine whether CF patients have accelerated vitamin D catabolism that reduces effective exposure despite high supplementation doses.' but Pearl couldn't ground the answer Confidence: lo",
+      "filename": "pearl-research-transductive-insufficiency-as-a-unifying-framework-why-cf-p.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2593,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "transduction",
+        "regulation",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
