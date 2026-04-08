@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T16:00:00.679Z",
-  "total": 690,
+  "generated": "2026-04-08T17:00:00.690Z",
+  "total": 691,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14852,6 +14852,27 @@
         "regulation",
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-sequencing-as-architecture-phase-logic-in-trauma-processing",
+      "title": "Sequencing as Architecture: Phase Logic in Trauma Processing and the Shame-Discharge Problem",
+      "abstract": "Focus: Users asked about 'Direct literature review of: (1) Levine's SE phase model (titration, pendulation, discharge, integration) — specifically whether shame is addressed before or after somatic discharge; (2) Fisher's IFS-trauma integration work on sequencing Self energy access vs. somatic stabilization; (3) EMDR phase 1-2 resource installation as potential shame-regulation interface; (4) van der Kolk's 'body keeps the score' sequencing logic for bottom-up vs. top-down interventions; (5) empirical outcome studies comparing sequenced vs. non-sequenced trauma protocols in complex PTSD popula",
+      "filename": "pearl-research-sequencing-as-architecture-phase-logic-in-trauma-processing.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2126,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
