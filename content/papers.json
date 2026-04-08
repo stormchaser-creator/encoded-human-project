@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T23:00:00.707Z",
-  "total": 675,
+  "generated": "2026-04-08T00:00:00.609Z",
+  "total": 676,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14532,6 +14532,27 @@
         "synthesis"
       ],
       "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-activity-coupling-hypothesis-in-orexin-dynamics-inferri",
+      "title": "The Activity-Coupling Hypothesis in Orexin Dynamics: Inferring Longitudinal Metabolic Profiles from Indirect Evidence and Cross-Scale Pattern Recognition",
+      "abstract": "Focus: Users asked about 'A controlled longitudinal mass spectrometry study measuring all orexin species at baseline, after 24h sleep deprivation, and after recovery sleep in three matched cohorts: NT2, IH, and healthy controls. Primary endpoint: rate and magnitude of orexin species upregulation during deprivation and pattern of species ratio shift. This would directly test the activity-coupling hypothesis and generate the first dynamic orexin metabolic profile for each condition.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-activity-coupling-hypothesis-in-orexin-dynamics-inferri.md",
+      "fileDate": "2026-04-07",
+      "wordCount": 2583,
+      "type": "hypothesis",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
