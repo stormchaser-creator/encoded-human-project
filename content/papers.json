@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T14:00:00.669Z",
-  "total": 688,
+  "generated": "2026-04-08T15:00:00.744Z",
+  "total": 689,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -14806,6 +14806,28 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-belief-body-feedback-loop-how-internalized-shame-create",
+      "title": "The Belief-Body Feedback Loop: How Internalized Shame Creates Stable Attractor States and What It Takes to Escape Them",
+      "abstract": "Focus: 'Core Belief Re-evaluation & Healing' has 9 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-belief-body-feedback-loop-how-internalized-shame-create.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2614,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "transduction",
         "regulation",
         "synthesis"
       ],
