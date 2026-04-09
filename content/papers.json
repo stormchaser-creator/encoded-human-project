@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T19:00:00.797Z",
-  "total": 718,
+  "generated": "2026-04-09T20:00:00.679Z",
+  "total": 719,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15443,6 +15443,27 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-sirt1-wrn-atr-regulatory-triad-a-dual-gate-control-syst",
+      "title": "The SIRT1-WRN-ATR Regulatory Triad: A Dual-Gate Control System for HPV Replication Fidelity and Viral Genome Stability",
+      "abstract": "Focus: 'ATR phosphorylation of WRN during HPV replication activates WRN function while simultaneously marking it for proteasomal degradation, regulating WRN levels during viral replication.' has 9 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-sirt1-wrn-atr-regulatory-triad-a-dual-gate-control-syst.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2355,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
