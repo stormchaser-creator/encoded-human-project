@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T10:00:00.735Z",
-  "total": 709,
+  "generated": "2026-04-09T11:00:00.669Z",
+  "total": 710,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15251,6 +15251,28 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-convergence-paradox-high-performance-ai-meets-structura",
+      "title": "The Convergence Paradox: High-Performance AI Meets Structural Barriers in Diabetic Retinopathy Screening",
+      "abstract": "Focus: 'AI-based systems integrated with telemedicine enhance accessibility by enabling remote screening through portable devices and smartphone-based imaging, particularly benefiting underserved regions.' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-convergence-paradox-high-performance-ai-meets-structura.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2469,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
