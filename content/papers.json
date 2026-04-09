@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T11:00:00.669Z",
-  "total": 710,
+  "generated": "2026-04-09T12:00:00.636Z",
+  "total": 711,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15275,6 +15275,27 @@
         "defense"
       ],
       "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-vegf-as-a-temporally-bounded-control-node-the-ephemeral-pro",
+      "title": "VEGF as a Temporally-Bounded Control Node: The Ephemeral Protective Window and the Problem of Anti-VEGF Resistance in Retinal Vascular Disease",
+      "abstract": "Focus: 'VEGF is the key molecular mediator of macular edema and ocular neovascularization due to retinal vascular diseases.' has 30 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-vegf-as-a-temporally-bounded-control-node-the-ephemeral-pro.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2361,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "fact",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
