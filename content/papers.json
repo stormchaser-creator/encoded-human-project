@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T12:00:00.636Z",
-  "total": 711,
+  "generated": "2026-04-09T13:00:00.673Z",
+  "total": 712,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15296,6 +15296,27 @@
         "defense"
       ],
       "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-temporal-gating-in-biological-protection-pharmacokinetic-de",
+      "title": "Temporal Gating in Biological Protection: Pharmacokinetic Decay vs. Intrinsic Oscillation as the Architecture of the 4-Week PDR Protective Window",
+      "abstract": "Focus: Users asked about 'A cross-agent comparative study tracking the temporal decay of anti-PDR protection using agents with well-characterized and divergent vitreous half-lives (ranibizumab ~9 days vs. bevacizumab ~20 days), combined with intravitreal cytokine profiling at baseline, 2 weeks, 4 weeks, and 8 weeks post-injection — to distinguish pharmacokinetic re-equilibration from intrinsic biological oscillation as the driver of the 4-week protective window.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-temporal-gating-in-biological-protection-pharmacokinetic-de.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2299,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
