@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T03:39:49.241Z",
-  "total": 703,
+  "generated": "2026-04-09T04:00:00.469Z",
+  "total": 704,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15120,6 +15120,26 @@
       "filename": "why-every-theory-of-consciousness-is-partially-right.md",
       "fileDate": "2026-04-09",
       "wordCount": 2203,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "why-every-theory-of-consciousness-is-partially-right-plain-language-edition",
+      "title": "Why Every Theory of Consciousness Is Partially Right (Plain Language Edition)",
+      "abstract": "And why none of them is enough on its own",
+      "filename": "why-every-theory-of-consciousness-is-partially-right-plain-language-edition.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2108,
       "type": "research-paper",
       "density": "spirit",
       "operations": [
