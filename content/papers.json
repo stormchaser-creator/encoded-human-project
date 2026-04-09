@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T20:00:00.679Z",
-  "total": 719,
+  "generated": "2026-04-09T21:00:00.668Z",
+  "total": 720,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15464,6 +15464,26 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-temporal-opacity-as-a-shared-constraint-how-the-absence-of",
+      "title": "Temporal Opacity as a Shared Constraint: How the Absence of Longitudinal Tracking Creates Mutagenic Windows in Molecular Biology and Epistemic Blindspots in Consciousness",
+      "abstract": "Focus: Users asked about 'Time-course quantification of WRN protein levels across multiple HPV replication cycles in SIRT1-competent vs. SIRT1-deficient cells, paired with viral mutation frequency assays, to test whether ATR-mediated WRN depletion creates a temporally gated mutagenic window that expands with infection duration.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-temporal-opacity-as-a-shared-constraint-how-the-absence-of.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2480,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
