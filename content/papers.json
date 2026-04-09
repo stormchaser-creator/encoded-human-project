@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T14:00:00.756Z",
-  "total": 713,
+  "generated": "2026-04-09T15:00:00.687Z",
+  "total": 714,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15335,6 +15335,26 @@
       "density": "body",
       "operations": [
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-age-stratified-divergence-in-pandemic-era-diabetic-amput",
+      "title": "The Age-Stratified Divergence in Pandemic-Era Diabetic Amputations: Vulnerability Windows, Healthcare Disruption, and the Compounding Burden of Midlife Diabetes",
+      "abstract": "Focus: 'Individuals aged 45-64 years with type 2 diabetes showed a significant increase in LEA rates (p=0.013), while those aged 18-44 experienced a decrease (p=0.017).' has 10 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-age-stratified-divergence-in-pandemic-era-diabetic-amput.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2611,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
