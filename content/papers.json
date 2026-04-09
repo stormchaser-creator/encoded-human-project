@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T16:00:00.698Z",
-  "total": 716,
+  "generated": "2026-04-09T17:00:00.671Z",
+  "total": 717,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15397,6 +15397,28 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-close-of-session-problem-how-consciousness-completes-it",
+      "title": "The Close-of-Session Problem: How Consciousness Completes Itself Across Density Layers",
+      "abstract": "Focus: Users asked about 'close of session protocol' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-close-of-session-problem-how-consciousness-completes-it.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2584,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "reception",
+        "transduction",
+        "regulation"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
