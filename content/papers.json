@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T06:00:00.657Z",
-  "total": 705,
+  "generated": "2026-04-09T07:00:00.726Z",
+  "total": 706,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15165,6 +15165,27 @@
       "operations": [
         "conduction",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-vagal-tone-as-a-biological-prior-how-rsa-biofeedback-may-re",
+      "title": "Vagal Tone as a Biological Prior: How RSA Biofeedback May Reshape ACC-Insula Error-Monitoring and Belief-Updating Through Coupled Oscillator Dynamics, Methylation Gating, and Cross-Scale Coherence",
+      "abstract": "Focus: Users asked about 'Design a within-subject study combining RSA biofeedback (to experimentally modulate vagal tone) with a validated confirmation bias paradigm (e.g., Wason selection task variants with belief-congruent vs. incongruent information), measuring simultaneously: HF-HRV, dACC BOLD signal (fMRI) or theta power (EEG), insula activation, and right hemisphere engagement — testing whether vagal tone elevation produces measurable shifts in ACC-insula error-monitoring and belief-updating rates, with methylation markers (SAMe/SAH ratio) as covariates.' but Pearl couldn't ground the an",
+      "filename": "pearl-research-vagal-tone-as-a-biological-prior-how-rsa-biofeedback-may-re.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2461,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
