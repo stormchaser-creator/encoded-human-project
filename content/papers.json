@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T05:00:00.688Z",
-  "total": 704,
+  "generated": "2026-04-09T06:00:00.657Z",
+  "total": 705,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15144,6 +15144,27 @@
       "density": "spirit",
       "operations": [
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-falsification-prior-network-acc-insula-right-hemisphere",
+      "title": "The Falsification-Prior Network: ACC-Insula-Right Hemisphere Circuits as the Neural Substrate of Epistemic Integrity, and Vagal Tone as the Measurable Bridge Between Physiological Coherence and Soul-Layer Integration",
+      "abstract": "Focus: Users asked about 'Map the specific neural circuits that implement falsification-prior processing — beginning with anterior cingulate cortex (conflict detection), right hemisphere anomaly detection, and insula (interoceptive integration) — and test whether these circuits are systematically underactivated in conditions characterized by confirmation bias, narrative rigidity, or confabulation. Cross-reference with vagal tone as a measurable proxy for 'soul-layer integration' across distributed nodes.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-the-falsification-prior-network-acc-insula-right-hemisphere.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2579,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
