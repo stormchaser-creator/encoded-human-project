@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T21:00:00.668Z",
-  "total": 720,
+  "generated": "2026-04-09T22:00:00.661Z",
+  "total": 721,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15481,6 +15481,27 @@
       "density": "spirit",
       "operations": [
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-compounding-regulatory-collapse-how-disrupted-feedback-loop",
+      "title": "Compounding Regulatory Collapse: How Disrupted Feedback Loops at Cellular, Psychic, and Ontological Scales Generate Nonlinear Accumulation of Damage — A Framework for Designing Longitudinal Mutagenesis Protocols",
+      "abstract": "Focus: Users asked about 'Design a staged experimental protocol: (1) Establish baseline WRN protein levels by Western blot in cervical epithelial cells (SIRT1-WT vs. SIRT1-KO or SIRT1 inhibitor-treated) at defined time points across 10 HPV pseudovirus replication cycles. (2) Perform viral deep sequencing (>10,000x coverage) at each cycle to quantify mutation frequency and spectrum. (3) Apply ATR inhibitor as positive control to test whether ATR inhibition rescues WRN levels and reduces mutation rate in SIRT1-deficient conditions. (4) Fit mutation frequency vs. cycle number curves to both linea",
+      "filename": "pearl-research-compounding-regulatory-collapse-how-disrupted-feedback-loop.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2657,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
