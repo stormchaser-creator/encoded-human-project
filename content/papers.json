@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T17:00:00.671Z",
-  "total": 717,
+  "generated": "2026-04-09T18:00:00.742Z",
+  "total": 718,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15419,6 +15419,27 @@
         "reception",
         "transduction",
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-nonlinearity-data-integrity-and-the-shape-of-preventive-si",
+      "title": "Nonlinearity, Data Integrity, and the Shape of Preventive Signal: A Pilot Framework for EHR-Based Diabetic Foot Care Analysis (2016–2023)",
+      "abstract": "Focus: Users asked about 'Conduct a pilot analysis on a single health system's EHR data (2016-2023) to: (a) validate the care engagement frequency distribution, (b) test for nonlinearity in the foot-check frequency → LEA risk relationship using restricted cubic splines before committing to the full Cox regression design, and (c) assess COVID-period data completeness and telehealth visit coding consistency across the study window.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-nonlinearity-data-integrity-and-the-shape-of-preventive-si.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 3115,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
