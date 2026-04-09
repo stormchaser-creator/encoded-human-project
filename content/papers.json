@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T07:00:00.726Z",
-  "total": 706,
+  "generated": "2026-04-09T08:00:00.629Z",
+  "total": 707,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15184,6 +15184,28 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-ans-as-a-continuous-control-system-from-binary-switch-t",
+      "title": "The ANS as a Continuous Control System: From Binary Switch to Hierarchical Dial Network with Phase-Transition Thresholds",
+      "abstract": "Focus: 'Continuous vs. Binary Autonomic Nervous System Activation' has 15 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-the-ans-as-a-continuous-control-system-from-binary-switch-t.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2235,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
         "regulation",
         "synthesis"
       ],
