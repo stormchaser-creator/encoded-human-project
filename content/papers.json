@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T00:00:00.624Z",
-  "total": 698,
+  "generated": "2026-04-09T01:00:00.684Z",
+  "total": 699,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15019,6 +15019,27 @@
       "type": "research-paper",
       "density": "spirit",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-quantum-coherence-cytoskeletal-geometry-and-the-transducti",
+      "title": "Quantum Coherence, Cytoskeletal Geometry, and the Transduction of Consciousness: A Multi-Scale Hypothesis Framework",
+      "abstract": "Focus: Users asked about 'Search for experimental literature on: (1) quantum coherence in tubulin/microtubules at physiological temperatures — particularly Craddock, Hameroff, Penrose 2017 and subsequent; (2) isotope effects on microtubule dynamics and proton tunneling in ordered water; (3) anesthetic binding sites on tubulin and consciousness abolition; (4) any first-person neuroscience studies correlating meditative depth with neural biomarkers potentially linked to cytoskeletal coherence.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-quantum-coherence-cytoskeletal-geometry-and-the-transducti.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2427,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "transduction",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
