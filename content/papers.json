@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T09:00:00.621Z",
-  "total": 708,
+  "generated": "2026-04-09T10:00:00.735Z",
+  "total": 709,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15230,6 +15230,27 @@
         "regulation",
         "defense",
         "restoration"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-attractor-depth-as-the-master-variable-why-ace-score-base",
+      "title": "Attractor Depth as the Master Variable: Why ACE Score × Baseline HRV Complexity May Predict Which Interventions Produce Durable Biological Shifts vs. Acute Perturbations",
+      "abstract": "Focus: Users asked about 'Design a 90-day longitudinal study in two populations (regulated and dysregulated, stratified by ACE score) comparing breathwork, cold exposure, somatic therapy, and MDMA-assisted therapy on a battery of: daily HRV (RMSSD + multiscale entropy), weekly salivary cortisol/DHEA ratio, monthly inflammatory panel (IL-6, TNF-α, CRP), and single pre/post epigenetic age assessment (GrimAge clock). Primary outcome: which interventions show acute-only vs. durable-shift signatures, and whether this stratifies by intervention type or by individual attractor depth (ACE score × base",
+      "filename": "pearl-research-attractor-depth-as-the-master-variable-why-ace-score-base.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2717,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
