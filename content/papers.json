@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T22:00:00.661Z",
-  "total": 721,
+  "generated": "2026-04-09T23:00:00.737Z",
+  "total": 722,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15502,6 +15502,27 @@
       "operations": [
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-phase-transitions-in-buffered-systems-when-compensatory-cap",
+      "title": "Phase Transitions in Buffered Systems: When Compensatory Capacity Collapses Across Biological, Psychological, and Spiritual Scales",
+      "abstract": "Focus: Users asked about 'Prioritize cycle 3-4 sampling density in the Western blot protocol — if a phase transition exists, it likely occurs in early-mid replication when replication stress first exceeds WRN's buffering capacity. Add mutation spectrum COSMIC signature analysis to the deep sequencing pipeline to test Hypothesis C without additional cost. Include circadian phase normalization in cell culture protocol (consistent time-of-day for all harvests). Consider adding a WRN overexpression rescue arm alongside the ATR inhibitor arm to distinguish WRN-specific from checkpoint-general effec",
+      "filename": "pearl-research-phase-transitions-in-buffered-systems-when-compensatory-cap.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2587,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis",
+        "defense"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
