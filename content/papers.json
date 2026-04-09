@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T08:00:00.629Z",
-  "total": 707,
+  "generated": "2026-04-09T09:00:00.621Z",
+  "total": 708,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15208,6 +15208,28 @@
         "conduction",
         "regulation",
         "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-barrier-reduction-vs-tonal-shift-a-phase-transition-framew",
+      "title": "Barrier Reduction vs. Tonal Shift: A Phase-Transition Framework for Mapping Therapeutic Interventions Across the Autonomic Landscape",
+      "abstract": "Focus: Users asked about 'Map therapeutic interventions (breathwork, somatic therapy, cold exposure, social engagement, psychedelics) onto the phase-transition model: which ones reduce transition barriers vs. which shift baseline tone within a state? This would require combining HRV data, cortisol/DHEA ratios, and inflammatory markers before/during/after interventions in both regulated and dysregulated populations.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-barrier-reduction-vs-tonal-shift-a-phase-transition-framew.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2432,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "defense",
+        "restoration"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
