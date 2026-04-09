@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T13:00:00.673Z",
-  "total": 712,
+  "generated": "2026-04-09T14:00:00.756Z",
+  "total": 713,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15315,6 +15315,27 @@
       "operations": [
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-vegf-oscillatory-dynamics-in-pdr-pharmacokinetic-primacy-vs",
+      "title": "VEGF Oscillatory Dynamics in PDR: Pharmacokinetic Primacy vs. Cytokine-Driven Re-elevation — Designing the Discriminating Experiment",
+      "abstract": "Focus: Users asked about 'Design a prospective pilot study in treatment-naive PDR patients randomized to ranibizumab vs. bevacizumab with vitreous sampling (via anterior chamber aqueous as proxy) and serum cytokine profiling at baseline, 2w, 4w, and 8w. Primary endpoint: time-to-VEGF-re-elevation above baseline × 1.5, compared between agents. Secondary: phase relationship between drug concentration (modeled from PK) and cytokine re-elevation. This directly tests pharmacokinetic vs. oscillatory primacy without requiring additional mechanistic assumptions.' but Pearl couldn't ground the answer C",
+      "filename": "pearl-research-vegf-oscillatory-dynamics-in-pdr-pharmacokinetic-primacy-vs.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2879,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
