@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T23:00:00.788Z",
-  "total": 697,
+  "generated": "2026-04-09T00:00:00.624Z",
+  "total": 698,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15000,6 +15000,26 @@
       "operations": [
         "synthesis",
         "elimination"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-quantum-coherence-in-microtubules-as-a-bridge-between-neural",
+      "title": "Quantum Coherence in Microtubules as a Bridge Between Neural Information Processing and Conscious Experience: From Biophysics to the Purity Gradient of Awareness",
+      "abstract": "Focus: Users asked about 'microtubules consciousness quantum' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-quantum-coherence-in-microtubules-as-a-bridge-between-neural.md",
+      "fileDate": "2026-04-08",
+      "wordCount": 2472,
+      "type": "research-paper",
+      "density": "spirit",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
