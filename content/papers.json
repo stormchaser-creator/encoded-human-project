@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T15:00:00.687Z",
-  "total": 714,
+  "generated": "2026-04-09T16:00:00.698Z",
+  "total": 716,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15355,6 +15355,47 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-care-engagement-frequency-disease-duration-and-socioeconom",
+      "title": "Care Engagement Frequency, Disease Duration, and Socioeconomic Stratification as Determinants of Lower Extremity Amputation Risk in Diabetic Cohorts: A Framework for Retrospective EHR Analysis",
+      "abstract": "Focus: Users asked about 'Retrospective EHR cohort analysis stratifying diabetic patients who underwent LEA 2018-2023 by: (1) age band in 5-year increments, (2) diabetes duration at LEA date, (3) annual foot check frequency in the 24 months pre-LEA, (4) HbA1c measurement frequency in the 24 months pre-LEA, (5) SES proxy (zip-code ADI score), (6) COVID period (pre/during/post). Primary analysis: Cox regression with care engagement frequency × COVID period interaction term, controlling for disease duration and SES. Secondary analysis: decompose the 45-64 band into disease duration quartiles to t",
+      "filename": "pearl-research-care-engagement-frequency-disease-duration-and-socioeconom.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2844,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-systems-architecture-failure-vs-biological-threshold-decom",
+      "title": "Systems Architecture Failure vs. Biological Threshold: Decomposing the 45-64 LEA Surge Through Information Loss, Aggregation Artifacts, and Care Discontinuity",
+      "abstract": "Focus: Users asked about 'A retrospective cohort analysis stratifying LEA outcomes by age band, disease duration, socioeconomic status, and healthcare engagement frequency (foot check intervals, HbA1c monitoring frequency) in the pre-, during-, and post-COVID periods would directly test whether disruption of preventive care touchpoints, not biological age alone, predicts the 45-64 LEA surge. This would isolate whether 'compression zone vulnerability' is primarily a systems architecture failure or a biological threshold phenomenon.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-systems-architecture-failure-vs-biological-threshold-decom.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2378,
+      "type": "framework",
+      "density": "body",
+      "operations": [
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
