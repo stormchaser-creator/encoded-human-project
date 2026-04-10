@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T04:00:00.680Z",
-  "total": 727,
+  "generated": "2026-04-10T05:00:00.692Z",
+  "total": 728,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15625,6 +15625,27 @@
       "type": "research-paper",
       "density": "body",
       "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-phenotypic-assortment-as-autonomic-attunement-can-physical",
+      "title": "Phenotypic Assortment as Autonomic Attunement: Can Physical Similarity Between Partners Predict Physiological Entrainment Efficiency?",
+      "abstract": "Focus: Users asked about 'Search for original assortative mating studies on physical trait clusters — specifically Griffiths & Kunkel type research or Nettle/Pollet on phenotypic assortment — to verify the Sapolsky claim and identify which traits show the strongest coupling. Then cross-reference with HRV synchrony literature in couples (e.g., Feldman's work on physiological synchrony) to map whether physical similarity predicts neural/autonomic entrainment efficiency.' but Pearl couldn't ground the answer Confidence: low",
+      "filename": "pearl-research-phenotypic-assortment-as-autonomic-attunement-can-physical.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2759,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
