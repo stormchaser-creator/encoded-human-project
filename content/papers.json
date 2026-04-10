@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T08:00:00.691Z",
-  "total": 731,
+  "generated": "2026-04-10T09:00:00.654Z",
+  "total": 732,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15708,6 +15708,26 @@
       "density": "body",
       "operations": [
         "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-autonomic-coupling-in-dyadic-interaction-a-gap-analysis-of",
+      "title": "Autonomic Coupling in Dyadic Interaction: A Gap Analysis of Sympathetic-Parasympathetic Differentiation in Levenson & Gottman (1983) and Feldman (2007)",
+      "abstract": "Focus: Users asked about 'Direct primary source review of Levenson & Gottman (1983) — specifically: (1) Was the interaction condition conflict-only or multi-condition? (2) Were sympathetic and parasympathetic indices measured separately? (3) Was RSA/HRV reported as a variable? Then cross-reference Feldman (2007) for: (1) Were autonomic branches distinguished in synchrony measurement? (2) Was maternal RSA a predictor of synchrony quality? This two-paper review would either ground Hypothesis A/B at Tier 1 or require abandoning the sympathetic-coupling reconciliation in favor of a more complex me",
+      "filename": "pearl-research-autonomic-coupling-in-dyadic-interaction-a-gap-analysis-of.md",
+      "fileDate": "2026-04-10",
+      "wordCount": 2364,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
