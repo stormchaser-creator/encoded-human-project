@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T02:00:00.692Z",
-  "total": 725,
+  "generated": "2026-04-10T03:00:00.746Z",
+  "total": 726,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15587,6 +15587,28 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-metabolic-basin-switching-coupling-ratio-proxies-and-homa",
+      "title": "Metabolic Basin-Switching, Coupling Ratio Proxies, and HOMA-IR Stratification: A Cross-Scale Hypothesis Framework for PET-CT Study Design",
+      "abstract": "Focus: Users asked about 'Conduct a systematic review and meta-analysis of existing PET-CT studies in metabolic cohorts to identify any coupling ratio proxies used in prior work, establish effect size estimates for power calculations, and determine whether HOMA-IR tertile stratification has been used as a PET-CT enrichment strategy. Simultaneously, analyze UK Biobank imaging extension data for HOMA-IR distribution shape to test the basin-switching hypothesis before committing to new recruitment.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-metabolic-basin-switching-coupling-ratio-proxies-and-homa.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2538,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
