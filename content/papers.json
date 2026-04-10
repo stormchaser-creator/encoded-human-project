@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T06:00:00.686Z",
-  "total": 729,
+  "generated": "2026-04-10T07:00:00.862Z",
+  "total": 730,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15670,6 +15670,27 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-physiological-attunement-as-evolutionary-infrastructure-aut",
+      "title": "Physiological Attunement as Evolutionary Infrastructure: Autonomic Compatibility, Cooperative Breeding, and the Biological Substrate of Soul-Spirit Connection",
+      "abstract": "Focus: Users asked about 'Source Nettle & Clegg 2006 (Personality and Individual Differences), Feldman 2007 (Developmental Psychobiology), and Levenson & Gottman 1983 (Journal of Personality and Social Psychology) directly. Cross-reference with Porges polyvagal theory on autonomic compatibility in social engagement, and with Hrdy's work on cooperative breeding and physiological attunement as evolutionary substrate.' but Pearl couldn't ground the answer Confidence: medium",
+      "filename": "pearl-research-physiological-attunement-as-evolutionary-infrastructure-aut.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2368,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "conduction",
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 1,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
