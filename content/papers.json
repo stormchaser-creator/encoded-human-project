@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T05:00:00.692Z",
-  "total": 728,
+  "generated": "2026-04-10T06:00:00.686Z",
+  "total": 729,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15646,6 +15646,26 @@
       "density": "body",
       "operations": [
         "regulation",
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-synchrony-gap-why-pearl-cannot-retrieve-the-assortative",
+      "title": "The Synchrony Gap: Why Pearl Cannot Retrieve the Assortative Mating-Physiological Coupling Literature and What the Available Evidence Suggests Instead",
+      "abstract": "Focus: Users asked about 'Retrieve directly: (1) Nettle & Clegg 2006 on physical assortative mating in British cohort; (2) Griffiths & Kunkel on phenotypic trait clustering in couples; (3) Feldman 2007 and subsequent work on physiological synchrony as relational substrate; (4) Levenson & Gottman on autonomic coupling in married couples; (5) the specific Sapolsky text/lecture where assortative mating on physical traits is claimed. Cross-reference with epigenetic literature on whether hormonal developmental environments produce correlated phenotypic-autonomic profiles.' but Pearl couldn't ground",
+      "filename": "pearl-research-the-synchrony-gap-why-pearl-cannot-retrieve-the-assortative.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2430,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
         "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
