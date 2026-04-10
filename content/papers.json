@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T23:00:00.737Z",
-  "total": 722,
+  "generated": "2026-04-10T00:00:00.677Z",
+  "total": 723,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15523,6 +15523,27 @@
       "operations": [
         "synthesis",
         "defense"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-suvrhu-coupling-as-a-unified-metabolic-readout-adipose-tis",
+      "title": "SUVR–HU Coupling as a Unified Metabolic Readout: Adipose Tissue as a Thermodynamic and Informational Sensor of Systemic Health",
+      "abstract": "Focus: 'SUVR and HU are positively correlated in both VAT and SAT at baseline and follow-up.' has 8 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-suvrhu-coupling-as-a-unified-metabolic-readout-adipose-tis.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2470,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation",
+        "synthesis"
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
