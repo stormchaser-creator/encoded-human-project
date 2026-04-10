@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T01:00:00.717Z",
-  "total": 724,
+  "generated": "2026-04-10T02:00:00.692Z",
+  "total": 725,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15566,6 +15566,26 @@
         "synthesis"
       ],
       "epistemicCeiling": "fact",
+      "epistemicTier": 2,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-the-coupling-ratio-as-a-metabolic-attractor-soul-and-spirit",
+      "title": "The Coupling Ratio as a Metabolic Attractor: Soul and Spirit Dimensions of a Nested PET-CT Imaging Substudy Design",
+      "abstract": "Focus: Users asked about 'Design a nested imaging substudy within an existing large metabolic cohort (e.g., MESA, UK Biobank imaging extension, or a new recruitment): recruit 500-800 participants with baseline PET-CT, stratified across the HOMA-IR spectrum (tertiles), with comprehensive psychosocial, micronutrient, sleep, and inflammatory biomarker assessment at baseline. Primary endpoint: C-statistic comparison of coupling ratio vs. HOMA-IR vs. HbA1c vs. their combination for 5-year incident metabolic syndrome (as proof-of-concept before 10-year endpoint). Secondary: NRI/IDI analysis within p",
+      "filename": "pearl-research-the-coupling-ratio-as-a-metabolic-attractor-soul-and-spirit.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2819,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
       "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
