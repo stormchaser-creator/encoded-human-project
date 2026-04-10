@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T07:00:00.862Z",
-  "total": 730,
+  "generated": "2026-04-10T08:00:00.691Z",
+  "total": 731,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15691,6 +15691,26 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-sympathetic-coupling-vs-ventral-vagal-resonance-resolving",
+      "title": "Sympathetic Coupling vs. Ventral Vagal Resonance: Resolving the Levenson-Gottman / Feldman Paradox Through Polyvagal-Informed Physiological Linkage Theory",
+      "abstract": "Focus: Users asked about 'Direct review of Levenson & Gottman (1983) to determine whether physiological linkage was measured during conflict specifically (which would explain the dissatisfaction correlation as sympathetic coupling) vs. neutral interaction. Then cross-reference Feldman (2007) to determine whether maternal-infant synchrony measures distinguish between ventral vagal and sympathetic coupling modes. This would either confirm or challenge the polyvagal framework's ability to reconcile these apparently contradictory findings, and would ground the 'vessel quality' hypothesis at tier 1",
+      "filename": "pearl-research-sympathetic-coupling-vs-ventral-vagal-resonance-resolving.md",
+      "fileDate": "2026-04-10",
+      "wordCount": 2647,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "regulation"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
