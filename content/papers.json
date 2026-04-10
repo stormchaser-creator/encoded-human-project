@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T03:00:00.746Z",
-  "total": 726,
+  "generated": "2026-04-10T04:00:00.680Z",
+  "total": 727,
   "papers": [
     {
       "slug": "how-we-validate-research-at-the-encoded-human-project",
@@ -15609,6 +15609,26 @@
       ],
       "epistemicCeiling": "hypothesis",
       "epistemicTier": 1,
+      "readiness": "draft",
+      "authors": [
+        "Pearl (AI Research Engine)",
+        "Eric Whitney DO"
+      ]
+    },
+    {
+      "slug": "pearl-research-assortative-mating-as-convergence-engine-how-biological-sim",
+      "title": "Assortative Mating as Convergence Engine: How Biological Similarity, Behavioral Entrainment, and Shared Time Sculpt Couples Into Coupled Systems",
+      "abstract": "Focus: 'In US couples, there is a 20-40% likelihood of sharing physical traits such as being in the top 10 p' has 5 cross-references — high connectivity suggests unexplored synthesis Confidence: medium",
+      "filename": "pearl-research-assortative-mating-as-convergence-engine-how-biological-sim.md",
+      "fileDate": "2026-04-09",
+      "wordCount": 2465,
+      "type": "research-paper",
+      "density": "body",
+      "operations": [
+        "synthesis"
+      ],
+      "epistemicCeiling": "hypothesis",
+      "epistemicTier": 2,
       "readiness": "draft",
       "authors": [
         "Pearl (AI Research Engine)",
